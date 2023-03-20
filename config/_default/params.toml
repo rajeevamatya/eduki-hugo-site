@@ -65,8 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
-
+footer = "Made available for free by <a class=\"text-muted\" href=\"https://www.myeduki.com/\">Eduki</a>"
 # Feed
 copyRight = "Copyright (c) 2021-2023 Eduki Learning P. Lte."
 
