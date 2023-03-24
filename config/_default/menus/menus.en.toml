@@ -1,12 +1,22 @@
 [[main]]
-  name = "Lessons"
-  url = "/docs/grade-6/fractions/intro-to-fractions/"
+  name = "Grade 6"
+  url = "/docs/arithmetic/fractions/intro-to-fractions/"
   weight = 10
+
+[[main]]
+  name = "Grade 7"
+  url = "/docs/arithmetic/fractions/intro-to-fractions/"
+  weight = 20
+
+[[main]]
+  name = "Grade 8"
+  url = "/docs/arithmetic/fractions/intro-to-fractions/"
+  weight = 30
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 20
+  weight = 90
 
 # [[docs]]
 #   name = "Grade 6"
