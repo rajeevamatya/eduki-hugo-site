@@ -25,11 +25,12 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "https://doks-child-theme.netlify.app/"
+    baseUrl = "https://myeduki.com/"
     sitemapPath = "/sitemap.xml"
     ignorePeriod = 0
     providers = [
       "google",
+      "bing",
       "yandex"
     ]
 

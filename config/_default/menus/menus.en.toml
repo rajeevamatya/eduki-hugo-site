@@ -24,11 +24,11 @@
 #   identifier = "grade-6"
 #   url = "/docs/grade-6/"
   
-  [[docs]]
-  name = "Help"
-  weight = 15
-  identifier = "help"
-  url = "/docs/help/"
+  # [[docs]]
+  # name = "Help"
+  # weight = 15
+  # identifier = "help"
+  # url = "/docs/help/"
 
 
 
