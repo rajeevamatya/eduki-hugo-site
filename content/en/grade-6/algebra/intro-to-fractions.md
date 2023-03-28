@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "introduction"
+    parent: "algebra"
 weight: 110
 toc: true
 ---

@@ -8,7 +8,7 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "help"
+    parent: "geometry"
 weight: 620
 toc: true
 ---
