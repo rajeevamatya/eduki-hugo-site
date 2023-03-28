@@ -1,16 +1,16 @@
 [[main]]
   name = "Grade 6"
-  url = "/docs/arithmetic/fractions/intro-to-fractions/"
+  url = "/grade-6/introduction/welcome/"
   weight = 10
 
 [[main]]
   name = "Grade 7"
-  url = "/docs/arithmetic/fractions/intro-to-fractions/"
+  url = "/grade-7/introduction/welcome/"
   weight = 20
 
 [[main]]
   name = "Grade 8"
-  url = "/docs/arithmetic/fractions/intro-to-fractions/"
+  url = "/grade-8/introduction/welcome/"
   weight = 30
 
 [[main]]
