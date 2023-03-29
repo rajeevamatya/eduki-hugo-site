@@ -1,6 +1,7 @@
 ---
-title : "Grade 7"
-description: "Eduki Math Lessons for Grade 7."
+title : "Grade 8"
+description: "Eduki Math Lessons for Grade 8
+."
 lead: ""
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
