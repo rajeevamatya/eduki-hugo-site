@@ -1,10 +1,10 @@
 ---
-title: "Ratios"
-description: "Ratio and Proportional Reasoning for Grade 6"
+title: "Fraction Multiplication"
+description: "Fraction for Grade 6"
 lead: ""
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
 draft: false
 images: []
-weight: 290
+weight: 75
 ---
