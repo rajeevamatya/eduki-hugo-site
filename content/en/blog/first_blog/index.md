@@ -15,6 +15,11 @@ homepage: false
 ---
 
 ### Hello, **this** is Eduki tech team. We are testing the new Eduki site. 
+Hello, this is Eduki tech team. We are testing the new Eduki site. 
+
+Hello 
+
+
 
 
 Hello, this is Eduki tech team. We are testing the new Eduki site. 
@@ -24,7 +29,8 @@ Hello, this is Eduki tech team. We are testing the new Eduki site.
 
 ![Image](eduki-sample-pic.png "Testing Images")
 
+![Image](eduki-sample-pic.png "Testing Images")
 
-
+![Image](N23.png "Graph")
 
 
