@@ -24,4 +24,7 @@ Hello, this is Eduki tech team. We are testing the new Eduki site.
 
 ![Image](eduki-sample-pic.png "Testing Images")
 
+![Graph](image_0.3.png)
+
+
 
