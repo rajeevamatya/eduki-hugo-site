@@ -17,8 +17,10 @@ homepage: false
 ### Hello, **this** is Eduki tech team. We are testing the new Eduki site. 
 
 
-Hello, **this** is Eduki tech team. We are testing the new Eduki site. 
-
+Hello, this is Eduki tech team. We are testing the new Eduki site. 
+Hello, this is Eduki tech team. We are testing the new Eduki site. 
+Hello, this is Eduki tech team. We are testing the new Eduki site. 
+Hello, this is Eduki tech team. We are testing the new Eduki site. 
 
 ![Image](eduki-sample-pic.png "Testing Images")
 
