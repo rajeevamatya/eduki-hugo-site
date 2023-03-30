@@ -6,7 +6,7 @@ date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
 images: []
-weight: 230
+weight: 55
 toc: true
 ---
 
@@ -18,13 +18,14 @@ In this section, we will be learning to divide multi-digit whole numbers. You al
 You and your friend need to divide 10 candies among the 2 of you. How will you do it? 
 One way is you can start putting 1 candy in your friend’s hand and 1 in yours and repeat the process until all the candies are finished. 
 
-N34.Gif.gif
+N34_Gif.gif
 
 Are any candies remaining at the end? No. 
 10 candies can be evenly divided between the two of you without any remainder or extra candy remaining. When 10 is divided into 2 groups, we get 5. If you are used to dividing basic numbers, you can directly get two groups of 5 candies.  
 N35.png
 
 When using the standard algorithm of long division, the division 10 ÷ 2 would look like: 
+
 N36.png
 
 We want to know how many 2 make 10 or almost 10 (if any number of 2s cannot make exactly 10). Here, five 2s make 10. As we can see in the image, 5 is the quotient, 2 is the divisor, 10 is the dividend and the remainder here is 0.

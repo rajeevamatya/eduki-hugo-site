@@ -6,7 +6,7 @@ date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
 images: []
-weight: 260
+weight: 70
 toc: true
 ---
 
@@ -19,13 +19,11 @@ You have already learnt about coordinate planes in grade 5. Did you know that th
 N17_Gif.gif
 
 
-
 Now, let us plot a given point; say (3,1). Remember that 3 indicates that we first move 3 units from 0 on the horizontal number line (x-axis). The distance we cover horizontally is called the x-coordinate, which is 3 here. And then, we move 1 unit on the vertical number line (y-axis). Likewise, the distance we cover vertically is called the y-coordinate, which is 1 here. This process is shown below.
 N18_Gif.gif
 
 The point (3,1) is 3 units away from the y-axis and 1 unit away from the x-axis. To be more specific, the given point is 3 units to the right of the y-axis and 1 unit above from the x-axis. Both the coordinates are positive here.  
 Just like we extended the number line to include negative numbers, we can extend both the number lines of the coordinate plane (the axes) to include negative coordinates. 
-
 
 N19_Gif.gif
 
@@ -76,3 +74,4 @@ If two points have x-coordinates that are opposites (like 4 and -4), they are th
 N25_Gif.gif
 
 When two points have the same value for the first or second coordinate, we can find the distance between them by subtracting the coordinates that are different. For example, consider (2.5,1) and (6,1). They have the same y-coordinate. If we subtract the x-coordinates, we get 3.5. These points are 3.5 units apart.
+

@@ -6,7 +6,7 @@ date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
 images: []
-weight: 240
+weight: 60
 toc: true
 ---
 
@@ -17,7 +17,6 @@ toc: true
 Imagine that you are decorating for your sister’s birthday party. You have bought 24 balloons in total and you are confused about how you should place them on the wall but you are thinking of making certain bunches having equal numbers of balloons. Should you make 12 bunches with 2 balloons each?
 
 N29.png
-
 
 {{ $image := .Resources.GetMatch "N29.png" }}
 {{ with $image }}
@@ -104,6 +103,5 @@ For example; on coming across a sum; 36 + 8, what do you see? Each of these numb
 Using the distributive property, it can be written as; 
 36 + 8 = 4 x (9 + 2)
 This process makes the calculation simpler. We can simply move forward with 4 x 11 = 44.
-
 
 [def]: N29.png "Factor"

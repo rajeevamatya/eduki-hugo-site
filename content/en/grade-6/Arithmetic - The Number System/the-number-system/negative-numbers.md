@@ -6,10 +6,9 @@ date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
 images: []
-weight: 250
+weight: 65
 toc: true
 ---
-
 
 ## Negative Numbers
 
@@ -45,11 +44,9 @@ What does the point on the line to the left of 0 represent?
 N11.png
 
 
-
 The point lies in the same distance from 0 as 1 lies from 0 ( , 2 lies from 1, 3 lies from 2 and so on). We are moving 1 unit left from 0. It is already known that for any point on the number line, the point to its left is 1 less. For instance: 2 is 1 less than 3, 0 is 1 less than 1 and so on. So, the point to the left of 0 should be 1 less than 0. 
 The point represents -1, which we call “negative one”, which can be thought of as the opposite of 1. Both 1 and -1 lie at equal distance from 0, that is, 1 unit away from 0 but in opposite directions. Likewise, -2 is the opposite of 2 and they both lie at equal distance from 0, that is, 2 units away from 0 but in opposite directions.
 N10.png
-
 
 
 As per this, we can extend the number line on both sides of 0. Look at the given animation that shows the plotting of pairs of opposite numbers on the number line. 
@@ -63,9 +60,7 @@ Points A and B are opposites because they are both 2.5 units away from 0, even t
 All of the numbers we have used here (5/2, -5/2, 2.5, -2.5, 0, 1, -1, 3, -3, 8.3, -8.3,...) are called rational numbers.
 Rational numbers are defined as numbers that can be represented in the form a/b, where 'a' and 'b' are both integers and 'b' is not equal to 0.
 
-
 Any integer 'n' can be written as n/1, so every integer is a rational number.
-
 
 All rational numbers can be expressed in the fractional form (that is, a/b), but all fractions are not necessarily rational numbers. For example: π/4 , 1/(x + 3), etc.
 
