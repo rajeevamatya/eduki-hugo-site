@@ -9,48 +9,52 @@ images: []
 weight: 95
 ---
 
-## Dividing by whole number
-
-### Dividing Fractional Quantities into Parts
+## Dividing Fractional Quantities into Parts
 
 After being done with fraction multiplication, we will now talk about fraction division. There are different ways we can understand how to divide numbers when fractions are involved. In this part, we will look at the first and the most recognizable ones.  
 Just like always, we will start by dividing whole numbers.  
 You have 6 mangoes that are to be distributed between 2 people. What expression is correct when we need to find the number of mangoes each person gets? When six mangoes are divided equally among 2 people, we know that the whole, which is 6 here, has to be divided into 2 parts. This is the model of division that we are familiar with. It is called the partition model of division. The expression we get is 6 ÷ 2. We get the answer as 3 since dividing 6 mangoes among 2 people equally means that each person gets 3 mangoes each. We can see that through the image shown: 
-image5.4.png
 
- 
+<img src="F03-six-mangoes-divided-by-2.png" width="300" style="display: block; margin: 0 auto;">
  
 We need not make actual mangoes or object every time. We can make block diagrams like we have grown familiar with. Let's see an example of that.  
 Which block diagram correctly shows the answer to 12 ÷ 4 through the partition model? 
-Figure 1: image5.5.png
-Figure 2: image5.6.png
-Figure 3: image5.7.png
+
+<img src="F03-12-divided-4.png" width="300" style="display: block; margin: 0 auto;">
 
 Here, the first figure is correct since the whole of size 12 has been divided into 4 parts and one part is taken. The diagram correctly represents 12 ÷ 4, giving us 3. Figure B shows a whole of size 1 divided into 4 parts. The diagram represents 1 ÷ 4. Be careful of the notation shown in the picture. While both whole look the same, one is 12 and the other is 1. Figure C shows the whole of size 12 is divided into 3 parts. The diagram represents 12 ÷ 3, giving us 4, so not our desired figure. This is how we can show objects as block diagrams and easily solve questions.   
 
 We will now use the same concept to find the division of a fraction by any whole number. The same idea of dividing the quantity into an equal number of parts, with each part giving us the answer, is to be applied.  
 Let's look at what we get when we divide half a kg of mangoes between 5 people. We first need to show half in the figure, which is given in the image below. The whole block is 1 kg of mango.
-A101.png
+
+<img src="F03-half-kg-mangoes.png" width="300" style="display: block; margin: 0 auto;">
 
 Now, we need to divide only the shaded portion into 5 parts and each part is now our answer. The blue is our answer.
-image5.8.png
+
+<img src="F03-half-kg-mangoes-divided-by-5.png" width="300" style="display: block; margin: 0 auto;">
 
 If the image was instead as shown, then it is wrong since it shows the whole is divided into 5 parts and one part being taken. The diagram represents 1 ÷ 5.
-image5.9.png
+
+<img src="F03-1-kg-mangoes-divided-by-5.png" width="300" style="display: block; margin: 0 auto;">
 
 Can you decide what the following image is showing and why it is wrong for our answer above?
-image6.0.png
+
+<img src="F03-fifth-kg-magoes-divided-by-2.png" width="300" style="display: block; margin: 0 auto;">
 
 This image shows 1/5 being divided into 2 parts, with one part taken. The diagram represents 1/5 ÷ 2.
+
 Going back to our correct representation, what is the amount of mangoes that each person gets? OR What do you get when you divide half a kg of mangoes between 5 people?
-image5.8.png
+
+<img src="F03-half-kg-mangoes-divided-by-5.png" width="300" style="display: block; margin: 0 auto;">
 
 Look at the given image. You may be tempted to say that dividing half a kg of mangoes between 5 people gives 1/6 kg of mangoes, since there are six parts, and one part is our desired answer. But keep in mind that the whole needs to be divided into equal portions for us to be able to express size in terms of the whole (here, 1 kg of mangoes). The portion shaded in blue (1/2 kg mangoes divided between 5 people) is 1/10 of 1 kg of mangoes, that is 1/10 kg of mangoes.
+
 Look at the visual below to see how this works. 
-gif9.gif
+
+<img src="F03-half-kg-mangoes-divided-by-2-gives-tenth-gif.gif" width="300" style="display: block; margin: 0 auto;">
 
 
-### Relating Multiplication and Division
+## Relating Multiplication and Division
 
 We cannot keep making diagrams for all such division questions since it will get tedious for bigger numbers. In such cases, we need to make a numerical generalization to help us find the answer. 
 In the case of 1/2 kg of mangoes being divided into 5 parts, we had the equation 1/2 ÷ 5 = ?. 
@@ -75,7 +79,7 @@ total ÷ number of parts = size of each part
 --> number of parts x size of each part = total  
 The second equation of 12 ÷ 4 = 3 is another type of division question. It says: total (12) divided by the size of each part (4) gives us the number of such parts that fit (3), or how many parts of size 4 fits in 12? This is the repeated subtraction model of division, since the idea is that we keep removing sizes of 4 from 12 until we get 0, thus giving us 3 (since we can remove three 4s from 12). We will learn more about this in the next section.
 
-### Dividing Fractional Quantities by Removing Equal Parts
+## Dividing Fractional Quantities by Removing Equal Parts
 
 Let’s recall what we studied for the partition model of division:
 We know that 3 x 4 = 12 can be written as 12 ÷ 4 = 3 or 12 ÷ 3 = 4. 
@@ -110,7 +114,7 @@ What do you think is the expression from the previous situation?
 As we have already discussed before, the context of "how many x's will fit in a size of 'a' to give 'b' number of objects" can be thought of as a division problem, where 'a' divided by 'x' will give us 'b'. In this case as well, we need to know how many 1/2 m will fit in 2 m, so we will have to find the value of 2 divided by 1/2 . 
 Do not confuse this with 1/2 divided by 2 (meaning the size of each part when ½ is divided into 2 parts), which will give us 1/4 . 1/4 cannot be what we are looking for, as obviously more than 1 halves are needed to make 2. 
 
-### Dividing fractional quantities by removing equal parts [Part II]
+## Dividing fractional quantities by removing equal parts [Part II]
 
 Can we generalize such division questions to be solved numerically as well (like we did for the partition model)? Of course!
 If we have a question -> 4 ÷ 1/3 , it means that we are asking how many 1/3s fit in 4. From the image below, we see that there are three one-thirds that make up 1, so to make up 4, we need to divide 4 by 3, giving us 4 x 3. So, 4 ÷ 1/3 = 4 x 3. 
@@ -119,7 +123,7 @@ gif101.gif
 This reinforces the idea that dividing by a fraction is the same as multiplying by its reciprocal.
 Let’s look at a question where the divisor is not a unit fraction  
 -> you can think of the question 4 ÷ 2/3 as follows: 
- We already know that there are 4 x 3 groups of 1/3s in 4. To find how many 2/3s are in 4, we need to put together every 2 of the 1/3s into a group. Doing this results in half as many groups, which is 6 groups. In other words, we can think of 4 ÷ 2/3 as there is 4 x 3 groups of 1/3s . But since we need to find out how many 2/3s are there, we divide the answer by 2 to get (4 x 3) ÷ 2. This can be written as 4 x 3/2 , which is the multiplication of the reciprocal! So, the same idea applies to this method of division as well when we solve it mathematically. 
+We already know that there are 4 x 3 groups of 1/3s in 4. To find how many 2/3s are in 4, we need to put together every 2 of the 1/3s into a group. Doing this results in half as many groups, which is 6 groups. In other words, we can think of 4 ÷ 2/3 as there is 4 x 3 groups of 1/3s . But since we need to find out how many 2/3s are there, we divide the answer by 2 to get (4 x 3) ÷ 2. This can be written as 4 x 3/2 , which is the multiplication of the reciprocal! So, the same idea applies to this method of division as well when we solve it mathematically. 
 We can also come to the same conclusion with the same method we used for the partition model:
 When we had to make ½ m strips of paper from a strip of 2 m, we had the equation 2 ÷ 1/2 = ?.  
 So, ? x 1/2 should give us 2 for this case.  
