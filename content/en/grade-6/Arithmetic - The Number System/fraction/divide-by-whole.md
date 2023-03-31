@@ -1,5 +1,5 @@
 ---
-title: "01 Dividing by Whole Number"
+title: "03 Division: Dividing by Whole Number"
 description: "Fraction for Grade 6"
 lead: ""
 date: 2020-10-06T08:49:15+00:00
