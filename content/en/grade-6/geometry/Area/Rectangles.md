@@ -183,3 +183,137 @@ When we extend the divisions shown, we see that it is filled with 20 such unit s
 
 In such cases, do make sure that the divisions shown are of equal length. You cannot have uneven divisions since they will not extend to become unit squares and then the area will be completely wrong!. You can't measure the area with uneven length/breadth divisions. 
 1_34
+
+### Area of parallelogram
+
+
+So, we have looked at a rectangle, which is a polygon with 4 sides. 
+You are also familiar with a square, which is basically a rectangle but with all sides equal. But, there are other four sides shapes that do not have right angles. 
+
+
+To generalize, all four-sided polygons are called quadrilaterals. We have already looked at how to find the area of a rectangle, which is a special type of polygon. Now, we’ll look at another one.
+
+
+A quadrilateral that has opposite sides equal and parallel to each other is a parallelogram. This sounds like a rectangle, right? A rectangle is a special type of parallelogram, where all angles are 90°. But when the angles are not 90°, we have a shape with only opposite angles equal and opposite sides parallel and equal. A parallelogram is shown below.
+1_42
+
+
+
+How do we go about finding the area of such a shape? There’s always the option of simply counting the square units present inside it. But it would be easier to find a formula that could be used easily (and spend less time counting squares). 
+
+
+For that, lets decompose and rearrange the parallelogram into a rectangle so we can use the formula. Let’s see if we can achieve that.
+
+
+We can decompose the parallelogram in a way that we get a right-angled triangle and then move that triangle from one side of the parallelogram to the other to complete the rectangle. Here, the triangle on the right is moved to the left side.
+1_43
+
+
+
+After the rearrangement of the decomposed triangle, we obtain the rectangle (square) of 4 by 4 size as shown below. 
+1_44 
+  
+1_45
+
+Once we have a square (rectangle), we can easily find the area by multiplying the length and width, both of which are 4 units in measurement. 
+Area of rectangle = 4 x 4 = 16 square units
+
+
+
+
+So we essentially used the formula for rectangles to find the area of a parallelogram. Can we then say that they have the same formula? Let’s confirm and look at how to relate the formula of the area of the rectangle with that of the parallelogram. 
+
+
+
+
+Let’s look at another parallelogram that has one of its sides horizontal 4 units and horizontal parallel lines at a distance of 4 units. 
+1_46
+
+
+
+            
+We’ll do the same thing we did before and get a rectangle (square) of length and height 4 units each.
+1_47  
+
+
+         
+
+
+
+This means the area is the same. Strange right? The two parallelograms do not look alike but somehow have the same area.
+
+
+Let’s look at what actually is similar between the two. 
+
+
+The base is clearly the same - 4 units. And the horizontal parallel lines are at the same distance - 4 units. 
+
+
+The only difference between the two parallelograms discussed before is the angle of inclination of the sides. 
+
+
+Since we used the concept of decomposition and rearrangement for getting the rectangle from the parallelogram in both cases, we can be sure that the areas of both figures are also the same. 
+If we have a look at the parallelogram again, we find that the area is dependent on one of the sides of the parallelogram (shown in the black dotted line) and the distance between it and its opposite side (shown in the red dotted line). The distance, between the side, measures 4 units, and its opposite side is 4 units as well. They are shown in the figure below. 
+1_48
+
+The horizontal side which remains common in both the parallelogram and the rectangle is called the base. 
+1_49
+
+
+
+The vertical arrow (shown in red) that gives the distance between the base and the side parallel to the base is called height.
+
+
+So, if we want to find the area of a rectangle, we simply use the same formula as that of a rectangle. 
+
+
+Thus the area of a parallelogram = base x height
+
+
+What we can conclude is that the rectangle we get after decomposing and rearranging multiple parallelograms will remain the same as long as the base of each parallelogram is the same and the distance between this base and its opposite side is always the same. The inclination of the parallelogram does not have an effect on the final rectangle we get. 
+
+
+Let’s call that perpendicular distance “the height” of the parallelogram. 
+
+
+This means a parallelogram that has the same base and the same height as a rectangle will also have the same area.
+
+
+We can also say that the area of a parallelogram is the same as the rectangle which is standing on the base and enclosed within the same parallel lines. 
+
+
+Here is an example showing multiple parallelograms and a rectangle having an area of 15 square units. The distance between the parallel lines, which is the height, does not change even though the sides become more inclined.  All of them have a base of 3 units and a height of 5 units.
+
+
+Therefore, as concluded earlier, the area of each parallelogram will be  3 units x 5 units = 15 square units.
+1_50
+ 
+
+
+
+
+A small note before we move on:
+
+
+Is the base of the parallelogram always fixed? Does it always have to be the horizontal line?
+
+
+Not necessarily. It can be any of the four sides of the parallelogram. What we need to keep in mind is that after we decide which side is the base, we use that to decide the height associated to it.  
+
+
+One type of pairing of base and height is given below (this is the same parallelogram as before, so our original height and base were 4 units each). 
+1_51
+
+
+
+The base is now the inclined side (marked in black). Using this as the base, we know that the perpendicular distance between this base and the opposite side is the height. This is marked in red. 
+
+
+The only condition that we must fulfill while drawing the base and height is that they must be making 90 degrees with each other and the base is one of the sides of the parallelogram. 
+
+
+Keep in mind that this does not mean that the base is 4 units. (obviously, because it is inclined). The same goes for the height. But nonetheless, the product of the two will be equal to 16 square units. If you want to know the measurement of the base and height in that orientation, you can rotate the shape so it aligns with the unit squares given. 
+1_52
+ 
+
+1_53
