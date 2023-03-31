@@ -1,5 +1,5 @@
 ---
-title: "02 Fraction as Operator"
+title: "02 Multiplication: Fraction as Operator"
 description: "Fraction as operator"
 lead: " "
 date: 2020-10-06T08:49:31+00:00

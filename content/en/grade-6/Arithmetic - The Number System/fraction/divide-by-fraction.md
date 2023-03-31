@@ -1,5 +1,5 @@
 ---
-title: "02 Dividing by Fraction"
+title: "04 Division: Dividing by Fraction"
 description: "Fraction for Grade 6"
 lead: ""
 date: 2020-10-06T08:49:15+00:00
