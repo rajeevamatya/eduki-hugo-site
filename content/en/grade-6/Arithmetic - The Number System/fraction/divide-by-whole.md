@@ -26,10 +26,6 @@ Figure 1: image5.5.png
 Figure 2: image5.6.png
 Figure 3: image5.7.png
 
-
-
-
-
 Here, the first figure is correct since the whole of size 12 has been divided into 4 parts and one part is taken. The diagram correctly represents 12 ÷ 4, giving us 3. Figure B shows a whole of size 1 divided into 4 parts. The diagram represents 1 ÷ 4. Be careful of the notation shown in the picture. While both whole look the same, one is 12 and the other is 1. Figure C shows the whole of size 12 is divided into 3 parts. The diagram represents 12 ÷ 3, giving us 4, so not our desired figure. This is how we can show objects as block diagrams and easily solve questions.   
 
 We will now use the same concept to find the division of a fraction by any whole number. The same idea of dividing the quantity into an equal number of parts, with each part giving us the answer, is to be applied.  

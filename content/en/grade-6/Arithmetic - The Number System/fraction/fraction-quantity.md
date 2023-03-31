@@ -22,10 +22,9 @@ image-0.1.png
 Throughout the lesson, we will get familiar with real-life diagrams and understand how their multiplication works and what they could give. Then we will see how we can represent them using block diagrams since they are easier to make and can be used for any quantity.  
 For example, 1/2 of an orange can be drawn using a block diagram as well. 
 A42.png
- 
 
 
- A43.png
+A43.png
  
 Block diagrams, while not equally as concrete as real images are still a more visual way to express fractions. We cannot keep making them over and over again, since it can get tedious.  
 So, we move on to number lines! We know that any number, which includes whole numbers and fractions, can be shown in a number line. We are familiar with how fraction addition and subtraction can be shown in the number line, Likewise, the multiplication of fractions can also be shown on a number line. We will also look at multiplication of the whole numbers on a number line and use the same method for fractions through multiple examples. 
