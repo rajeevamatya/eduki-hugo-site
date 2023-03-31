@@ -18,13 +18,17 @@ toc: true
 To start with the multiplication of fractions, it would help if we revisited the multiplication of whole numbers once again.  We know that when we multiply a x b, we are taking 'a' group of 'b' and adding them, or simply 'a' times 'b'. For example, 3 x 5 means we are taking 3 groups of 5, that is, (5 + 5 + 5), giving us 15. The first term is the operator, it tells us how many copies of the second term we need to take (we can think of the second term as the quantity being operated on). 
 Let's familiarize ourselves with this first and use the same method to find the product when fractions are involved.  
 Let's look at this situation. Three children want to eat 2 cupcakes each. How many cupcakes are eaten altogether? Is it 2 x 3 or 3 x 2? Both of these expressions give 6 and seem to be correct. But we are being asked to find the total number of cupcakes when 3 children eat 2 cupcakes each. So, 2 is repeated three times (2 + 2 + 2), meaning we get 3 times 2 cupcakes, or 3 x 2. Here, 3 is the operator since we are making 3 copies of 2 cupcakes (the quantity). While 2 x 3 also gives us the same answer, the context is slightly different. It could be used for 2 people eating 3 cupcakes each (2 copies of 3 cupcakes, where "2" acts as the operator).  
-image-0.1.png
+
+![](F01-Multiplication-as-repeated-addition.png)
+
 Throughout the lesson, we will get familiar with real-life diagrams and understand how their multiplication works and what they could give. Then we will see how we can represent them using block diagrams since they are easier to make and can be used for any quantity.  
 For example, 1/2 of an orange can be drawn using a block diagram as well. 
-A42.png
+
+![Image](F01-Half_orange.png)
 
 
-A43.png
+
+![Image](F01-Half_block.png)
  
 Block diagrams, while not equally as concrete as real images are still a more visual way to express fractions. We cannot keep making them over and over again, since it can get tedious.  
 So, we move on to number lines! We know that any number, which includes whole numbers and fractions, can be shown in a number line. We are familiar with how fraction addition and subtraction can be shown in the number line, Likewise, the multiplication of fractions can also be shown on a number line. We will also look at multiplication of the whole numbers on a number line and use the same method for fractions through multiple examples. 
@@ -33,12 +37,15 @@ Making Copies of Fractions
 
 Now that we are familiar with multiplying a whole number and a unit fraction, we will move on to getting comfortable with multiplying whole numbers with any kind of fraction, not just unit fractions. The basic idea is the same as before, we take groups of fractions and see how many groups there are in total. This will help us write the final product. Let's look at the following examples to understand how this looks visually and how we can find the product of such a multiplication process.  
 Look at the given block diagram.  
-image-1.5.png
+
+
+![Image](F01-block-2by4.png)
 
  
 What would the three groups of the image look like?  
 We simply make three copies of the image, giving us this block diagram.  
-image-1.6.png
+
+![Image](F01-block-three-2by4.png)
  
 We can also keep all the shaded portions together, as shown in the given block diagram.  
 image-1.8.png
