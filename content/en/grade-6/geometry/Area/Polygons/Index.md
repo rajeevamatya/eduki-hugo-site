@@ -23,6 +23,8 @@ We can understand the word polygon by breaking it down into two parts. ‘Poly�
 Some things to note about polygons:
 To be a polygon, the shape must be a closed figure made of straight lines only. So a circle is not a polygon and so is any shape that is made up of curved lines.
 The straight lines are joined end to end and no line can cross the other. These lines are the sides of a polygon. 
+
+<img src="1_39_not_a_polygon.png" width="300" style="display: block; margin: 0 auto;">
 Image 1_39
 
 
@@ -39,6 +41,7 @@ The maximum number can be any number of sizes. You can keep adding more and more
 
 
 But what about the smallest number of sides? Let’s try it out, starting with one side.
+<img src="1_40_a_line.png" width="300" style="display: block; margin: 0 auto;">
 1_40
 
 
@@ -53,6 +56,7 @@ Well, that clearly is not a polygon since a closed shape is not formed.
 What about two sides?
 
 
+<img src="1_41_two_sided_figure.png" width="300" style="display: block; margin: 0 auto;">
 Image 1_41
 
 
@@ -84,9 +88,11 @@ While applying decomposition we try to get familiar shapes such as rectangles or
 
 
 For example, the figure given here is a trapezium with one pair of opposite sides parallel to each other while the other pair is not parallel (the two vertical sides are parallel). 
+<img src="1_61_trapezium.png" width="300" style="display: block; margin: 0 auto;">
 1_61
 
 The given trapezium can be decomposed into a triangle and a rectangle. We could find the area for this by using the formula for the triangle and the rectangles and adding the areas we get. 
+<img src="1_62_trapezium_into_triangle_and_rectangle.png" width="300" style="display: block; margin: 0 auto;">
 1_62
 
 
@@ -95,11 +101,13 @@ But, we could add one more step, so only one formula is needed.
 
 
 We can decompose the triangle at the midpoint of the height of the triangle. We then take the triangle formed to rearrange it such that we get a parallelogram (rectangle in this case). The process is demonstrated below. 
+<img src="1_63_trapezium_into_rectangle.gif" width="300" style="display: block; margin: 0 auto;">
 1_63
 
 
 
 Now that we have a rectangle, we can either count the unit squares or simply use the length times width formula.
+<img src="1_64_rectangle.png" width="300" style="display: block; margin: 0 auto;">
 1_64 
 
 
@@ -115,6 +123,7 @@ Even if we count the number of square units that it occupies, it gives us 14 squ
 
 
 Trapeziums don’t always come with horizontal or vertical sides (like shown above) and in those cases, we can either decompose it into a triangle and a parallelogram or a rectangle and two triangles, whichever way is easier.
+<img src="1_65_trapezium.gif" width="300" style="display: block; margin: 0 auto;">
 1_65
 
 By using one of these ways, we can also find the formula for finding the area of a trapezium. We will use the technique of decomposing the trapezium into a parallelogram and a triangle. 
@@ -128,6 +137,7 @@ Let’s also measure the parallel sides -> ‘a’ is the shorter side and ‘b�
 
 
 Let’s now decompose the trapezium into a triangle and parallelogram as shown. For this, the line that decomposes the shape needs to be parallel to one side of the trapezium so we get a parallelogram. 
+<img src="1_66_trapezium_into_rectangle_and_triangle.png" width="300" style="display: block; margin: 0 auto;">
 1_66
 
 
@@ -135,6 +145,7 @@ Let’s now decompose the trapezium into a triangle and parallelogram as shown. 
 
 
 It should be obvious by now that the height of the parallelogram is the same as that of the triangle because they lie between the same parallel lines. This will be ‘h’, since that is the height of the trapezium.
+<img src="1_67_trapezium_into_parm_and_triangle.png" width="300" style="display: block; margin: 0 auto;">
 1_67
 
 
@@ -148,6 +159,7 @@ For the triangle, the base is ‘b-a’ (since the longer side of the trapezium 
 [Base of the parallelogram + base of triangle = b
 a + base of triangle = b
 Therefore, the base of triangle = b - a]
+<img src="1_68_trapezium_into_parm_and_triangle2.png" width="300" style="display: block; margin: 0 auto;">
 1_68
 
 

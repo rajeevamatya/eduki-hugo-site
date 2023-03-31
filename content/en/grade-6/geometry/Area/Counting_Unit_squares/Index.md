@@ -18,6 +18,7 @@ Just because we used the example of a rectangle does not mean that it only works
 
 
 Let’s use an example:
+<img src="1_11_irregular_shape.png" width="300" style="display: block; margin: 0 auto;">
 1_11
 
 
@@ -26,6 +27,7 @@ For finding the area of the shape above, would you still use squares? Or would y
 
 
 So let's try seeing how many squares fit in the above shape. 
+<img src="1_12_grids_into_irregular_shape.png" width="300" style="display: block; margin: 0 auto;">
 image 1_12
 
 
@@ -39,9 +41,11 @@ Method I:
 
 
 Just add squares to completely cover the shape first, even if they are outside the outline. 
+<img src="1_13_grids_into_irregular_shape2.png" width="300" style="display: block; margin: 0 auto;">
 Image 1_13
 
 Then we count all the complete squares inside the shape along with more than half that are complete and less than half that are complete. I’ll highlight them below.
+<img src="F1_14_counting_grids_into_regular_shape.png" width="300" style="display: block; margin: 0 auto;">
 Image 1_14
 
 
@@ -70,7 +74,7 @@ So far, we have only looked at geometric shapes without actual contexts or examp
 
 Given is an image of a garden. The area marked green is used for growing vegetables and the area marked yellow is for growing flowers. We also see squares being shown in the two areas, and each square is 1 square foot in size. 
 
-
+<img src="1_15_decomposing_rectangle.png" width="300" style="display: block; margin: 0 auto;">
 image 1_15
 
 
@@ -103,6 +107,7 @@ Even though the concept seems obvious, this is the basic idea behind ‘decompos
 
 
 As we say, decomposing a shape into smaller parts does not change the overall area of the shape. Simply adding the smaller areas will give us the total area. We can see this clearly below.
+<img src="1_16_28_square_units.gif" width="300" style="display: block; margin: 0 auto;">
 1_16
 
 
@@ -114,7 +119,7 @@ While this may seem kind of obvious in our previous example, the idea of decompo
 
 Let’s look at something interesting. 
 
-
+<img src="1_17_tangram_which_is_greater.png" width="300" style="display: block; margin: 0 auto;">
 Image 1_17
 
 Here, we have a square, a cat-like shape, and a house-like shape. 
@@ -124,6 +129,7 @@ The house seems to have the smallest area. And the cat seems to have the largest
 
 
 But look at the animation below.
+<img src="1_18_decomposing_tangram.gif" width="300" style="display: block; margin: 0 auto;">
 1_18
 
 The same pieces make up the square, the cat and the house!
