@@ -10,26 +10,23 @@ weight: 85
 toc: true
 ---
 
-## Fraction as Operator
-
-### Finding Fraction of a Quantity: An Introduction
+## Finding Fraction of a Quantity: An Introduction
 
 Let's look at the previous question again. Lin and Han ran a 3 km relay race as a team. They each ran the same distance. This means that they each ran half of the 3 km. We already know what that means in terms of division; 3 divided by 2, with each person running 3/2  km. 
 Another way of thinking of this is looking at the line "This means that they each ran half of the 3 km." How can we write this numerically? Half of 3 km = 1/2 of 3 km, which is the same as 1/2 x 3 . In this case, the fraction seems to be the operator, rather than the whole number. We are not taking 3 copies of 1/2 , rather we are taking half of 3, meaning we divided 3 into two parts and take one part.  
 Let's take an example of whole numbers to understand this better. When we think of taking 2 groups of 3 apples, we think of this as multiplication, so 2 groups of 3 apples are 2 x 3 = 6 apples. We repeat 3 two times. Now, similarly, if we think of 1/2 of 3 miles, this can easily be thought of as taking a fraction of a whole or multiplying a fraction by a whole number, giving us 1/2 x 3. That means 3 has to be repeated half or 1/2 times. That is 3 has to be halved. The answer is simply 3/2 since 1/2 x 3 is the same as 3 x 1/2 . We will see more of this in the further question and understand this visually as well.   
 Going back to the previous question of Lin and Han, which diagram do you think best describes taking half of 3?  
 
-<img src="F02-3-times-1by2-type1.png " width="300" style="display: block; margin: 0 auto;">
+<img src="F02-3-times-1by2-type1.png" width="300" style="display: block; margin: 0 auto;">
 
-<img src="F02-3-times-1by2-type2.png " width="300" style="display: block; margin: 0 auto;">
-
+<img src="F02-3-times-1by2-type2.png" width="300" style="display: block; margin: 0 auto;">
 
 
 Both diagrams seem to be giving the same final amount. But when we think of taking half of 3, then Image B makes more sense. Image A explains the context of 3 x 1/2 better.   
 Image B can also be thought of as 3 divided by 2, which is 3/2 . A division question can thus be rearranged and thought of as a multiplication problem. In such a case where the fraction is multiplied by the whole number (1/b x a), we can think of the fraction as the operator and the whole number as the quantity that is being operated on. 1/2 x 3 means 3 is being halved. 
 Look at the diagram below.  
 
-<img src="F02-four-by-three.png " width="300" style="display: block; margin: 0 auto;">
+<img src="F02-four-by-three.png" width="300" style="display: block; margin: 0 auto;">
 
 What expression do you think it shows? 
 (i) Does it show 4 ÷ 3? How? It shows 4 ÷ 3 because there are 4 whole squares divided into 3 equal parts each with 1 of those parts shaded. 
@@ -38,7 +35,7 @@ What expression do you think it shows?
 (iv) Does it show 1/3 x 4? How?  It shows the multiplication expression 1/3 x 4 since there is a total of 4, and 1/3 of the whole 4 is shaded.  
 The different expressions all define one image, but we use the appropriate expression as the context demands, which we will be practicing all along. For now, let us focus on the multiplication expression of the form 1/b x a. As we have already started exploring, 1/b x a means taking a fraction of a whole number, where the fraction acts as the operator and affects the whole number quantity. Keep this in mind while solving problems ahead.  
 
-### Finding Fraction of a Quantity
+## Finding Fraction of a Quantity
 
 Let's recall the idea of expressing multiplication as finding the area of a rectangle with one side as a fraction and the other as a whole number. If we take an example of 1/2 x 4, we can first take a rectangle of one side as 4 and one side as 1. The area of this whole rectangle is 1 x 4 = 4. But since we need 1/2 x 4, it can be expressed as follows:
 
@@ -70,7 +67,7 @@ In the image as well, we can only take 3 whole columns and multiply that with th
 
 <img src="F02-three-times-three-plus-three-times-3by4.png" width="300" style="display: block; margin: 0 auto;">
 
-### Finding Fraction of a Fractional Quantity
+## Finding Fraction of a Fractional Quantity
 
 We have yet to deal with multiplication problems where both factors are fractions. They seem completely different from what we have learned before, but it is the same as when we multiply a whole number by a fraction operation. Like whole number are measurements or quantities, so are fractions. So, we simply need to use the fraction as operator in the same way as we did for when we had fraction x whole number multiplication. We will start simple and go in a step wise manner. Let us look at the given example. 
 Amanda has half a pan of cake leftover from a family gathering. How much cake is left? Look at the block diagrams below. 
@@ -86,32 +83,28 @@ If she eats a third of that, how much did she eat? Look at the block diagrams be
 They all show the full pan cut in half. Then they show a half cut into 3 equal pieces and one of those pieces is shaded. In Images F and H, the pan is cut in half horizontally and in the other two, it is cut in half vertically. The cuts into 3 equal pieces are also sometimes horizontal and sometimes vertical. Nonetheless, all of them represent the amount of cake she has eaten, that is, a third of half (1/3 of 1/2) of the pan of cake.   
 By just looking at the diagram, can you now find out how much of the pan of cake had she eaten?  
 
-
 <img src="F02-third-of-half-type-one.png" width="300" style="display: block; margin: 0 auto;">
 
 Looking at the above image, you may be tempted to say that the amount of the pan of cake she had eaten was 1/4, as there are 4 partitions shown. But you can easily see that they are not equal portions.   
-A26.png
 
- 
+<img src="F02-third-of-half-type-one-explained.png" width="300" style="display: block; margin: 0 auto;">
+
 Amanda ate 1/3 of the remaining pan of cake. If we extend the partitions (denoting the thirds) to the whole pan as above, you can easily count that she had eaten 1/6 of the pan of the cake.  
 If Amanda ate 2/3 of the half of the pan of cake, the image would be as follows:   
-A100.png
- 
 
+<img src="F02-two-third-of-half-type-one-explained.png" width="300" style="display: block; margin: 0 auto;">
 
 We simply take 2 parts out of the three. Out of the whole, it tells us that 2/6 have been eaten. What we did was take 2/3 of 1/2 , which is equal to 2/3 x 1/2 . Our answer was 2/6, when we can get by multiplying the numerator to numerator and denominator to denominator.   
 2/3 x 1/2 = (2 x 1)/(3 x 2) = 2/6   
 When we multiply fractions; a/b x c/d, we get (a x b)/(c x d) = (ab)/(cd). We can multiply in this manner to find the value of any multiplication expression without always using a diagram. This method works because when we multiply the numerators, we get the number of pieces that are shaded in and when we multiply the denominators, we get the size of each of these pieces.
 
-
-### Using Multiplication to Scale Quantities
+## Using Multiplication to Scale Quantities
 
 We will now move on to an alternative method of solving and understanding multiplication; multiplication as scaling. 
 Let's take an example to understand this. We have a block of size 6 below. What does multiplying by 2/5 give us? First, let's divide the block into 5 equal parts. Then the size of each part has to be 6/5 (since 6 ÷ 5 gives 6/5 as the size of one part). Now we have the numerator 2 left. This means we need to take 2 of these parts, giving us 2 x 6/5 or 12/5 .   
-gif5.gif
 
+<img src="F02-two-fifth-of-six-gif.gif" width="500" style="display: block; margin: 0 auto;">
 
- 
 What we have done is first, divide the quantity by the denominator and find the size of each part, then multiply by the numerator to get the total number of such parts, thus giving us the answer. This method of understanding multiplication is helpful even when we multiply two fractions. The same process applies. 
 
 Furthermore, this method aligns with the idea of multiplication as scaling, rather than repeated addition, which is considered a better way to understand multiplication.   
@@ -119,33 +112,39 @@ We will look at the idea of scaling further with the three examples below. While
 There is a building measuring 10 m. You need to build a new building and are deciding the new height compared to the 10 m building. Can you tell which of the following options will give the highest and smallest product (building height): 5/5 x 10, 3/5 x 10, or 7/5 x 10?   
 In all cases, the size 10 is being operated on.   
 
-i. Finding 5/5 x 10:   
-a. First, we 'scale down' 10 by 5. It is similar to dividing 10 into 5 parts and taking one part, but we simply decrease the size by 5. We see this below: 
-gif17.gif
+1. Finding 5/5 x 10:   
+    1. First, we 'scale down' 10 by 5. It is similar to dividing 10 into 5 parts and taking one part, but we simply decrease the size by 5. We see this below: 
+    
+    <img src="F02-scaling-five-of-five-times-ten-gif.gif" width="500" style="display: block; margin: 0 auto;">
 
 
- 
-b. This new size is 10/5 . We now have to 'scale up' by multiplying it by the numerator, 5. We can see this below: 
-gif18.gif 
+    2. This new size is 10/5 . We now have to 'scale up' by multiplying it by the numerator, 5. We can see this below: 
+
+<img src="F02-scaling-five-of-five-times-ten-final-gif.gif" width="500" style="display: block; margin: 0 auto;">
 
 
- 
 This gives us 10/5 x 5 , which is equal to 50/5 = 10 This shows us that 10 is scaled down to 5 and then scaled up to 5, meaning there is no change. This makes sense because multiplying by 5/5 means multiplying by 1, which gives us the same number.   
 This is also consistent with the idea of equivalence, where n/n x a/b = (n x a)/(n x b) = a/b.   
 The same idea is applied to find the other two expressions as well: 
 
-ii. Finding 3/5 x 10:  
-First, we 'scale down' 10 by 5. It is similar to dividing 10 into 5 parts and taking one part, but here we simply decrease the size by 5.  
-This new size is 10/5 . We now have to 'scale up' by multiplying it by the numerator, 3. We can see the whole process below:   
-gif19.gif
- 
+2. Finding 3/5 x 10:  
+
+    1. First, we 'scale down' 10 by 5. It is similar to dividing 10 into 5 parts and taking one part, but here we simply decrease the size by 5. 
+
+    2.  This new size is 10/5 . We now have to 'scale up' by multiplying it by the numerator, 3. We can see the whole process below:   
+
+ <img src="F02-scaling-three-of-five-times-ten-final-gif.gif" width="500" style="display: block; margin: 0 auto;">
+
+
+
 We first have 10/5 , which is then multiplied by 3, giving us 10/5 x 3 = 30/5 = 6.  
 You can check this using the multiplication method: 3/5 x 10 = 3x 10/5 = 30/5 = 6. You get the same answer! In this case, we see that we first scale down by 5 but only scale up 3, which makes it obvious that the new quantity will be less than 10.   
 
 We should already be familiar with the idea that multiplying any quantity by a fraction smaller than 1 gives a value smaller than the quantity (here, 10). So, the idea of scaling is consistent with this. 
 
-iii. Finally, do the same for 7/5 x 10. 3. First, we 'scale down' 10 by 5. It is similar to dividing 10 into 5 parts and taking one part, but here we simply decrease the size by 5. This new size is 10/5. We now have to 'scale up' by multiplying it by the numerator, 7. We can see the whole process below:   
-gif20.gif
+3. Finally, do the same for 7/5 x 10. 3. First, we 'scale down' 10 by 5. It is similar to dividing 10 into 5 parts and taking one part, but here we simply decrease the size by 5. This new size is 10/5. We now have to 'scale up' by multiplying it by the numerator, 7. We can see the whole process below:   
+
+<img src="F02-scaling-seven-of-five-times-ten-final-gif.gif" width="500" style="display: block; margin: 0 auto;">
  
 We first have 10/5, which is then multiplied by 7, giving us 10/5 x 7 = 70/5 = 1.  
 In this case, it should be clear that the answer will be greater than 10 without any calculation. We first scale down by 5 but scale up by 7, which makes it obvious that the new quantity will be more than 10. We should already be familiar with the idea that multiplying any quantity by a fraction greater than 1 gives a value greater than the quantity (here, 10).  
