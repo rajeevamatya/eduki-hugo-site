@@ -12,15 +12,18 @@ toc: true
 ## Triangles
 ### Area of right-angled triangle
 We have a right-angled triangle as shown in the figure. A right-angled triangle consists of one right angle that is 90°.  How do we find the area for such a shape? 
+<img src="1_35_right_angled_triangle.png" width="300" style="display: block; margin: 0 auto;">
 1_35
 
 One way is to count, but not having complete squares can be kind of difficult. (You can still try it out though!)
 Let’s try another method instead.  
 If you make a copy of the triangle and place it as shown below, we can form a rectangle. 
+<img src="1_36_half_of_rectangle.gif" width="300" style="display: block; margin: 0 auto;">
 1_36
 
 We see that the diagonal shown in yellow divides the rectangle into two equal halves, which are the two triangles. 
 We know that the formula of the area of a rectangle is ℓ x b. The length and width of the rectangle are called the base and height of the right-angled triangle. Interchangeably, the length can be the base and the width can be the height as well. 
+<img src="1_37_LandB_of_rectangle_BandH_of_triangle.gif" width="300" style="display: block; margin: 0 auto;">
 1_37
 
 Since we created the rectangle using two triangles, the rectangle has an area that is double the area of the given triangle.
@@ -36,6 +39,7 @@ The base of the triangle is the length of our rectangle, 3 units. The height is 
 Now, the area of rectangle is b x h = (½ x 4) x 3 = 6 square units
 We also know that because of decomposition, the area of the rectangle and that of the triangle is the same. So we can write the area of triangle as ½ x 4 x 3 as well. 
 We know that 4 is the height of the triangle and 3 is the base. This means that we have ½ x h x b, which is what we got earlier as well!
+<img src="1_38_triangle_to_rectangle.gif" width="300" style="display: block; margin: 0 auto;">
 1_38
 
 
@@ -46,6 +50,7 @@ We have seen how we can find the area of a right-angled triangle before. We’ll
 We just learned to calculate the area of a parallelogram by multiplying one of its sides (base) with the corresponding height of the parallelogram. Since rectangles are also parallelograms, we can use the area of a parallelogram to derive the area formula for a triangle as well. 
  
 Firstly, we can divide a parallelogram into two triangles by joining their opposite corners (by a diagonal). We have one such parallelogram with its diagonal and the resulting triangles shown below. Also, note that the two triangles are not right-angle triangles like before.
+<img src="1_54_two_halves_of_parm.gif" width="300" style="display: block; margin: 0 auto;">
 1_54
 
 From the figure, we see that the two triangles have equal area, and therefore the area of each triangle must be half of the parallelogram’s area.
@@ -65,16 +70,19 @@ The issue that could arise here is, what is the base and height of the triangle.
 Remember that we could take any of the four sides of the parallelogram as its base? The same applies to the triangle where any of the three sides can be the base, and depending on which base you choose, you will get the height. The corresponding height will be the perpendicular line from the opposite vertex to the chosen base. 
 
 Look at the three different bases and their corresponding heights.
+<img src="1_55_base_and_height_of_parm_and_parm.gif" width="300" style="display: block; margin: 0 auto;">
 1_55
 
 
 
-
+<img src="1_56_base_and_height_of_triangle2.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_57_base_and_height_of_triangle3.png" width="300" style="display: block; margin: 0 auto;">
 1_56 and 1_57
 
 
 
 Let’s look at an obtuse-angled triangle in which it isn't that obvious to identify the base and height.
+<img src="1_58_3base_height_pair_obtuse_triangle.gif" width="300" style="display: block; margin: 0 auto;">
 1_58
 
 
@@ -84,6 +92,7 @@ As you can see, sometimes the height might be shown outside the triangle. This i
 Alternatively, we can use decomposition to find the area of the triangle as well. 
 
 Like before, we can derive the same formula by decomposing the triangle to form a parallelogram with the same base but with half the height. We first mark the midpoint of the height of the triangle. After that, we decompose the triangle and rearrange it on the other side to form a parallelogram as shown in the figure below.
+<img src="1_59_triangle_of_parm.gif" width="300" style="display: block; margin: 0 auto;">
 1_59 
 
 
@@ -99,4 +108,5 @@ or, Area of triangle = b x (h/2)
 		=½ x b x h
 
 Similar to parallelograms, the area of the triangle remains the same as long as the height and base remain the same even though the inclination of the sides change. This is possible when the vertex from which the height is drawn lies on the parallel line opposite to the base. 
+<img src="1_60_same_area_between_parallel_lines.gif" width="300" style="display: block; margin: 0 auto;">
 1_60

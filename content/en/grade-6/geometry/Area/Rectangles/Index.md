@@ -15,16 +15,19 @@ toc: true
 ### The formula
 
 
+
 We now know how to find the area of a rectangle by counting the number of squares we can place inside the rectangle. But imagine having a huge rectangle. It would get tedious and a lot of work to see how many squares fit inside it. So, like everything in mathematics, we need the formula to find the area of a rectangle. 
 
 
 In order to find a formula to find the area of a rectangle, let's focus on a problem where we have a rectangle over unit squares.
 This is basically to show how many squares it overlaps. Each square has an area of 1 square unit, also called unit squares. 
 These unit squares will help us in finding the area of the rectangle.  
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_19
 
 The given rectangle covers three units in the horizontal direction and 1 unit in the vertical direction. The two sides are length and width/breadth. Normally the longer side is called the length (and that is what we will be doing here) but the names can be interchanged; Any side can be called length and the other side joined to it is called the width. 
 Three squares mean the length is 3 units and the breadth is 1 unit.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_20 
 
 
@@ -36,6 +39,7 @@ When we find the area, we can also think of this as adding 1 three times. Think 
 
 
 1 + 1 + 1
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_21
 
 
@@ -59,12 +63,14 @@ What happens to the area of the rectangle when we double one of the sides of the
 
 
 Here is a rectangle that is made by doubling the width of the previous rectangle. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_22
 
 Here the rectangle covers 3 units in the horizontal direction and 2 units in the vertical direction. We can see that there are 6 unit squares in the rectangle meaning 6 squares of unit length can fit inside. 
 
 
 If we use our previous method, we can think of this as adding 2 square units 3 times.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_23 
 
 
@@ -82,6 +88,7 @@ We use 2 because that is the number of square in each vertical column.
 
 
 We get 6 as the product when we multiply 2 and 3. Thus the area of the rectangle is 6 square units.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_24 
 
 On the basis of the calculations above, we can say that the area of the rectangle is the product of length and width. 
@@ -100,6 +107,7 @@ The given rectangle here has a length of 2.5 units and breadth of 2 units. The l
 
 
 The total area of the rectangle is 2.5 x 2 = 5 units. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_25 
 
 ### Decomposition into rectangles
@@ -112,12 +120,15 @@ In cases where shapes are irregular, we can use decomposition to change them int
 Let’s start with an example where the unit squares are occupied only partially.  
 Since it is easy for us to count complete squares, we decompose and rearrange them in order to get as many full unit squares as possible. 
 As we have two half squares, it is obvious that we can decompose one-half square and rearrange it to form a complete square with the other half square.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_26 
 
 There are two rectangles at the right that are incomplete. The incomplete squares make up a rectangle that spans half units horizontally and two units vertically, we decompose and rearrange it. We move them to make one complete square as shown below.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_27  
 
 Then the figure will become something like this. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_28
 
 We can now easily count the squares present in our shape and the area will not change since we have decomposed and rearranged. 
@@ -129,28 +140,20 @@ The area of the figure is 5 square units since there are 5 unit squares that can
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 We can decompose all polygons (any kind of shape) that have vertical and horizontal sides to get multiple rectangles so that finding the area is easy. Let’s try it out with the shape given below.
+  <img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
   1_29
   
 There is no formula like with a rectangle to easily find the area of this shape. So, let’s make rectangles!
 We draw two horizontal lines such that the given figure is decomposed into three rectangles with lengths and breadths as shown. This helps us use the formula for the three rectangles, without having to count each square.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_30
 
 The area of the whole figure is  
 2 x 1 + 5 x 2 + 10 x 3
 =2+10+30 = 42 square units
 There is no rule as to how we can decompose a shape. We could have also decomposed the same figure with vertical lines. We draw two vertical lines inside the figure and we get three rectangles each of lengths and breadths as shown.  
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_31
 
 Thus the area of the whole figure is  
@@ -167,6 +170,7 @@ But so far, we’ve only counted the squares themselves to find the length and b
 
 
 For example, the given rectangle has its side as 5 units and 4 units respectively. The unit square division isn't shown, just the sides are divided into the unit length scales. This is enough for us to know the length and breadth, and hence enough to know the area as well. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_32 
 
 We can find the area by multiplying the measurements of the two sides. 
@@ -174,6 +178,7 @@ Area= 5 x 4 = 20 square units.
 
 
 Does the rectangle really fit 20 unit squares in it? How can we tell without the squares to prove it? Let's find out by extending the side divisions throughout the rectangle.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_33 
   
 
@@ -182,6 +187,7 @@ When we extend the divisions shown, we see that it is filled with 20 such unit s
 
 
 In such cases, do make sure that the divisions shown are of equal length. You cannot have uneven divisions since they will not extend to become unit squares and then the area will be completely wrong!. You can't measure the area with uneven length/breadth divisions. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_34
 
 ### Area of parallelogram
@@ -195,6 +201,7 @@ To generalize, all four-sided polygons are called quadrilaterals. We have alread
 
 
 A quadrilateral that has opposite sides equal and parallel to each other is a parallelogram. This sounds like a rectangle, right? A rectangle is a special type of parallelogram, where all angles are 90°. But when the angles are not 90°, we have a shape with only opposite angles equal and opposite sides parallel and equal. A parallelogram is shown below.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_42
 
 
@@ -206,13 +213,16 @@ For that, lets decompose and rearrange the parallelogram into a rectangle so we 
 
 
 We can decompose the parallelogram in a way that we get a right-angled triangle and then move that triangle from one side of the parallelogram to the other to complete the rectangle. Here, the triangle on the right is moved to the left side.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_43
 
 
 
 After the rearrangement of the decomposed triangle, we obtain the rectangle (square) of 4 by 4 size as shown below. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_44 
   
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_45
 
 Once we have a square (rectangle), we can easily find the area by multiplying the length and width, both of which are 4 units in measurement. 
@@ -227,12 +237,14 @@ So we essentially used the formula for rectangles to find the area of a parallel
 
 
 Let’s look at another parallelogram that has one of its sides horizontal 4 units and horizontal parallel lines at a distance of 4 units. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_46
 
 
 
             
 We’ll do the same thing we did before and get a rectangle (square) of length and height 4 units each.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_47  
 
 
@@ -254,9 +266,11 @@ The only difference between the two parallelograms discussed before is the angle
 
 Since we used the concept of decomposition and rearrangement for getting the rectangle from the parallelogram in both cases, we can be sure that the areas of both figures are also the same. 
 If we have a look at the parallelogram again, we find that the area is dependent on one of the sides of the parallelogram (shown in the black dotted line) and the distance between it and its opposite side (shown in the red dotted line). The distance, between the side, measures 4 units, and its opposite side is 4 units as well. They are shown in the figure below. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_48
 
 The horizontal side which remains common in both the parallelogram and the rectangle is called the base. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_49
 
 
@@ -286,6 +300,7 @@ Here is an example showing multiple parallelograms and a rectangle having an are
 
 
 Therefore, as concluded earlier, the area of each parallelogram will be  3 units x 5 units = 15 square units.
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_50
  
 
@@ -302,6 +317,7 @@ Not necessarily. It can be any of the four sides of the parallelogram. What we n
 
 
 One type of pairing of base and height is given below (this is the same parallelogram as before, so our original height and base were 4 units each). 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_51
 
 
@@ -313,7 +329,8 @@ The only condition that we must fulfill while drawing the base and height is tha
 
 
 Keep in mind that this does not mean that the base is 4 units. (obviously, because it is inclined). The same goes for the height. But nonetheless, the product of the two will be equal to 16 square units. If you want to know the measurement of the base and height in that orientation, you can rotate the shape so it aligns with the unit squares given. 
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_52
  
-
+<img src="F01-block-three-2by4.png" width="300" style="display: block; margin: 0 auto;">
 1_53
