@@ -12,16 +12,42 @@ toc: true
 
 ## Fraction as Operator
 
+### Finding Fraction of a Quantity: An Introduction
+
+Let's look at the previous question again. Lin and Han ran a 3 km relay race as a team. They each ran the same distance. This means that they each ran half of the 3 km. We already know what that means in terms of division; 3 divided by 2, with each person running 3/2  km. 
+Another way of thinking of this is looking at the line "This means that they each ran half of the 3 km." How can we write this numerically? Half of 3 km = 1/2 of 3 km, which is the same as 1/2 x 3 . In this case, the fraction seems to be the operator, rather than the whole number. We are not taking 3 copies of 1/2 , rather we are taking half of 3, meaning we divided 3 into two parts and take one part.  
+Let's take an example of whole numbers to understand this better. When we think of taking 2 groups of 3 apples, we think of this as multiplication, so 2 groups of 3 apples are 2 x 3 = 6 apples. We repeat 3 two times. Now, similarly, if we think of 1/2 of 3 miles, this can easily be thought of as taking a fraction of a whole or multiplying a fraction by a whole number, giving us 1/2 x 3. That means 3 has to be repeated half or 1/2 times. That is 3 has to be halved. The answer is simply 3/2 since 1/2 x 3 is the same as 3 x 1/2 . We will see more of this in the further question and understand this visually as well.   
+Going back to the previous question of Lin and Han, which diagram do you think best describes taking half of 3?  
+
+<img src="F02-3-times-1by2-type1.png " width="300" style="display: block; margin: 0 auto;">
+
+<img src="F02-3-times-1by2-type2.png " width="300" style="display: block; margin: 0 auto;">
+
+
+
+Both diagrams seem to be giving the same final amount. But when we think of taking half of 3, then Image B makes more sense. Image A explains the context of 3 x 1/2 better.   
+Image B can also be thought of as 3 divided by 2, which is 3/2 . A division question can thus be rearranged and thought of as a multiplication problem. In such a case where the fraction is multiplied by the whole number (1/b x a), we can think of the fraction as the operator and the whole number as the quantity that is being operated on. 1/2 x 3 means 3 is being halved. 
+Look at the diagram below.  
+
+<img src="F02-four-by-three.png " width="300" style="display: block; margin: 0 auto;">
+
+What expression do you think it shows? 
+(i) Does it show 4 ÷ 3? How? It shows 4 ÷ 3 because there are 4 whole squares divided into 3 equal parts each with 1 of those parts shaded. 
+(ii) Does it show 4/3? How? It also shows 4/3 as there are 4 pieces shaded and each is 1/3 of a unit rectangle. 
+(iii) Does it show 4 x 1/3? How? It shows the multiplication expression 4 x 1/3 because there are 4 groups of 1/3 shaded.  
+(iv) Does it show 1/3 x 4? How?  It shows the multiplication expression 1/3 x 4 since there is a total of 4, and 1/3 of the whole 4 is shaded.  
+The different expressions all define one image, but we use the appropriate expression as the context demands, which we will be practicing all along. For now, let us focus on the multiplication expression of the form 1/b x a. As we have already started exploring, 1/b x a means taking a fraction of a whole number, where the fraction acts as the operator and affects the whole number quantity. Keep this in mind while solving problems ahead.  
+
 ### Finding Fraction of a Quantity
 
 Let's recall the idea of expressing multiplication as finding the area of a rectangle with one side as a fraction and the other as a whole number. If we take an example of 1/2 x 4, we can first take a rectangle of one side as 4 and one side as 1. The area of this whole rectangle is 1 x 4 = 4. But since we need 1/2 x 4, it can be expressed as follows:
 
-image3.9.png
+<img src="F02-Half-times-4.png" width="300" style="display: block; margin: 0 auto;">
 
 In this case, the side with length 1 has been divided into two parts and one part is shaded. The shaded portion can be written as 1/2 x 4, which is the area we need. This diagram doesn't quite help us in finding the answer.   
 For that, we will look at another example. Can you find the area of the shaded region? 
 
-image4.3.png 
+<img src="F02-Half-times-three.png" width="300" style="display: block; margin: 0 auto;">
 
 We see that half of the whole image is shaded. This already gives us the breadth. The length is three blocks each of size 1, so we have 1/2 x 3 as our area. Here, the whole 3 has been divided into smaller parts, each part being 1 whole. Everything else is the same as before. Now, we count the number of shaded parts -> 3.   
 3 out of how many are shaded? Out of 6. Will our answer be 3/6 ? 3/6 is less than a whole but our shaded portions definitely make more than a whole. So, 3/6 is incorrect. This is because the denominator has to be the number of parts that makes the whole or the one, rather than 3. So, we will get 3/2 , since one whole is divided into 2 parts. 3/2 is more than 1, so it is correct. So, we can find the answer by simply counting the shaded parts as the numerator and the denominator will be the number of parts that make up the whole.  
@@ -33,9 +59,7 @@ Numerically, we can find the answer by finding the product of the numerator and 
 Just like with multiplying a proper fraction with a whole number, the same is done for the multiplication of improper fractions and whole to get our product. It is easier to understand this by taking the whole number as the operator, so keep that in mind. 
 Look at the given image. Each small box (made using block lines) has a length and a breadth of 1. There are 4 of those lengthwise and 3 of these breadth-wise, giving us a rectangle of length 4 and breadth 3. we see that the whole figure is divided lengthwise into 16 divisions, with each length having 4 divisions. This means that 4 parts make a whole. Can you decide which statements can be correct for this image? 
 
-image4.9.png
-
-
+<img src="F02-three-times-15by4.png" width="300" style="display: block; margin: 0 auto;">
 
 Look at each row first. We have 15 shaded portions where 4 parts make a whole, so we have 15/4 for the first row. We have 3 such rows, so the expression is 3 x 15/4 . The area of the shaded portion is 3 times 15/4 . 
 Using this same idea, we can think of 15 as 3 3/4 which is taken 3 times. The area of the shaded portion is 3 times 3 3/4 .   
@@ -44,45 +68,27 @@ One way is to simply write it as an improper fraction. But another way is to use
 When we think of a mixed number 3 3/4 , we can write it as 3 + 3/4 . So our expression from before, 3 x ( 3 + 3/4) can be operated on using the distributive property. We get 3 x 3/4 + 3 x 3. We can then easily solve this to get 9/4 + 9 = 45/4 .    
 In the image as well, we can only take 3 whole columns and multiply that with the 3 rows for the second part of 3 x 3/4 + 3 x 3 (shown in grey). We have the fractional part 3/4 for each row. For three rows, we have 3 x 3/4 (purple). Adding the two gives us the final area! 
 
-image11.2.png
-
+<img src="F02-three-times-three-plus-three-times-3by4.png" width="300" style="display: block; margin: 0 auto;">
 
 ### Finding Fraction of a Fractional Quantity
 
 We have yet to deal with multiplication problems where both factors are fractions. They seem completely different from what we have learned before, but it is the same as when we multiply a whole number by a fraction operation. Like whole number are measurements or quantities, so are fractions. So, we simply need to use the fraction as operator in the same way as we did for when we had fraction x whole number multiplication. We will start simple and go in a step wise manner. Let us look at the given example. 
 Amanda has half a pan of cake leftover from a family gathering. How much cake is left? Look at the block diagrams below. 
-Image A
- A20.png
- 
-Image B 
-A24.png
 
-Image C 
-A25.png
- 
-Image D 
-A23.png
- 
+<img src=" F02-Half-cake-all.png" width="300" style="display: block; margin: 0 auto;">
+
 Images A, B and D all correctly represent the amount of the remaining cake, that is, half of the pan.  
 Image C shows two parts, one shaded and one not shaded, but they are not equal. The shaded portion does not represent half the pan of the cake, so this diagram is incorrect for the given situation.  
 If she eats a third of that, how much did she eat? Look at the block diagrams below. Which of them represent the amount of the pan of cake she has eaten?  
-Image E 
-A16.png
- 
-Image F 
-A17.png
- 
-Image G 
-A18.png
- 
-Image H 
-A19.png
- 
+
+<img src="F02-third-of-half-all.png" width="300" style="display: block; margin: 0 auto;"> 
+
 They all show the full pan cut in half. Then they show a half cut into 3 equal pieces and one of those pieces is shaded. In Images F and H, the pan is cut in half horizontally and in the other two, it is cut in half vertically. The cuts into 3 equal pieces are also sometimes horizontal and sometimes vertical. Nonetheless, all of them represent the amount of cake she has eaten, that is, a third of half (1/3 of 1/2) of the pan of cake.   
 By just looking at the diagram, can you now find out how much of the pan of cake had she eaten?  
-A21.png
 
- 
+
+<img src="F02-third-of-half-type-one.png" width="300" style="display: block; margin: 0 auto;">
+
 Looking at the above image, you may be tempted to say that the amount of the pan of cake she had eaten was 1/4, as there are 4 partitions shown. But you can easily see that they are not equal portions.   
 A26.png
 
