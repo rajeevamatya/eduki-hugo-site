@@ -14,7 +14,7 @@ toc: true
 ### What is area?
 
 Given are a few different shapes. 
-<img src="1_1_different_shapes.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_1_different_shapes.png" width="500" style="display: block; margin: 0 auto;">
 1_1
 
 
@@ -22,7 +22,7 @@ Given are a few different shapes.
 We can clearly see that all of the sizes of the shapes are not the same. Think of each shape being placed on a large piece of paper, or even the floor. Which shape do you think occupies more space on the paper/floor?   
 
 We can make a pretty good estimate for this just by looking at some of the images. Bigger shapes obviously occupy more space right? So let’s try arranging them in ascending order by how much space they occupy. Don’t worry if it turns out to be wrong, this is just an estimate.
-<img src="1_2_shapes_arranged_ascending.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_2_shapes_arranged_ascending.png" width="500" style="display: block; margin: 0 auto;">
 1_2 
 
 
@@ -48,14 +48,14 @@ So how do we do this?
 For this, let’s go back a few topics to the idea of measuring length.
 
 When we measure the length of a line, we do so by using a unit, say a meter. So, to measure a line, we count how many 1-meters there are in the line. If the total length of the line can occupy five 1-meters then the line has a length of 5 meters. This helps us correctly measure the length of the line, rather than just blindly estimating. We can see that below.
-<img src="1_3_5_times_one_meter.gif" width="300" style="display: block; margin: 0 auto;">
+<img src="1_3_5_times_one_meter.gif" width="500" style="display: block; margin: 0 auto;">
 1_3 
 
 
 The main idea of measuring area is the same. We need some standard like the 1-meter unit against which we can compare the area of any object. Could we not use the same?
  
 Let’s try it out for a rectangle. 
-<img src="1_4_6_square_meter.gif" width="300" style="display: block; margin: 0 auto;">
+<img src="1_4_6_square_meter.gif" width="500" style="display: block; margin: 0 auto;">
 1_4
 
 
@@ -65,14 +65,14 @@ We know that a rectangle has a length and a breadth/width. Here,  length means t
 Since our shape itself has a new dimension (width is addition to length), it makes sense for the unit of measure to have a new dimension as well, rather than using the one for length. Dimensions of a figure provide an idea about the size occupied by an object. We need a new quantity for defining the space occupied by an object because we can change space occupied by the object by two ways. 
 
 So, instead of using 1 meter, we add an additional dimension when we work with shapes. Adding a new dimension but with the same length gives us a square, with both sides being 1 meter.	 Now we have a measurement unit with length and width. 
-<img src="1_5_meter_square.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_5_meter_square.png" width="200" style="display: block; margin: 0 auto;">
 1_5
 
 
 
 In the case of length, we checked how many 1-meter lines fit in the line we wanted to measure. Similarly, in the case of the area of a rectangle, we check how many squares of side 1 meter (shown above) fit in it.   
 So let’s take a rectangle for example and let's try to see how many of the given squares will fit in it.
-<img src="1_6_15_square_meter.gif" width="300" style="display: block; margin: 0 auto;">
+<img src="1_6_15_square_meter.gif" width="500" style="display: block; margin: 0 auto;">
 1_6
 
 
@@ -91,7 +91,7 @@ Since we use a square of side 1 unit to measure other areas, we use square units
 
 Now that we know to use squares to measure area, let’s use this method to find the area of the four shapes from the beginning and see if we ordered them correctly. For this case, let’s just use square units and not any particular physical unit like cm or m. 
 
-<img src="1_7_different_grids.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_7_different_grids.png" width="500" style="display: block; margin: 0 auto;">
 image 1_7
 
 
@@ -112,7 +112,7 @@ Let’s see using an example of a rectangle.
 
 Which way of finding the area of the rectangle do you think is correct? Note that they are all the same rectangle. 
 
-<img src="1_8_same_figure_different_grades.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_8_same_figure_different_grades.png" width="1000" style="display: block; margin: 0 auto;">
 1_8
 
 
@@ -149,11 +149,11 @@ We know that one foot is equal to 12 inches, so how many square inches would be 
 
 
 The obvious answer would have been 12 square inches but can we be sure? Let’s see visually if this is correct.
-<img src="1_9_one_square_feet.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_9_one_square_feet.png" width="500" style="display: block; margin: 0 auto;">
 1_9
 
 
-<img src="1_10_one_square_feet_into_square_inches.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_10_one_square_feet_into_square_inches.png" width="400" style="display: block; margin: 0 auto;">
 1_10
 
 
