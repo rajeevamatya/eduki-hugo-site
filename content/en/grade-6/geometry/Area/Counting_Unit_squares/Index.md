@@ -107,7 +107,7 @@ Even though the concept seems obvious, this is the basic idea behind ‘decompos
 
 
 As we say, decomposing a shape into smaller parts does not change the overall area of the shape. Simply adding the smaller areas will give us the total area. We can see this clearly below.
-<img src="1_16_28_square_units.gif" width="300" style="display: block; margin: 0 auto;">
+<img src="1_16_28_square_units.gif" width="600" style="display: block; margin: 0 auto;">
 1_16
 
 
@@ -119,7 +119,7 @@ While this may seem kind of obvious in our previous example, the idea of decompo
 
 Let’s look at something interesting. 
 
-<img src="1_17_tangram_which_is_greater.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_17_tangram_which_is_greater.png" width="500" style="display: block; margin: 0 auto;">
 Image 1_17
 
 Here, we have a square, a cat-like shape, and a house-like shape. 
@@ -129,7 +129,7 @@ The house seems to have the smallest area. And the cat seems to have the largest
 
 
 But look at the animation below.
-<img src="1_18_decomposing_tangram.gif" width="300" style="display: block; margin: 0 auto;">
+<img src="1_18_decomposing_tangram.gif" width="500" style="display: block; margin: 0 auto;">
 1_18
 
 The same pieces make up the square, the cat and the house!
