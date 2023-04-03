@@ -21,8 +21,6 @@ Let's look at this situation. Three children want to eat 2 cupcakes each. How ma
 
 <img src="F01-Multiplication-as-repeated-addition.png" width="300" style="display: block; margin: 0 auto;">
 
-![Image](F01-Multiplication-as-repeated-addition.png)
-
 Throughout the lesson, we will get familiar with real-life diagrams and understand how their multiplication works and what they could give. Then we will see how we can represent them using block diagrams since they are easier to make and can be used for any quantity.  
 For example, 1/2 of an orange can be drawn using a block diagram as well. 
 
