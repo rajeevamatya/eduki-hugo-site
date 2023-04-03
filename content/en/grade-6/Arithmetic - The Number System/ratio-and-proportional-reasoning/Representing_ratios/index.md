@@ -10,9 +10,7 @@ weight: 140
 toc: true
 ---
 
-## Representation of ratio
-
-### Double number line 
+## Double number line 
 
 We are already familiar with a number line. It simply lists out the numbers in a line at certain fixed intervals (either 1 or 5 or any other number).
 
