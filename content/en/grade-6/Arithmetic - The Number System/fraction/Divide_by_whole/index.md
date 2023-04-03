@@ -70,44 +70,53 @@ So, in the case of a/b ÷ c, we can write it as a/b x 1/c , meaning, dividing by
 
 Finally, we will look at one more idea of why division works and how it is connected to multiplication. 
 We know that in a case of n x a = b, n is the number of parts and a is the size of each part, which when multiplied gives us the total size. This applies to other multiplication problems too: if n x p/q = np/q , n is the number of parts, p/q is the size of each, and np/q gives us the total. 
-Generalizing this, we can write, 
+Generalizing this, we can write,
+
 number of parts x size of each part = total size 
+
 With our previous knowledge, we know that 3 x 4 = 12 can be written as 12 ÷ 4 = 3 or 12 ÷ 3 = 4. 
+
 Combining this with our recent idea of 'number of parts x size of each part = total size', we can say that for 3 x 4 = 12, 3 is the number of parts and 4 is the size of each part. Now, if we look at the equation 12 ÷ 3 = 4, we see that we have the total (12) when divided by number of parts (3) giving us the size of each part (4)! This is the basic idea of our partition model!  
 This idea can help us convert division questions into multiplication questions and vice versa.   
-total ÷ number of parts = size of each part   
---> number of parts x size of each part = total  
+total ÷ number of parts = size of each part  
+
+--> number of parts x size of each part = total 
+
 The second equation of 12 ÷ 4 = 3 is another type of division question. It says: total (12) divided by the size of each part (4) gives us the number of such parts that fit (3), or how many parts of size 4 fits in 12? This is the repeated subtraction model of division, since the idea is that we keep removing sizes of 4 from 12 until we get 0, thus giving us 3 (since we can remove three 4s from 12). We will learn more about this in the next section.
 
 ## Dividing Fractional Quantities by Removing Equal Parts
 
 Let’s recall what we studied for the partition model of division:
 We know that 3 x 4 = 12 can be written as 12 ÷ 4 = 3 or 12 ÷ 3 = 4. 
+
 If we have: number of parts x size of each part = total size,  
+
 In the case of 3 x 4 = 12, 3 is the number of parts and 4 is the size of each part. For the partition model, if we look at equation 12 ÷ 3 = 4, we see that we have the total (12) when divided by the number of parts (3) giving us the size of each part (4)!  
 We will now move on to another way of understanding division, which is more helpful in making sense of a number divided by a fraction than the partition model from before.  
 The second equation of 12 ÷ 4 = 3 is another type of division question. It says: total (12) divided by the size of each part (4) gives us the number of such parts that fit (3), or how many parts of size 4 fit in 12? This is the repeated subtraction model of the division since the idea is that we keep removing sizes of 4 from 12 until we get 0, thus giving us 3 (since we can remove three 4s from 12).  
+
 Let’s look at an example to understand this better:  
 You have 6 mangoes, and you give away 2 at a time. This means you need to make groups with 2 mangoes each. What expression will you use to find the number of people that will get the mangoes? 
 In this case, the phrasing of the question is a bit different than the partition model of division. Rather than saying 6 mangoes have been divided among 3 people, which gives us 2 mangoes for each person, we are told that 6 mangoes have to be grouped into groups of 2 each and are asked how many such groups we can make. 
 This is another way to represent a division problem. This is like removing 2 mangoes each time and seeing how many such groups can be made, which is why it is called the 'repeated subtraction model of division". So, the expression here for 6 mangoes being divided into groups of 2 groups will be 6 ÷ 2. The answer will give us the number of people that the mangoes are divided into -> 3 people. 
 Hence, total ÷ size of each part = number of such parts
-gif100.gif 
+
+<img src="F03-6-magoes-divided-by-2-repeated-subtraction-gif.gif" width="300" style="display: block; margin: 0 auto;"> 
 
 The same idea applies to and is an easier way to understand a whole number quantity divided by a fraction. 
 Below is a diagram that shows strips of colored paper.  
-image6.7.png
 
+<img src="F03-coloured-paper-2m.png" width="300" style="display: block; margin: 0 auto;">
 
- 
 The strip is 2 meters long. The paper strips will be cut into different-sized pieces. 
 The strip will be cut into pieces that are 1/2 meter long. How many pieces do you think there will be?  
 We’ll start by looking at what the size of 1/2 is. The image shows us the size of 1/2 m.  
-image6.8.png
- 
+
+<img src="F03-half-of-1-m.png" width="300" style="display: block; margin: 0 auto;">
  
 How many of this ‘size’ will fit in the strip of 2 m OR how many sizes of 1/2 m can be made from the size of 2 m? Simply arrange the 1/2 strips to measure along with the 2 m strip as shown.  
-image6.9.png
+
+<img src ="F03-how-many-halves-fit-in-2.png" width="300" style="display: block; margin: 0 auto;">
 
 We see that 4 strips of size 1/2 m can be cut out from a strip of 2 m OR 4 strips of size 1/2 m will fit in a strip of size 2 m.
 What do you think is the expression from the previous situation? 
@@ -118,7 +127,8 @@ Do not confuse this with 1/2 divided by 2 (meaning the size of each part when ½
 
 Can we generalize such division questions to be solved numerically as well (like we did for the partition model)? Of course!
 If we have a question -> 4 ÷ 1/3 , it means that we are asking how many 1/3s fit in 4. From the image below, we see that there are three one-thirds that make up 1, so to make up 4, we need to divide 4 by 3, giving us 4 x 3. So, 4 ÷ 1/3 = 4 x 3. 
-gif101.gif
+
+<img src ="F03-how-mant-third-fit-in-4-gif.gif" width="300" style="display: block; margin: 0 auto;">
 
 This reinforces the idea that dividing by a fraction is the same as multiplying by its reciprocal.
 Let’s look at a question where the divisor is not a unit fraction  
