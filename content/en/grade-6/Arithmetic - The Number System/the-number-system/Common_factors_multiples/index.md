@@ -10,26 +10,22 @@ weight: 60
 toc: true
 ---
 
-## Finding Common Factors and Multiples
-
-### Common Factors
+## Common Factors
 
 Imagine that you are decorating for your sister’s birthday party. You have bought 24 balloons in total and you are confused about how you should place them on the wall but you are thinking of making certain bunches having equal numbers of balloons. Should you make 12 bunches with 2 balloons each?
 
-N29.png
-
-{{ $image := .Resources.GetMatch "N29.png" }}
-{{ with $image }}
-  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-{{ end }}
+<img src ="N02-12x2-balloons.png" width="300" style="display: block; margin: 0 auto;">
 
 Or would it look better if you made 6 bunches with 4 balloons each?
-N26.png 
+
+<img src ="N02-6x4-balloons.png" width="300" style="display: block; margin: 0 auto;">
 
 You could also make 8 bunches with 3 balloons each or simply place 24 balloons separately. 
-N27.png
 
-N28.png
+<img src ="N02-8x3-balloons.png" width="300" style="display: block; margin: 0 auto;">
+
+
+<img src ="N02-24x1-balloons.png" width="300" style="display: block; margin: 0 auto;">
 
 There are even more combinations, you can always reverse the number of bunches and the number of balloons in each bunch, like 2 bunches with 12 balloons each,... The number of bunches we can equally break down from 24 balloons and the number of balloons in each bunch; 1, 2, 3, 4, 6, 8, 12, and 24 are all factors of 24. Each of them divides 24 evenly and without a remainder. 
 A factor of a whole number ‘n’ is a whole number that divides ‘n’ evenly without a remainder. For example; When dividing 24 into 6 groups, we get 4 with no remainder. Also, when dividing 24 into 4 groups, we get 6 with no remainder. So, 4 and 6 are the factors of 24.     
@@ -53,10 +49,11 @@ Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24
 The common factors are 1, 2, 3, and 6. Of these, 6 is the greatest one, so 6 is the greatest common factor of 18 and 24. 
 Situations that involve having to divide two different numbers into equal groups with no remainders involve looking for a common factor. We will deal with such situations in this section.
 
-### Common Multiples
+## Common Multiples
 
 Suppose a florist can order roses in bunches of 12. If she ordered 4 bunches of roses, how many total roses does she have? 
-N30.png
+
+<img src ="N02-4-times-12-multiple.png" width="300" style="display: block; margin: 0 auto;">
 
 She has a total of 48 roses with her. 48 is a multiple of 12. 48 is also a multiple of 4. A multiple of a whole number is a product of that number with another whole number. For example, 20 is a multiple of 4 as well as of 5 because 20 = 5 x 4. 
 The next day, the florist wanted to order tulips as well. She can order roses in bunches of 12 and tulips in bunches of 8. If she wanted an equal number of roses and tulips, how many bunches of each could she have ordered? 
@@ -78,20 +75,24 @@ Multiples of 10: 10, 20, 30, 40, 50, . . .
 20 and 40 are both common multiples of 4 and 10 (as are 60, 80, . . . ), but 20 is the smallest number that is on both lists, so 20 is the least common multiple. 
 Situations that involve different numbers that need to be multiplied to make the same number involve finding common multiples. We will deal with such situations in this section.
 
-### Distributive Property and Greatest Common Factor
+## Distributive Property and Greatest Common Factor
 
 You have already learned about the multiplication of whole numbers, but do you know about the distributive property of multiplication? It is one of the most interesting properties of multiplication. 
-To understand, let’s look at the array of balls arranged into 12 rows and 5 columns, meaning 5 x 12. 
-N31.png
+To understand, let’s look at the array of balls arranged into 12 rows 
+
+<img src ="N02-5x12-balls.png" width="300" style="display: block; margin: 0 auto;">
 
 How many balls are there in total? 5 x 12 = 60 If we divide the row of 12 balls into rows of 10 balls and 2 balls, the array will look like this. 
-N32.png
+
+<img src ="N02-5x12-balls-divided.png" width="300" style="display: block; margin: 0 auto;">
 
 We can still find out the total number of balls by finding out the products separately and then adding them together. 5 x (10 + 2) = (5 x 10) + (5 x 2) = 50 + 10 = 60.
 According to the distributive property of multiplication, the product of two sums is equal to the sum of the individual products. In context of the example above, it simply means to convey that; 5 x (10 + 2) = (5 x 10) + (5 x 2). 
 Generalizing; we get; a x (b + c) = (a x b) + (a x c). 
 If we had broken down the 5 columns instead of rows, the distributive property would still be valid. 
-N33.png
+
+<img src ="N02-5x12-balls-divided-2.png" width="300" style="display: block; margin: 0 auto;">
+
 
 The total number of balls can be calculated as; 
 (3 + 2) x 12 = (3 x 12) + (2 x 12) = 60.
@@ -104,4 +105,3 @@ Using the distributive property, it can be written as;
 36 + 8 = 4 x (9 + 2)
 This process makes the calculation simpler. We can simply move forward with 4 x 11 = 44.
 
-[def]: N29.png "Factor"
