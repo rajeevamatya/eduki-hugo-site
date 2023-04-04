@@ -30,6 +30,5 @@ The 9 equal parts on the diagram need to give us the 18 total birds. This means 
 <img src ="R04-ducks-and-chickens-with-2-each-part.jpg" width="300" style="display: block; margin: 0 auto;">
 
 
-
 We could also do this numerically. We know that the ratio of ducks to total animals will be 4:9. If the total is now 18, that means we need to multiply duck numbers by 2 as well to get 2x2 = 4 (because 9 x 2 = 18). 
 
