@@ -33,7 +33,7 @@ So 8 cm in the model is 1200 cm or 12 m in the structure!
 
 You have probably seen a line with numbers when you look at maps. It gives us a scale so that we can assume how far two locations are based on the map we are looking at. 
 
-image20.8.png
+<img src ="R05-scaling.jpg" width="300" style="display: block; margin: 0 auto;">
 
 In the image, we see the scale for miles. The distance between 0 and 50 miles in real life is the measure of the first black part of the scale. So if on the map, two locations are as far apart as the first black block, then the two locations are 50 miles apart. In ratio form, the ratio of distance on map to real distance can be written as 1cm : 50 miles (if we assume that the black line is 1 cm long). 
 
