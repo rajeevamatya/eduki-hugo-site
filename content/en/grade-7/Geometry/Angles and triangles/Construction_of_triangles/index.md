@@ -1,5 +1,5 @@
 ---
-title: "4"
+title: "Construction of triangles"
 description: ""
 lead: ""
 date: 2020-11-12T15:22:20+01:00
