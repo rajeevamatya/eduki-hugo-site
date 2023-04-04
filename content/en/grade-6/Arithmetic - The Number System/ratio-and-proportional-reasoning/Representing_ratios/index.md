@@ -14,7 +14,7 @@ toc: true
 
 We are already familiar with a number line. It simply lists out the numbers in a line at certain fixed intervals (either 1 or 5 or any other number).
 
-image18.7.png
+<img src ="R03-number-line.jpg" width="300" style="display: block; margin: 0 auto;">
 
 It can also extend both ways when we introduce negative numbers. 
 
@@ -24,27 +24,32 @@ Let’s see why we need two numbers lines, or the double number line and how tha
 
 Given is the image that shows the ratio of how two milk mixtures are made from milk powder and milk. 
 
-Image18.8.png
+<img src ="R03-two-mixtures.jpg" width="300" style="display: block; margin: 0 auto;">
 
 We see that the ratio of milk powder to water is 4:1 for mixture A and 8:2 for mixture B. Let’s first look at mixture A and see how it can be shown using two number lines. 
 
 First, we look at the milk powder. There are 4 spoons of that, so we can simply show it as:
-Image18.9.png
+
+<img src ="R03-4-spoons.jpg" width="300" style="display: block; margin: 0 auto;">
 
 For the cup of water, we do the same in a different number line as show the one cup as follows:
-Image19.0.png
+
+<img src ="R03-1-cup.jpg" width="300" style="display: block; margin: 0 auto;">
 
 So why exactly is it called a double number line and why does it matter? This is because we need to make them together to show that the 4 and 1 are related. So we label the two lines and draw them together as shown:
 
-image19.1.png
+<img src ="R03-two-number-lines.jpg" width="300" style="display: block; margin: 0 auto;">
 
 This diagram now shows us that for one cup of water, 4 spoons of milk powder is used. We need to make sure that the 4 and the 1 coincide with each other since it is through this alignment that the association of two quantities are shown.  We do not coincide 1 with the 1, since that would tell us that 1 cup is mixed with 1 spoon powder. 
 
 Just like discrete diagrams we made before, double number lines can also be used to represent equivalent ratios. Rather than making a new ‘double number line’, what we do is simply extend this one!
-gif33.gif
+
+<img src ="R03-extending-double-number-line-gif.gif" width="300" style="display: block; margin: 0 auto;">
+
 Keep in mind that the distance between the 4 and 8 and 1 and 2 is the same. In the top line, the interval increases by 4 and in the second, it increases by 2. This is because both have been multiplied by 2. This time, we see that along with 4 and 1. 8 and 2 also coincide. So the same number line shows us two different ratios! Notice that these coinciding pairs of numbers that have “lined up” vertically are equivalent ratios!
 Double number lines are quicker to draw than discrete diagrams and can be extended easily to show many more equivalent ratios, so they are more efficient, especially for dealing with larger quantities. Like we multiply each number in the ratio by the same number to get new equivalent ratios, we do the same here and keep extending the double number line. Do remember to maintain the interval in the two lines. 
-gif34.gif
+
+<img src ="R03-extending-souble-number-line-to-show-equivalent-ratios-gif.gif" width="300" style="display: block; margin: 0 auto;">
 
 
 In the diagram, we see two quantities with 4, which could confuse us about which it is referring to. But we need to remember that each number line represents a different quantity, and that the two 4’s have different meanings, spoons of milk powder and 4 cups of water.
@@ -56,9 +61,9 @@ Let’s look at one more question before starting out with the practice.
 
 For a paint mix of blue and yellow to get a shade of green as shown, we have the discrete diagram as well as the double number line. 
 
-image19.3.png
+<img src ="R03-blue-andyellow-paint.jpg" width="300" style="display: block; margin: 0 auto;">
 
-image19.2.png
+<img src ="R03-blue-andyellow-paint-number-line.jpg" width="300" style="display: block; margin: 0 auto;">
 
 The equivalent fraction of 10:30 for the ratio of blue to yellow is also shown in the double number line. 
 
@@ -66,14 +71,14 @@ We can easily divide the number line for 5 into smaller intervals of 1 and label
 
 Here, the idea of a ratio written as a fraction comes in handy. Let’s say the ratio of red to yellow paint to make orange is 2 ml:4 ml. To find how much red paint you need for 1 ml yellow, we divide both by 4 (since we need to make 4 ml yellow as 1 ml). This gives us the first term as 2/4, which is the fractional form of 2:4!. So essentially, the fractional form of a ratio is the first term when we make the second term to be one!
 
-### Tabular form
+## Tabular form
 
 We will look at one more way to write ratios and show equivalent ratios. The TABULAR FORM!  They are similar to double number lines but also have their own perks. 
 Let’s look at one example of how we express ratios in a table. 
 
 To make a t- shirt, fabrics of two colors are used - green and yellow. Each shirt requires 700 cm of green and 200 cm of yellow fabric. Some equivalent ratios for green to yellow fabric are 7:2, 3.5:1, 14:4, etc. Now, we can show the two quantities in a table containing two columns. 
 
-table1.2.pmg
+<img src ="R03-green-and-yellow-fabric.jpg" width="300" style="display: block; margin: 0 auto;">
 
 
 Here, each column heading is a quantity (here, green and yellow fabric). So each value in that column is for the specific quantity and they are equivalent. Each row has a value for each of the quantities, thus making a ratio!
@@ -82,4 +87,4 @@ One other thing about the tabular representation is that the numbers when going 
 
 For example, say you want to make a t- shirt with 1200 cm of yellow fabric. How much green fabric would you need? If we used a double number line, we would have to continue to draw a line until we reached 1200, which would be pretty long. But, in the case of a table, we simply add one more row and find the missing value by multiplying both numbers with 6 (This is because 200 x 6 = 1200, so we multiply the quantity for green with 200 as well, giving us 700 x 6 = 4200 cm).
 
-table1.3.png
+<img src ="R03-green-and-yellow-fabric-equivalence-table.jpg" width="300" style="display: block; margin: 0 auto;">
