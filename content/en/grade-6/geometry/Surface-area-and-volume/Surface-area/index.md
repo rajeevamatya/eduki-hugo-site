@@ -111,3 +111,4 @@ Pyramids can also have base of other shapes. A hexagonal base pyramid has six tr
 2.30
 
 You may have noticed the use of dotted lines in the different objects analyzed till now. That is to give an idea of the hidden faces that we can't see from the front. 
+
