@@ -38,11 +38,13 @@ If ∠B and ∠D are equal, then the sides opposite to them i.e. AC and EF are c
 Have a look at the two figures.
 <img src="9_17_quadrilateral_dilated_and_rotated1.jpg" width="400" style="display: block; margin: 0 auto;"> 
 9.17
+
 These two figures are similar to each other. Can you locate the corresponding points?
 First of all, we need to contemplate if they are congruent or not. For them to be congruent, one or a combination of rigid transformations should turn one object into the other. Since we clearly see that they have different sizes and no rigid transformation changes size, they are not congruent. 
 However, in case of similarity, you can get one object from the other through a combination of one or more rigid transformations along with dilation. 
-<img src="9_18_quadrilateral_dilated_and_rotated2.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="9_18_quadrilateral_dilated_and_rotated2.gif" width="600" style="display: block; margin: 0 auto;">
 9.18
+
 In this case, it is found to be the combination of rotation and dilation but in other cases, there might be more processes involved. 
 We can track down the different vertices of the object so that the corresponding points are found. R is the corresponding point of W, Q is for Z, P is for Y and S is for X. 
 It would be helpful to find out what transformation processes were followed to get the image out of the object but it isn't always straightforward. 
@@ -66,5 +68,6 @@ The blue rectangle has a length of 3 units and a width of 2. The rectangle in pi
 Here the green dotted line joins the corresponding points. Since the blue rectangle is smaller, the center of dilation if present must be towards its side. We produce the green dotted lines towards that side. 
 <img src="9_21_rectangle_dilated_true_or false3.jpg" width="400" style="display: block; margin: 0 auto;">
 9.21
+
 It can be seen that the lines meet at three different points. If they had met at one point then the figures would have been similar. 
 Another method is comparing the length and widths with each other. The width of the rectangle is 2 units while it is 3 units for the larger. The larger rectangle is 3/2 or 1.5 times wider than the smaller one. The lengths are 3 and 4 respectively. The larger rectangle is 4/3 or 1.33 times longer than the smaller rectangle. This doesn't show consistency as 1.33 and 1.5 aren't equal to each other. So, the figures aren't similar to each other. Remember that the ratio needs to be the same.

@@ -12,7 +12,7 @@ toc: true
 
 Sphere
 Another type of 3D object with a curved surface is a sphere. It does not have any flat face at all. 
-<img src="7_12_sphere.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="7_12_sphere.jpg" width="200" style="display: block; margin: 0 auto;">
 7.12
 
 Observing the above image, what objects can you think of that look like it?
@@ -22,11 +22,11 @@ Football, basketball, volleyball, and many other balls that are used in sports a
  
 The total surface area of the sphere
 The surface area of the sphere is measured with the help of a cylinder of the same dimensions as the sphere. Meaning the height of the cylinder is the same as the diameter of the sphere and the diameter of the sphere and cylinder are the same as well. Basically, the sphere perfectly fits in a cylinder, as shown. Note that the cylinder is hollow, with no bases.
-<img src="7_14_sphere_cylinder.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="7_14_sphere_cylinder.jpg" width="200" style="display: block; margin: 0 auto;">
 7.14
 
 It is found that the cylinder completely covers the upper and lower surfaces of the sphere. This means that the lateral/curved surface area of the cylinder and the sphere are the same. 
-<img src="7_15_sphere_total_surface_area.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="7_15_sphere_total_surface_area.gif" width="500" style="display: block; margin: 0 auto;">
 7.15
 
 Lateral surface area of the cylinder = 2πrh = 2πr x 2r = 4πr2
@@ -36,7 +36,7 @@ This is the total surface area of the sphere.
 Volume of sphere
 To find the volume of the sphere, a cone of the same height and radius as the cylinder (from before) is filled with a liquid. The liquid from the cylinder and cone is emptied on the sphere of the same radius and it fits exactly.
 This means that the volume of the cone and cylinder when added together gives the volume of the sphere.
-<img src="7_16_volume_of_cone_cylinder_sphere.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="7_16_volume_of_cone_cylinder_sphere.gif" width="500" style="display: block; margin: 0 auto;">
 7.16 
 
 The volume of the cylinder + volume of the cone = Volume of the sphere
@@ -45,12 +45,12 @@ or, Volume of sphere =
 = (4/3) x πr3
 Hemisphere
 Half a sphere or the shape that we get when we cut the ball in half is a hemisphere. 
-<img src="7_17_hemisphere.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="7_17_hemisphere.jpg" width="300" style="display: block; margin: 0 auto;">
 7.17
 
 What objects resemble a hemisphere?
 Half-cut foods like lemon, coconut, and watermelon are suitable examples. Utensils such as bowls are also hemispherical. One thing to notice is that the bowl is hollow because it has space whereas the other hemispheres shown are solid because there is no space in between. 
-<img src="7_18_hemispherical_objects.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="7_18_hemispherical_objects.jpg" width="500" style="display: block; margin: 0 auto;">
 7.18
 
 

@@ -12,11 +12,11 @@ toc: true
 Cone
 The surface area of the cone
 Let's have a look at the cone next. A cone is to the cylinder as a pyramid is to a prism. The area of the circle at the base goes on decreasing as the height of the cone increases, and finally meets at the highest height.
-<img src="7_6_cone.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="7_6_cone.jpg" width="200" style="display: block; margin: 0 auto;">
 7.6
  
 The height of the cone is the perpendicular distance from the center of the base to the highest point. The height from the edge of the circle to the top point is the cone's slant height. The slant height is measured along the curved surface of the cone that is a bit slanted with the vertical. 
-<img src="7_7_cone_dimensions.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="7_7_cone_dimensions.jpg" width="200" style="display: block; margin: 0 auto;">
 7.7
 
 The curved surface formed is such that when it is opened as we did with the cylinder, we get the shape shown in the figure. 
@@ -51,8 +51,9 @@ Volume of cone
 
 The volume of the cone is found to be ⅓ of the total volume of the cylinder with the same radius and height. 
 It can be verified experimentally by taking a cone and a cylinder of the same base area and height. If a liquid is filled in the cone and then emptied into the cylinder, it requires three cone full of liquid fill the cylinder up to the brim.
-<img src="7_11_cone_cylinder_volume.gif" width="400" style="display: block; margin: 0 auto;">
-7.11 
+<img src="7_11_cone_cylinder_volume.gif" width="500" style="display: block; margin: 0 auto;">
+7.11
+
 Observe the above image, the initial height of liquid inside the cylinder is 2/3 times the actual height of the cylinder. When a solid cone of the same height as the cylinder is dropped into the liquid, the cylinder is filled to the brim.
 Therefore, 
 The volume of the cylinder = 2/3 of the volume of the cylinder + volume of the cone

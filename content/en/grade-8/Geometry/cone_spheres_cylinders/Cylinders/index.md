@@ -14,13 +14,13 @@ In grade 7, we learned about the different types of Polyhedra and how to disting
 We will now look at Non-Polyhedra, surfaces that do have curved surfaces. Examples of these include cylinders, cones, and spheres. 
 Cylinder
 Let's start with a cylinder. It is an object formed by stacking multiple circles of the same radii one on top of the other, or by rolling a rectangle and joining the opposite edges that meet. 
-<img src="57_1_circles_extended.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="7_1_circles_extended.gif" width="400" style="display: block; margin: 0 auto;">
 7.1
 
 
 
 If the surfaces of the cylinder are spread out then we get something like shown below. 
-<img src="57_2_net_of_a_cylinder.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="7_2_net_of_a_cylinder.gif" width="400" style="display: block; margin: 0 auto;">
 <img src="7_3_cylinder_views.jpg" width="400" style="display: block; margin: 0 auto;">
 7.2 7.3
 
@@ -35,7 +35,7 @@ Base area = area of circle = πr^2
 Volume = Base area x height = πr^2 x h
 Finding the surface area of the cylinder is a little bit more tricky than finding the volume. With Polyhedra, it was easy because all of the shapes were flat, and we could easily find the area of the flat 2D objects. 
 In a cylinder, the two bases are flat circles, but a curved surface joins the two circles. We can cut the curved surface, in a way that is parallel to the axis. This gives a rectangle and two circles at the two ends.   
-<img src="57_2_net_of_a_cylinder.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="7_2_net_of_a_cylinder.gif" width="400" style="display: block; margin: 0 auto;">
 7.2
 <img src="7_5_net_of_a_cylinder.jpg" width="400" style="display: block; margin: 0 auto;">
 7.5
