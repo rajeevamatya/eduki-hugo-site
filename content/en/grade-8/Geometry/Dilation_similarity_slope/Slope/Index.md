@@ -14,16 +14,16 @@ toc: true
 
 ## Slope of a line using similarity
 Let's start with a line.
-<img src="9_22_similar_triangles.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_22_similar_triangles.jpg" width="500" style="display: block; margin: 0 auto;">
 9.22
 
 We know that c/d would be equal to 6/5. As a matter of fact, no matter whichever two points you pick up from the black line, the ratio between the vertical and the horizontal sides (forming a right-angled triangle) will be the same. That ratio is known as the slope of the line. 
 The measure of vertical and horizontal lines dropped from the line helps to find out the inclination between two lines. For example, take the two lines. 
-<img src="9_23_slope1.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_23_slope1.jpg" width="500" style="display: block; margin: 0 auto;">
 9.23
 
 The pink line is much steeper than the blue line. We can say that because the vertical distance traveled with respect to the same horizontal displacement is much more in the pink than in the blue.
-<img src="9_24_slope2.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_24_slope2.jpg" width="500" style="display: block; margin: 0 auto;">
 9.24
 
 Thus the slope of the pink line will be more than that of the blue line. 
@@ -32,47 +32,47 @@ The slope of the pink line is 8/4=2
 The slope of the blue line is 3/4=0.75
 The slope of the line signifies a lot of information about the line. 
 For example, a horizontal line has a slope of 0, because it moves no vertical distance when it moves a certain horizontal distance. Since there is no vertical distance, their y coordinate is constant for all points lying on it. 
-<img src="9_25_y_equals_3.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_25_y_equals_3.jpg" width="500" style="display: block; margin: 0 auto;">
 9.25
 
 A vertical line slope cannot be defined because it travels an infinite vertical distance while traveling 0 horizontal distance. Since there is no horizontal distance, their 𝑥 coordinate is constant for all points lying on it. 
-<img src="9_26_x_equals_3.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_26_x_equals_3.jpg" width="500" style="display: block; margin: 0 auto;">
 9.26
 
 A line will have a negative slope if it is heading downwards. That is because it drops some vertical distance when the line moves some horizontal distance. 
-<img src="9_27_negative_slope_line.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_27_negative_slope_line.jpg" width="500" style="display: block; margin: 0 auto;">
 9.27
 
 
 
 When two lines are compared, their paths are either parallel or intersecting. Lines are parallel when their slope is the same. It means they travel the same vertical distance for a certain horizontal distance. Lines intersect only when they rise at different rates in comparison to each other. Here the blue and green lines given are parallel to each other. 
-<img src="9_29_similar triangle slope2.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_29_similar triangle slope2.jpg" width="500" style="display: block; margin: 0 auto;">
 9.29
 
 Also, the triangles formed from parallel lines in the manner shown before are similar to each other. In the particular figure above, the red and purple parts make up two congruent triangles but even if the size is varied, the triangles formed will always be similar.
-<img src="9_28_similar triangle slope1.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_28_similar triangle slope1.jpg" width="500" style="display: block; margin: 0 auto;">
 9.28
 
 If any two points on the line are (x1, y1) and (x2, y2) then the slope of the line is:
 (y2-y1)/(𝑥2-𝑥1)
-<img src="9_30_slope_formula.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="9_30_slope_formula.gif" width="600" style="display: block; margin: 0 auto;">
 9.30
 
 A line contains multiple points on it. For constructing it, we know that we need at least two points but it doesn't provide the information on which other points it passes through. For example, a line that joins (1, 1) and (5, 5) also passes through (2, 2), (3,3), and so on to name a few. If we had to mention each point that a line passes through to just define it, then a page may not be enough. Sure enough, if we have graph paper then it's easier to show but when we don't have it, we have to list an infinite number of points. 
 That is when the use of equations comes in. Equations help us to define all the points in a line without having to mention them individually.  For example, remember this horizontal dotted line from an earlier lesson. 
 
-<img src="9_25_y_equals_3.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_25_y_equals_3.jpg" width="500" style="display: block; margin: 0 auto;">
 9.25
 Here all of the coordinates that lie on the line have their y coordinate as 3. Thus the equation for this line is y=3. Simple!
 Similarly, the vertical line has all of its points having the 𝑥-coordinate as 3. Thus the equation of the line is 𝑥=3. 
-<img src="9_26_x_equals_3.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_26_x_equals_3.jpg" width="500" style="display: block; margin: 0 auto;">
 9.26
 
 Not all lines are horizontal or vertical, How do we define the equation of the other types of lines?
 In those cases, we take the help of slope. That is because the difference in the locations of any two points lying on the line is dependent on the slope which is the same throughout the line. Have a look at the blue line in the two figures. In the first figure when the horizontal distance is 4, the vertical distance is 4. But when a larger triangle is taken with 8 horizontal distance, the vertical distance also rises to 8 thus verifying that there will be a unit vertical distance rise for each horizontal distance. 
-<img src="9_29_similar triangle slope2.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_29_similar triangle slope2.jpg" width="500" style="display: block; margin: 0 auto;">
 9.29
-<img src="9_28_similar triangle slope1.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_28_similar triangle slope1.jpg" width="500" style="display: block; margin: 0 auto;">
 9.28
 ### Calculation of slope
 Let's try to find the equation of a straight line plotted in the graph.

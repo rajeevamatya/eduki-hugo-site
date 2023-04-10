@@ -23,7 +23,7 @@ As we can see, the angles between the different lines are the same. The parallel
 The other important requirement for dilation is the center. This is the point, with respect to which an object has to be dilated to get the image. The object/image seems to vanish at the center. The value of the scale factor gives how far the image will be from the center when compared with the distance of the object from the same center. Basically, the ratio of the distance from the center to the image and the center to the object gives us the scale factor. 
 In the same way as rotation, all objects (vertices) and their respective images can be joined with a line all passing through the center.  
 The given figure is an example of dilation, in which the object has been dilated with a scale factor of 3 from the center O shown. 
-<img src="9_2_quadrilateral_dilated1.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="9_2_quadrilateral_dilated1.gif" width="500" style="display: block; margin: 0 auto;">
 9.2
 
 The scale factor is the ratio of the distance of the image from the center to the distance from the object to the center (you can measure the distance of just one point for this). We get this as 3 for this case. 
@@ -34,8 +34,8 @@ Think of proportional relationships where all quantities are multiplied by the s
 These scaled copies also have proportional relationships between corresponding sides (the original side and its scaled side). In the case of the quadrilateral above, the image is 3 times bigger than the object, for all measurements. This means that the ratio of corresponding sides of the object and image maintains a constant value, 3. This applies to all dilated figures for all points. The scale factor basically is the dimension of the image divided by the corresponding dimension of the object. 
 If the ratio is higher than 1, then the given object has been magnified in the image. If it is less than 1, the object gets diminished in the image and if the scale factor is 1 then the object and image are of the same size. 
 Some more examples of similar shapes with different centers used:
-<img src="9_3_quadrilateral_dilated2.jpg" width="400" style="display: block; margin: 0 auto;">
-<img src="9_4_quadrilateral_dilated3.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_3_quadrilateral_dilated2.jpg" width="500" style="display: block; margin: 0 auto;">
+<img src="9_4_quadrilateral_dilated3.jpg" width="500" style="display: block; margin: 0 auto;">
 9.3 9.4
 
 
@@ -58,32 +58,33 @@ Thus the dilated triangle formed is DEF which has its sides half that of triangl
 <img src="9_8_Enlargement_in_circular_grid4.jpg" width="400" style="display: block; margin: 0 auto;">
 9.8
 
-<img src="9_9_Enlargement_in_circular_grid5.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="9_9_Enlargement_in_circular_grid5.gif" width="600" style="display: block; margin: 0 auto;">
 9.9
+
 ### Dilation in a rectangular grid
 Let's observe a similar example to understand how it's done in a rectangular grid. 
-<img src="9_10_Enlargement_in_rectangle_dilated1.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_10_Enlargement_in_rectangle_dilated1.jpg" width="500" style="display: block; margin: 0 auto;">
 9.10
 
 If the given rectangle was to be dilated with the scale factor of 2, we need to locate where the center of dilation is.
 It is located 2 units downwards and upwards on the top and bottom sides respectively. It's 2 units towards the right from the left side and 3 units towards the left from the right side. 
-<img src="9_11_Enlargement_in_rectangle_dilated2.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_11_Enlargement_in_rectangle_dilated2.jpg" width="500" style="display: block; margin: 0 auto;">
 9.11
 
 Since the scale factor is 2, we must understand the distance of the center between the sides will be doubled. That means the four sides of the rectangle will be pushed even further (at a double distance) from the center. The left side that was 2 units away is pushed 2 units further making it 4 units far from the center. The same is done with other sides too.
-<img src="9_12_Enlargement_in_rectangle_dilated3.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_12_Enlargement_in_rectangle_dilated3.jpg" width="500" style="display: block; margin: 0 auto;">
 9.12
 
 After that, the sides are produced and joined together. 
-<img src="9_13_Enlargement_in_rectangle_dilated4.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_13_Enlargement_in_rectangle_dilated4.jpg" width="500" style="display: block; margin: 0 auto;">
 9.13
 
 The rectangle we get at the end is as shown in the figure below in dark blue. 
-<img src="9_14_Enlargement_in_rectangle_dilated5.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src="9_14_Enlargement_in_rectangle_dilated5.jpg" width="500" style="display: block; margin: 0 auto;">
 9.14
 
 All the steps described above are shown step by step in the diagram below.
-<img src="9_15_Enlargement_in_rectangle_dilated6.gif" width="400" style="display: block; margin: 0 auto;">
+<img src="9_15_Enlargement_in_rectangle_dilated6.gif" width="500" style="display: block; margin: 0 auto;">
 9.15
  
 We know that the new rectangle formed is four times the size of the current rectangle. That is because while scaling, the length is scaled to double, and the width is scaled to double. The sides of the image formed are always parallel to the corresponding sides of the object. 
