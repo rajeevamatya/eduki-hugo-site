@@ -22,10 +22,17 @@ Solving this equation means finding out a square of what number is 4. A Square i
 An equation of 𝑥^n=p form is said to have n possible values of 𝑥 that satisfy the equation. 
 
 How can we solve the equation 𝑥^2 = 4?
+
+
 or, 𝑥^2 - 4 = 0
+
+
 or, 𝑥^2 - 2^2 = 0 
+
+
 or, (𝑥 - 2) (𝑥 + 2) = 0
-When we know that two numbers are multiplied to get 0, at least one of them must be 0. The product of two non-zero numbers cant is 0. Also, one fact is that whatever the value of 𝑥 be, both the terms (𝑥 - 2) and (𝑥 + 2) cant be 0 at the same time. If one of them is 0, the other isn't. 
+When we know that two numbers are multiplied to get 0, at least one of them must be 0. The product of two non-zero numbers cant is 0. 
+Also, one fact is that whatever the value of 𝑥 be, both the terms (𝑥 - 2) and (𝑥 + 2) cant be 0 at the same time. If one of them is 0, the other isn't. 
 If (𝑥 - 2) =0
 Then 𝑥 = 2
 
@@ -37,9 +44,17 @@ In another example,
 𝑥^3=27
 What number when cubed becomes 27? 
 𝑥^3-27=0
+
+
 or, 𝑥^3 - 3^3 = 0
+
+
 or, (𝑥 - 3) (𝑥^2 + 3𝑥 +3^2) = 0
+
+
 or, (𝑥 - 3) (𝑥^2 + 3𝑥 + 9) = 0
+
+
 The same case here. At least one of the two expressions must be 0. 
 Either 𝑥 - 3 = 0
 or, 𝑥 = 3

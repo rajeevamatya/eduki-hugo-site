@@ -35,8 +35,14 @@ It would be much more helpful if the blocks were of the same size. For example, 
 2.4
 
 that is half of 𝑥 plus half of 𝑥 means two halves make one full. 
+
+
 =𝑥/2 + 𝑥/2
+
+
 =2(𝑥/2)
+
+
 = 𝑥
 Now let's get back to 𝑥/3 + 𝑥/2
 <img src="2_3_xby2_plus_xby3.jpg" width="400" style="display: block; margin: 0 auto;">
@@ -53,12 +59,24 @@ What we see from the figure is that we have to add two 𝑥/6's and three 𝑥/6
 2.6
 
 2 x 𝑥/6 + 3 x 𝑥/6
+
+
 =5𝑥/6
+
 We show that whole process numerically by
+
+
 (𝑥 x 3)/(2 x 3) + (𝑥 x 2)/(3 x 2)
+
+
 =3𝑥/6 + 2𝑥/6 
-=5𝑥/6 
+
+
+=5𝑥/6
+
 It can also be said that when 𝑥/2 and 𝑥/3 are added it becomes the same as 5/6 times 𝑥.  
+
+
 When one of the operating coefficients is in the form of a fraction and the other is an integer, we still need to find out the LCM of 1 (as all integers 'n' can be written as n/1) and the denominator of that fractional coefficient.
 We divide the integer part into exactly that many divisions by which the fraction is made of. For example 
 𝑥 +  𝑥/6 means we need to add a full part of 𝑥 and one-sixth of 𝑥
@@ -76,33 +94,66 @@ Often, the convention about the order of operations (like PEMDAS, that you learn
 
 ### Percentage in expressions
 Percentages as we learned in previous classes are one way of expressing quantities that are not integers but rational numbers. writing 𝑥/4 in fraction means we divide 𝑥 into 4 parts and take one of them. In the case of percentage, we divide 𝑥 into 100 parts and take 25 of them. thus writing 25% of 𝑥. 
+
 For those of you who are wondering where did 25 come from, one-fourth of 100 or 100/4 is 25. 
 We can convert any fraction into a percentage by simply multiplying it by 100. We did that in arithmetic and we do the same here even though there are variables involved. 
 
 What is 20 percent of 𝑥/6?
+
 Here 20 percent is given which means 20 out of 100 or 1 out of 5 parts. That means if we have to find 20 percent of 𝑥/6, then we have to divide each 𝑥/6 into 5 parts. Each part is worth 𝑥/30. 
-That same quantity can be expressed in terms of decimals. It would be 20 percent of 0.17𝑥. That means one-fifth of 0.17𝑥. You divide 0.17𝑥 into 5 parts and each part is worth 0.0333𝑥. 
+
+That same quantity can be expressed in terms of decimals. It would be 20 percent of 0.17𝑥. That means one-fifth of 0.17𝑥. You divide 0.17𝑥 into 5 parts and each part is worth 0.0333𝑥.
+
+
 Operations are also required to conduct on the basis of percentages. Here is an example,
 Let's say there is an 8 percent discount on the price of a haircut that is 40 dollars normally, then 40 has to be decreased by 8 percent, 8 percent of 40 is calculated at first and then the quantity is deducted from 40. 
 That is 40- 8% of 40
+
+
 = 40- (8/100) x 40
+
+
 =  40- 0.08 x 40
+
+
 =  40 x (1-0.08)
+
 =  40 x 0.92
+
 This shows that when a number is decreased or increased by a certain percentage, it can be found by multiplying the given number with a particular factor. If a number has to increase by 5 percent, it should be multiplied by 1+0.05 or 1.05. On the other hand, if it has to be decreased by 5 percent, then it should be multiplied by 1-0.05 or 0.95. Here the number 0.05 is found by dividing the given percentage 5 by 100. (5/100 = 0.05) 
 
 What happens when 70𝑥 is increased by 30%?
 = 70𝑥 + 30% of 70𝑥
+
+
 = 70𝑥 + (30/100) x 70𝑥
+
+
 = 70𝑥 + 0.3 x 70𝑥
+
+
 = 70𝑥 x (1 + 0.3)
+
+
 = 70𝑥 x 1.3
+
+
 = 91𝑥
+
 This calculation could also have been carried out as follows:
 = 70𝑥 + 30% of 70𝑥
+
+
 = 70𝑥 + (30/100) x 70𝑥
+
+
 = 70𝑥 + 0.3 x 70𝑥
+
+
 = 70𝑥 + 21𝑥
+
+
 = 91𝑥
+
 There is no hard and fast rule. We can use the strategies as per our convenience.
 
