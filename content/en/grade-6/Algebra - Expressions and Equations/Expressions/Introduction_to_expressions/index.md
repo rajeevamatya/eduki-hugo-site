@@ -74,7 +74,9 @@ For a chocolate marked $3, the amount to pay will be $(3-0.3). For another choco
 1.19
 
 
-It can be agreed upon that we can't explain the price of every chocolate with one value or one number but whatever the marked price of the chocolate may be, you need to pay 30 cents or 0.3 dollars lesser. Thus, if we had an entity that could act as a placeholder for all the values of the chocolate prices, it could help us immensely to express the value needed to pay for the chocolate and that is what p-0.3 gives assuming the price of chocolate before the discount is p.
+It can be agreed upon that we can't explain the price of every toffee with one value or one number. The other thing that is for sure is that we have to $0.3 less than the marked price, whatever may the price of the toffee be. 
+
+Thus, if we had something that could act as a placeholder for all the values of the toffee prices, it could help us immensely to express the value needed to pay for the chocolate and that is what p-0.3 gives assuming the price of a toffee before the discount is p.
 Remember this table from before?
 
 <img src="1_19_placeholder table.jpg" width="300" style="display: block; margin: 0 auto;">
@@ -83,8 +85,8 @@ Remember this table from before?
 
 If we substitute the unknown or varying numbers with a letter such as p shown above, then all of the numbers of the rows above it can be explained properly. 
 
-If the marked price of one chocolate is p dollars, then the price you have to pay will be p-0.3 dollars. This expression will always give the final price after the discount for chocolate of any initial price. 
-p is just a placeholder that takes the place of the actual value of the price of the chocolate. In contrast, if it was told that you have to pay 4 dollars then that is for those chocolates only whose price is 4.3 dollars. If it is said that you have to pay 4.8 dollars then that is for chocolates of 5.1 dollars and so on. That is the reason why letters are used in an expression.
+If the marked price of one toffee is p dollars, then the price you have to pay will be p-0.3 dollars. This expression will always give the final price after the discount for toffee of any initial price. 
+p is just a placeholder that takes the place of the actual value of the price of the toffee. In contrast, if it was told that you have to pay 4 dollars then that is for those toffee only whose price is 4.3 dollars. If it is said that you have to pay 4.8 dollars then that is for chocolates of 5.1 dollars and so on. That is the reason why letters are used in an expression.
 Suppose there is a 10 percent discount on all types of eye checkups and treatment fees.
 
 <img src="1_4_dr_checking_patient.jpg" width="300" style="display: block; margin: 0 auto;">
