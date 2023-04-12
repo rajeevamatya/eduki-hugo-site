@@ -9,6 +9,7 @@ images: []
 weight: 340
 toc: true
 ---
+
 ## Equation 
 When two expressions are placed side by side separated by an equal sign, then it is called an equation. For example, 2+3=5 is a numerical equation.
 The money earned by an electrician working on wiring a house takes 100 dollars for a house.
@@ -42,6 +43,7 @@ The equation 2𝑥+y+9=19 can have either of the two diagrams below.
 
 <img src="1_13_tape_diagram3.jpg" width="300" style="display: block; margin: 0 auto;">
 1.13
+
 As discussed while defining variables, it is only required when we need a placeholder for some quantity without a definitive value. 
 Look at this statement: "A number when increased by 2, is equal to 5".
 We will need a placeholder for the unknown number. 
@@ -61,6 +63,7 @@ This process can also be shown in the diagram below. Firstly 𝑥 + 2 = 5 is sho
 
 <img src="1_14_hanger_diagrams.gif" width="600" style="display: block; margin: 0 auto;">
 1.14
+
 The process applied here is associated with the additive property of equality which suggests that when a particular equal quantity is added/reduced from two equal quantities, then the resulting quantities are also equal. 
 Another property of equality commonly used is the multiplicative property of equality in which a particular quantity is multiplied or divided by on both sides of the equation.
 
@@ -76,12 +79,19 @@ Suppose that there is a picnic being planned for a class in a school. It is foun
 
 <img src="1_15_100_dollar_bill.jpg" width="300" style="display: block; margin: 0 auto;">
 1.15
+
 If we want to find out the answer, we have to divide 500 into 25 equal portions such that there is an equal load on all the students. In other words, it can also be said that some quantity that is added 25 times makes 500. Or what multiplied by 25 makes 500. If 𝑥 denotes the share of each student then
+
 25 times 𝑥 =500
+
 25𝑥=500
+
 25*𝑥= 25*20
+
 That is 𝑥=20
+
 Each student has to contribute 20 dollars to the cause in order to make a total collection to be 500 dollars.
+
 A variable will always be representing some kind of quantity according to its context. That quantity may be completely unknown or any number of a specified set suitable to the context.
 
 For example, if 4r is an expression used to denote the profit earned by selling “r” t-shirts when the profit rate per t-shirt is 4 dollars then r can have any value but not a negative number because a negative number of t-shirts won't make any sense.
@@ -96,17 +106,23 @@ For example, if a pen costs 2 dollars, two will cost 4 dollars, 3 will cost 6, a
 
 <img src="1_16_pen.jpg" width="300" style="display: block; margin: 0 auto;">
 1.16
-No matter how big the number of pens will be, the price will exactly be twice that. This perfectly represents a situation where we don't have to pinpoint an exact number of pens and their corresponding price. Rather, we can choose a placeholder variable for both and relate them with an equation. 
-price of pens = 2 𝑥 (number of pens)
+
+No matter how big the number of pens will be, the price will exactly be twice that. We can choose any value for price of pens, we can find the number of pens. Alternatively we can find the price of pens by using any number of pens.  
+
+To make it easier, we can choose a placeholder variable for both and relate them with an equation. 
+price of pens = 2 x (number of pens)
 
 If the number of pens is denoted by 𝑥, and their price is denoted by y, then the relationship would be given by;
+
 y=2𝑥
 
 If there are 240 candies to be distributed in a class of t students, the number of candies each student gets can be found out with an equation. 
 
 <img src="1_17_candies.jpg" width="300" style="display: block; margin: 0 auto;">
 1.17
+
 We know that as the number of students increases, the number of candies that each student gets will get lesser and lesser. It's very obvious. 
+
 We know that if there are two students they get 120 candies each, if there are 20 students, each gets 12 candies. We get an interesting type of relationship here. The number of times by which the number of students increases, the candies received by each student decrease by the same factor. In any case the product of the number of students and the candies received by each of them has to amount to 240.
 
 Number of candies each student receives x number of students = total number of candies.
@@ -116,9 +132,9 @@ p x t = 240
 
 Let's suppose another situation where in a university there is one professor each for 20 students. Then, which of the following would be correct?
 
-No. of students = 20 x (No. of professors)
-
-Or No. of professors = 20 x (No. of students)
+Is it No. of students = 20 x (No. of professors)
+OR, 
+No. of professors = 20 x (No. of students)
 
 The easier way of finding the right answer is to understand which is greater, the number of students or professors. If there is one professor for 20 students, two professors for 40 students, etc. It can be seen that students are always more in number than professors.
 
@@ -131,7 +147,10 @@ If f represents the number of professors and d represents the number of students
 d=20 x f
 
 The same equation can be written as f=d/20, if we divide both sides of the equation by 20.
-In the two representations, the variable that is written on the right-hand side with some operation being performed on it is the independent variable whereas the variable written on the left is a dependent variable. In f=d/20, f is dependent and d is independent. Whereas in d=20f, f is independent and d is dependent. How the equation is written doesn't have much effect on the actual relationship between the two quantities.
+
+Normally when an equation is written, one of the variable is operated while the variable written on the other side is written alone.
+In f=d/20, we have to divide d by 20 to get f, so d is independent and f is dependent. Whereas in d=20f, f is independent and d is dependent. How the equation is written doesn't have much effect on the actual relationship between the two quantities.
+
 
 Let's take another example, 
 The height of a rectangular window is 6 inches less than the width. Let w represent the width of the window and h be the height.
@@ -148,17 +167,21 @@ When w=2, we get h=2+6=8
 
 
 ### Inequality from Equation 
-If the equal to sign in an equation is replaced by >, <,  ≤, ≥ meaning greater than, less than, less than or equal to, and greater than or equal to sign respectively, then it is known as inequality. It is used to state if a quantity is greater than or less than another quantity.
+We learned about equations and inequalities are very similar to them. If equal to sign is replaced with signs like , <,  ≤ etc. then inequality is formed. 
+a>b means a is greater than b
+a<b means a is less than b
+a≤b means a is less than or equal to b
+a≥b means a is greater than or equal to b
 
-For example, 𝑥>5 states that the number “𝑥” is greater than 5. Unlike an equation in which a variable has only one value for a particular situation, an inequality solution may have several values. 
 
-For example, if a number when increased by 7 becomes 15 then that number must be 8 otherwise the statement won't be valid because 8+7 is 15. But if it is stated that a number, when increased by 7, becomes greater than 15 then the solution can be any number greater than 8 because;
-9+7=16 which is greater than 15.
-10+7=17 which is greater than 15, etc. 
 
-The coefficient of a term (numerical or algebraic) is shown in the hanger diagram by repeating that term multiple times in a group. Here the term (𝑥 + 2) is repeated 3 times to show 3 in 3(𝑥 + 2).
+For example, 𝑥>5 states that the number “𝑥” is greater than 5. From an equation, we could get only one potential solution for the given variable. In case of 𝑥>5, 6 is also greater than 5, 7 is also greater than 5, 8 is as well, 9 is as well and so on. Therefore there are many solutions of 𝑥>5. 
 
-For example the hanger diagram for 3(𝑥 + 2)>18 will be as shown
+ 
+Hanger diagram for inequalities
+The coefficient of a term (numerical or algebraic) is shown in the hanger diagram by repeating that term multiple times in a group. Here the group of unknown number 𝑥 and 2 is repeated 3 times to get 3(𝑥 + 2).
+
+For example the hanger diagram for 3(𝑥 + 2) > 18 will be as shown below.
 
 <img src="1_18_unbalanced_hanger.jpg" width="300" style="display: block; margin: 0 auto;">
 1.18
