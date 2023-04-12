@@ -1,5 +1,5 @@
 ---
-title: "Area of rectangles"
+title: "Rectangles"
 description: "We make the process of counting squares easier"
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -304,8 +304,6 @@ Therefore, as concluded earlier, the area of each parallelogram will be  3 units
 <img src="1_50_different_parm_same_height.gif" width="500" style="display: block; margin: 0 auto;">
 1_50
  
-
-
 
 
 A small note before we move on:
