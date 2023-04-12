@@ -44,7 +44,7 @@ Just add squares to completely cover the shape first, even if they are outside t
 Image 1_13
 
 Then we count all the complete squares inside the shape along with more than half that are complete and less than half that are complete. I’ll highlight them below.
-<img src="F1_14_counting_grids_into_regular_shape.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_14_counting_grids_into_regular_shape.png" width="300" style="display: block; margin: 0 auto;">
 Image 1_14
 
 
