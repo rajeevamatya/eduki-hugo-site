@@ -39,7 +39,6 @@ Unlike before, we see that there are some missing spaces without squares and som
 
 Method I:
 
-
 Just add squares to completely cover the shape first, even if they are outside the outline. 
 <img src="1_13_grids_into_irregular_shape2.png" width="300" style="display: block; margin: 0 auto;">
 Image 1_13
