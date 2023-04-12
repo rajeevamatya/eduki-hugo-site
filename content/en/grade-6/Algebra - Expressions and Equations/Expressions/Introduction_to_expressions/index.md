@@ -58,7 +58,7 @@ One thing can be validly coming to your mind, How can a letter be subtracted fro
 
 The answer to this question is that a letter is never subtracted, added, multiplied or divided by a known number. We perform those operations with numbers only. When we arent sure of true value of any quantity, we use a letter that holds the place for that quantity. Its like your friend keeping your seat secure in a resturant  
 
-The real reason is that the letter used here isn't just another letter. It's the same as deducting one numerical quantity from the other. 
+The real reason is that the letter used here isn't just another letter. It's the same as deducting one numerical quantity from the other, the difference is that we know all numbers in a numerical expression while we may not know the value of all quantities in an algebraic expressions. 
 
 Let's consider a situation when we have some unknown value.
 For example, you are being offered 30 cents discount on all chocolates being sold at a store and you want to know how much you need to pay for one chocolate.
@@ -67,10 +67,10 @@ For example, you are being offered 30 cents discount on all chocolates being sol
 1.3
 
 
+For a chocolate marked $3, the amount to pay will be $(3-0.3). For another chocolate marked $4.7, we have to pay $4.4. We are sure that there are chocolates of different prices. If we have to express the price for different chocolates then either we calculate different values or we use a placeholder to make the expression up. 
 
-If the price of chocolate is 3 dollars, you may have to pay 2.7 dollars, if the chocolate is worth 4.7 dollars, then you may have to pay 4.4 dollars. 
 
-<img src="1_19_placeholder table.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src="1_19_placeholder_table.jpg" width="300" style="display: block; margin: 0 auto;">
 1.19
 
 
