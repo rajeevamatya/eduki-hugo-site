@@ -30,7 +30,8 @@ If in an expression multiplication and exponent both are present, then according
 6⋅3² ≠ 18² 
 
 ### Exponential expressions
-Let's assume there are over 1024 tadpoles in a pond. And each hour, half of them get eaten by the fish left in the pond. As the population of tadpoles gets halved, they become harder to find so lesser tadpoles get eaten but still the trend of half of them getting eaten continues. 
+Let's assume there are over 1024 tadpoles in a pond. And each hour, half of them get eaten by the fish left in the pond. As the population of tadpoles gets halved, they become harder to find so lesser tadpoles get eaten but still the trend of the fish population becoming half keeps on continuing. 
+
 After one hour, 1024 x 1/2 tadpoles remain i.e. 512
 
 After two hours, 512 x 1/2 tadpoles remain i.e. 256 which is also 1024 x 1/2 x 1/2
@@ -38,20 +39,23 @@ After two hours, 512 x 1/2 tadpoles remain i.e. 256 which is also 1024 x 1/2 x 1
 After three hours, 256 x 1/2 tadpoles remain i.e. 128 which is also 1024 x 1/2 x 1/2 x 1/2
 
 What we get here is that the as the number of hours gets increased, the times 1/2 gets multiplied by the initial number gets increased. 
+
 After the first hour, it is multiplied once, after the second it is multiplied twice, after the third its multiplied thrice, and so on. 
-What is the number of tadpoles after 5 hours
+
+What is the number of tadpoles after 5 hours?
+
 It is easy
-its 
 
 1024 x 1/2 x 1/2 x 1/2 x 1/2 x 1/2
 
 Also written as 1024⋅(½)^5
 
-The same laws can be applied to expressions that contain variables with higher power. Such as 
+We can solve equations of higher order using the laws learned earlier as well. 
+The same laws can be applied to expressions that contain variables with higher power. Such as
 
 x^2 + x^2 = 18
 
-Or, 2x^2 = 18
+2x^2 = 18
 
 Or, x^2 = 18/2
 
@@ -59,4 +63,4 @@ Or, x^2 = 3^2
 
 Or, x=3
 
-Exponents are also used to describe very large and very small numbers. That is due to the fact that it is always cumbersome to write numbers that contain too many digits and is especially tiring if the same digit is repeated continuously. 
+Exponents are also used to describe very large and very small numbers. That is due to the fact that it is always cumbersome to write numbers that contain too many digits and is especially tiring if the same digit is repeated continuously.
