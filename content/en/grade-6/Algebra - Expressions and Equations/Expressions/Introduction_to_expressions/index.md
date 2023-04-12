@@ -11,33 +11,36 @@ toc: true
 ---
 
 ## What are expressions?
-Expressions means the way of expressing feeling. The ways can be of various types. Oral, symbolic gestures, or facial etc. Numerical expressions make use of numbers and operators to express something. 
+Expressions means the way of expressing and The ways of expressing can be of various types. There are certain ways of expressing things in terms of mathematics. Numerical expressions make use of numbers and operators to express something in mathematics. 
 
 If somebody asks you “what is your age?” How do you respond?
 
-You may mention some number such as 11, 12, or 13 etc. The number that you use to express your age is a numerical expression. In the same manner, your friend may express his/her age as 2 lesser than 14. It is also an example that makes use of numbers to make an expression. If your friend mentions his/her age as 2 less than 14 then we know we can find a lesser number by subtraction so the correct expression is 14-2 or what remains when 2 is reduced from 14. Expressions contain all kinds of operators such as addition, multiplication, subtraction, division, etc. We know 12 is the result when 2 is reduced from 14. Both 14-2 and 12 are numerical expressions. 
+You may mention some number such as 11 years, 12 years, or 13 years etc. If your age is 14 years, then 14 years is an expression. 
 
-Numerical expressions are always equivalent to a quantity. They point to some value. 
+Suppose a T-shirt is priced at 10.99$ in a store during its sale. We know that 100 cents equal to 1 dollar. That means 1 cent is equal to 0.01 dollars and since the shirt costs 1 cent less than 11 dollars or (11-0.01)$ is also an expample of numerical expression. Expressions contain all kinds of operators such as addition (+), multiplication (x), subtraction (-), division (÷), etc. 
 
-It is an act of making people know about some feelings or thoughts. It acts as a medium so that somebody’s thoughts can be understood by others. We recognize facial expressions, written expressions, oral expressions, etc. You may make a different face when you are in pain as compared to when you are eating delicious food. The example mentioned here is mostly facial expression, but other forms of expression may be used for the same situation. Other forms include oral or written or symbolic forms as well. We use some language or sound for that. For example, if somebody says that he is hungry, he is using the English language as the medium to express his thoughts. For sure language developed earlier but soon in human civilization there was a need for counting and maths after that. 
+For example, we know that 12 is the result when 3 is multiplied by 4. Both 3x4 and 12 are numerical expressions. Numerical expressions are always equivalent to a quantity. They point to some value. 
 
 Mathematics also uses expressions, made of numbers and symbols. Symbols used in mathematical expressions are done so for various purposes. 
 
-For example, when we see 100-3, we understand it is trying to say that we have to reduce 100 by 3. Or it may also be trying to state a number that is 3 less than 100. We can often simplify a given expression into an equivalent quantity (97 in the previous case), often known as the value of the expression. 
+For example, when we see 100-3, we understand it is trying to say that we have to reduce 100 by 3. Or it may also be trying to express that is 3 less than 100. There isnt a lot of difference between the two expressions. 
+
+We can often simplify a given expression into an equivalent quantity (97 in the previous case), often known as the value of the expression.
+
 Let's take another example.
 
-There are 2 senators from each state in the US Senate. As there are a total of 50 states under the American flag, how many members are there in total in the senate? 
+There are 2 senators from each state in the US Senate. Now if we need to find out how many people that are in the senate, we need to find out the total number of states in the Nation.  As there are a total of 50 states under the American flag, how many members are there in total in the senate? 
 
 <img src="1_1_US_state_map.jpg" width="500" style="display: block; margin: 0 auto;">
 1.1
 
-As we can see that for each state there are two members, we have to add two 50 times or it means that we must multiply 2 by 50.
+As we can see that for each state there are two members, we have to add two 50 times which also means indirectly multiply 2 by 50.
 
 2+2+2+2....... up to 50 times
 
 or 2 x 50
 
-That is 100 members in total in the senate. It can also be interpreted as a single member from each state will make 50 members. The final answer is just double that number. 
+Both numerical expressions are equal to 100. It can also be interpreted as a single member from each state will make 50 members. The final answer is just double of 50.  
 
 It doesn't mean that we need to have some kind of operation between numbers like addition or subtraction to make an expression. It may simply be a number only and it expresses something. For example, 206 is an expression. It can be used to express the number of bones in a human body. 
 
@@ -47,9 +50,13 @@ It doesn't mean that we need to have some kind of operation between numbers like
 ### Letters in expressions
 Apart from the operators and numbers we already know, there are letters/symbols used in the expression and they are known as variables. 
 
-Just like 9-3 means, we need to deduct 3 from 9 or a number that is 3 less than 9. 50-a means that we have to deduct “a” quantity from 50. It may also be expressing a number that is less than 50 by a.
+You may be puzzled why would letters be used in expression but there are situations in which we have perform operations on unknown number as well. 
+
+Just like 9-3 means, we need to deduct 3 from 9 or a number that is 3 less than 9. 50-a means that we have to deduct “a” quantity from 50. It may also be expressing a number that is less than 50 by a. 
 
 One thing can be validly coming to your mind, How can a letter be subtracted from a number? 
+
+The answer to this question is that a letter is never subtracted, added, multiplied or divided by a known number. We perform those operations with numbers only. When we arent sure of true value of any quantity, we use a letter that holds the place for that quantity. Its like your friend keeping your seat secure in a resturant  
 
 The real reason is that the letter used here isn't just another letter. It's the same as deducting one numerical quantity from the other. 
 
