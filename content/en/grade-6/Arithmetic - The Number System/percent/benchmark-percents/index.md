@@ -1,5 +1,5 @@
 ---
-title: "04 Benchmark Percentages"
+title: "05 Benchmark Percentages"
 description: "Solving percent problems numerically"
 lead: " "
 date: 2020-10-06T08:49:31+00:00
@@ -9,7 +9,6 @@ images: []
 weight: 220
 toc: true
 ---
-
 
 ## What are benchmark percentages?
 
@@ -98,9 +97,3 @@ What about the opposite? 20 is what percentage of 5?
 This time, we need to compare 20 with respect to 5. 20 is four times the value of 5, meaning we need to find four times the value of 100% as well, which is 400%. So, 400% of 5 is 20.  
 
 Do not worry if you don’t get it in your first try. You will get better with more practice and familiarity. 
-
-
-
-
-
-
