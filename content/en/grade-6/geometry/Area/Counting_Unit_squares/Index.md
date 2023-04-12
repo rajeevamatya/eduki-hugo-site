@@ -127,7 +127,7 @@ The house seems to have the smallest area. And the cat seems to have the largest
 
 
 But look at the animation below.
-<img src="1_18_decomposing_tangram.GIF" width="500" style="display: block; margin: 0 auto;">
+<img src="1_18_decomposing_tangram.gif" width="500" style="display: block; margin: 0 auto;">
 1_18
 
 The same pieces make up the square, the cat and the house!
