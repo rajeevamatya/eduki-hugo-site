@@ -18,6 +18,7 @@ Just because we used the example of a rectangle does not mean that it only works
 
 
 Let’s use an example:
+<img src="1_11_irregular_shape.png" width="500" style="display: block; margin: 0 auto;">
 <img src="1_11_irregular_shape.png" width="300" style="display: block; margin: 0 auto;">
 1_11
 
