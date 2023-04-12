@@ -86,7 +86,6 @@ We have 36 squares of size 1 square foot filling the vegetable area, so the area
 
 
 
-
 We could also find the total area of the garden by counting all the squares.  This gives us the area of the garden as 60 square feet as the answer. 
 
 
