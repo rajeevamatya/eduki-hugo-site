@@ -10,6 +10,7 @@ weight: 530
 ---
 
 ### What are polynomial expressions?
+
 Algebraic expressions that have a non-negative integer as their index are known as polynomials. A non-negative integer means we can't include rational numbers like ⅔ as well. Polynomials are categorized on the basis of their degree. The degree is nothing but the highest degree of the variables in the polynomial. 
 An equation of the form 𝑥^n=p where p and n are integers denotes all simple higher-degree polynomials. Solving these types of equations is easy as it was with linear equations. Let's take some of them one by one. 
 For example,
