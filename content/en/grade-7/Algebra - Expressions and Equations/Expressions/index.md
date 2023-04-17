@@ -8,6 +8,7 @@ draft: false
 images: []
 weight: 320
 ---
+
 ### Symbolic transformation with rational coefficients
 We use symbolic transformation as the method by which we simplify a given expression. Coefficients of the algebraic terms are very important in symbolic transformations. When the coefficients are integers, the transformation process was very simple. 
 
@@ -40,20 +41,19 @@ It would be much more helpful if the blocks were of the same size. For example, 
 <img src="2_4_xby2_added_twice.jpg" width="400" style="display: block; margin: 0 auto;">
 2.4
 
-that is half of 𝑥 plus half of 𝑥 means two halves make one full. 
+That is half of 𝑥 plus half of 𝑥 means two halves make one full. 
 
 
-=𝑥/2 + 𝑥/2
+= 𝑥/2 + 𝑥/2
 
-
-=2(𝑥/2)
-
+= 2(𝑥/2)
 
 = 𝑥
 
 Now let's get back to 𝑥/3 + 𝑥/2
 <img src="2_3_xby2_plus_xby3.jpg" width="400" style="display: block; margin: 0 auto;">
 2.3
+
 
 We have to divide 𝑥 into equal parts to add them. 
 
@@ -124,7 +124,6 @@ We have expressions that have operators along with percentages in some algebraic
 Example:
 Let's say there is an 8 percent discount on the price of a haircut that is 40 dollars normally, then 40 has to be decreased by 8 percent, 8 percent of 40 is calculated at first and then the quantity is deducted from 40. 
 That is 40- 8% of 40
-
 
 = 40- (8/100) x 40
 
