@@ -19,30 +19,36 @@ A closed figure formed with straight sides only is known as a polygon.  How many
 We need at least 3 sides to form a polygon. If a polygon has 4 sides, then it is known as quadrilateral. If the number of sides in the polygon is 5 sides, then it is known as a pentagon. 
 If the polygon has all of its sides equal to each other, then it is known as a regular polygon. A regular polygon has all of its angles equal to each other as well. A regular triangle is known as an equilateral triangle. A regular quadrilateral is known as a square. 
 The three angles of a triangle (any triangle) when added are equal to 180° degrees. Let's observe the triangle ABC so we can see that there are three angles 47.5°, 27.5°, and 105° degrees. 
+
 <img src="10_7_three_angles_of_triangle1.jpg" width="400" style="display: block; margin: 0 auto;">
 10.7
 
 The angles made at B and C i.e. 27.5° and 47.5° degrees can be rotated to move to vertex A such that they fill up the right and left part of the 105° angle to make a straight line. The angles can be moved because the newly formed angles are alternate angles to angles at B and C respectively.  
+
 <img src="10_8_three_angles_of_triangle2.jpg" width="400" style="display: block; margin: 0 auto;">
 10.8
 
 We know that a straight line is measured as 180° in angle. Thus in the end the three angles of the triangle sum up to 180° degrees as seen in the figure. 
+
 <img src="10_9_three_angles_of_triangle3.gif" width="400" style="display: block; margin: 0 auto;">
 10.9
 
 ### Types of triangles
 Based on the range of angle size, we can classify triangles into different types:
 If all the angles in a triangle are less than 90° degrees, then the triangle is known as an acute-angled triangle.
+
 <img src="10_10_Acute_angled_triangle.jpg" width="400" style="display: block; margin: 0 auto;">
 10.10
 
 If one of the angles in a triangle is 90° degrees, then the triangle is known as a right-angled triangle. Here are two examples of right-angled triangles. 
+
 <img src="10_11_right_angled_triangle.jpg" width="400" style="display: block; margin: 0 auto;">
 10.11
 
 ### Is more than one right angle possible in a triangle?
 Theoretically, it is. If two of the three angles are 90° then the sum of those becomes 180°. However, there are three angles in a triangle. If two of the angles in the triangles makes 180° degrees already and the sum of three can't exceed that number, the third must be zero. How must a triangle with 90°, 90°, and 0-degree angles look? We can't construct such a triangle. 
 If any of the angles in a triangle is more than 90° then the triangle is an obtuse angled triangle. 
+
 <img src="10_12_obtuse_angled_triangle.jpg" width="400" style="display: block; margin: 0 auto;">
 10.12
 
@@ -50,16 +56,19 @@ If any of the angles in a triangle is more than 90° then the triangle is an obt
 
 Triangles can also be divided into three types according to the equality of sides.
 If none of the sides are equal to each other, then the triangle is known as a scalene triangle. None of the angles are equal in such a triangle.
+
 <img src="10_13_scalene_triangle.jpg" width="400" style="display: block; margin: 0 auto;">
 10.13
 
 If two of the sides are equal, then such triangles are known as isosceles triangles. The two angles opposite to the equal sides are known as base angles for isosceles triangles and they are equal. 
+
 <img src="10_14_issosceles_triangle.jpg" width="400" style="display: block; margin: 0 auto;">
 10.14 
 
 
 
 If all three sides are equal, then such a triangle is known as an equilateral triangle. Since the sides are equal, each angle opposite to them will also be equal in magnitude. 
+
 <img src="10_15_equilateral_triangle.jpg" width="400" style="display: block; margin: 0 auto;">
 10.15 
 
