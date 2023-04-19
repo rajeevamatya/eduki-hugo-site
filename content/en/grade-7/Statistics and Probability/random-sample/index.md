@@ -24,13 +24,13 @@ Using the random number generator, this is the list we get for 10 random numbers
 
 Let’s see what the words are for each of the numbers and the character lengths. 
 
-<img src ="S03-word-length.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S03-word-length.jpg" width="200" style="display: block; margin: 0 auto;">
 
 The mean of this sample is 5.4, pretty close to the range for the population (3 to 5). 
 
 Using the same method, 20 students selected a simple random sample of 10 words, recorded the length of each word in the sample, and then calculated the mean for word length. 
 
-<img src ="S03-mean-of-word-lengths.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S03-mean-of-word-lengths.png" width="500" style="display: block; margin: 0 auto;">
 
 We see that most of the sample means are between 3 and 5 character lengths, which is representative of the population. Thus, simple random sampling does not overrepresent (or underrepresent) the number of characters present in the population. This is why simple random sampling is fair and unbiased.
 
@@ -53,7 +53,7 @@ In general, as the sample size gets bigger, the mean of a sample is more likely 
 
 Let’s take 50 samples of size 25 and find the means for each of the 50 samples. Below is the dot plot for the mean of 50 samples.
 
-<img src ="S03-mean-of-50-samples.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S03-mean-of-50-samples.png" width="500" style="display: block; margin: 0 auto;">
 
 As you can see the spread of the sample means is now smaller and is closer to the population mean. 
 
@@ -63,11 +63,11 @@ Is a random sample better at predicting the population mean when it is drawn fro
 
 Let’s check this with an example. 
 
-<img src ="S03-random-populations-with-two-variabilities.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S03-random-populations-with-two-variabilities.png" width="500" style="display: block; margin: 0 auto;">
 
 The first population has a mean of 12 and MAD of 1.5. The second population also has a  mean of 12 but a MAD of 3.5. Now, let’s draw 20 samples from each population and draw the dot plot with the means for the 20 samples.. 
 
-<img src ="S03-random-populations-with-two-variabilities-sample-of-20.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S03-random-populations-with-two-variabilities-sample-of-20.png" width="500" style="display: block; margin: 0 auto;">
 
 You can see that when the population has high variability, the distribution of sample means are also more spread out. 
 

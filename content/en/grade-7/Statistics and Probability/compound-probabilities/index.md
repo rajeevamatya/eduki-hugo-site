@@ -45,7 +45,7 @@ If we spin one after the other, what are the possible outcomes? Each has 4 possi
 
 Let’s start with a simple table first. In the row, we write the colors of the first spinner and in the columns we write the colors of the second spinner. Then we simply fill in the table with the combination of colors in each row and column.
 
-<img src ="S03-two-spinners-table-of-outcomes.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S03-two-spinners-table-of-outcomes.png" width="500" style="display: block; margin: 0 auto;">
 
 We see 16 different outcomes for spinning the two spinners with 4 colors each. Easy to find it this way right? 
 
@@ -53,7 +53,7 @@ We can now simple use this to write the ordered pair = {Rr, Rb, Rg, Rp, Br, Bb, 
 
 There is one other way to show the outcomes of a compound event. 
 
-<img src ="S03-two-spinners-tree-diagram.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S03-two-spinners-tree-diagram.png" width="500" style="display: block; margin: 0 auto;">
 
 This is called a tree diagram. We have branches for each outcome of the first spinner first and for each branch we have 4 more braces which are the outcomes of the second spinner, hence covering all combinations. 
 

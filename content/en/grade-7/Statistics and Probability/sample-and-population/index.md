@@ -22,7 +22,7 @@ But what is a population and what is a sample in this case?
 
 A population is a set of people or things or values that we want to study. A sample is a subset of the population we want to study, so it is obviously smaller than the population itself. Basically, a sample is a small group taken out of the population. Here are some examples of populations and samples from the listed populations:
 
-<img src ="S01-population-and-sample.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S01-population-and-sample.jpg" width="500" style="display: block; margin: 0 auto;">
 
 When we want to know more about a population, ideally we would collect data on the whole population. Doing so however will be time-consuming, expensive and often not possible. Imagine weighing all the 90 million dogs in the US! When it is not feasible to collect data from everyone in the population, we often collect data from samples so we can derive information from it and apply it to the population it belongs to. 
 
@@ -48,7 +48,7 @@ Let’s look at an example to see how the shape , center, and spread of the dist
 
 Consider the distribution of plant heights, in cm, for a population of plants shown in the dot plot below.
 
-<img src ="S01-plant-height-population.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S01-plant-height-population.png" width="500" style="display: block; margin: 0 auto;">
 
 This is the population distribution since it describes the variability in the values of a variable for all individuals in the population.
 
@@ -58,9 +58,9 @@ If we want to take a sample out of this population that is representative of the
 
 Which of the two do you think is the best choice?
 
-<img src ="S01-plant-population-representative-sample.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S01-plant-population-representative-sample.png" width="500" style="display: block; margin: 0 auto;">
 
-<img src ="S01-plant-population-non-representative-sample.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S01-plant-population-non-representative-sample.png" width="500" style="display: block; margin: 0 auto;">
 
 Clearly, the first one has a distribution similar to our population. The mean is 5.69 and MAD is 2.72, which are pretty similar to the population as well! 
 

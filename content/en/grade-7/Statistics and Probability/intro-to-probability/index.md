@@ -42,7 +42,7 @@ Probability is the branch of mathematics that deals with questions like these. I
 
 Let’s look at what the terms we discussed earlier mean in another context along with some new ideas. 
 
-<img src ="S01-spinner-red-blue-green.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S01-spinner-red-blue-green.jpg" width="200" style="display: block; margin: 0 auto;">
 
 Have a look at the given spinner with three different colors. If you spin the wheel, what do you think will happen? Where do you think the spinner will point to? We could guess red or someone else could say blue. But in math, we like precision. We don’t just want to say that the red has more chances than the blue, we also want to quantify the chances of each color. This is essentially what probability gives us.
 
@@ -58,7 +58,7 @@ Another random experiment could be putting the integers 1 through 20 on a spinne
 
 Here are some more examples of random and non-random experiments.
 
-<img src ="S05-random-non-random-experiments.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S05-random-non-random-experiments.jpg" width="500" style="display: block; margin: 0 auto;">
 
 ## Measuring likelihood as a probability of an event
 
