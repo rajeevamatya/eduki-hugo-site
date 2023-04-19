@@ -1,5 +1,5 @@
 ---
-title: "04 Comapring two populations"
+title: "04 Comparing two populations"
 description: "Comparing two populations"
 lead: " "
 date: 2020-10-06T08:49:31+00:00
@@ -26,7 +26,7 @@ Let’s look at an example.
 
 Given are dot plots for two different groups of weights for two different breeds of dogs (A and B).  
 
-<img src ="S04-two-different-dog-weights.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S04-two-different-dog-weights.png" width="500" style="display: block; margin: 0 auto;">
 
 To compare the two groups, we need to note the similarities in distributions by identifying where the displays overlap. 
 
@@ -36,7 +36,7 @@ Now, to note the differences between the two, we need to look at the areas of se
 
 We can also look at the box plots of the two groups to compare. 
 
-<img src ="s04-breed-A-and-B-box-plot.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="s04-breed-A-and-B-box-plot.png" width="600" style="display: block; margin: 0 auto;">
 
 We can also compare the 5 number summaries for the two groups along with IQR and Range.
 
@@ -56,9 +56,9 @@ We can also simply look at the medians for the two, which tells us that the medi
 
 Let’s look at one more example where the variability is pretty high for both cases. 
 
-<img src ="S01-breedC-and-breedD-dog-weights.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S01-breedC-and-breedD-dog-weights.jpg" width="500" style="display: block; margin: 0 auto;">
 
-<img src ="S01-boxplot-breedC-and-breedD-dog-weights.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S01-boxplot-breedC-and-breedD-dog-weights.jpg" width="600" style="display: block; margin: 0 auto;">
 
 Now for the table with summaries:
 
@@ -68,7 +68,7 @@ We can see that the medians for the two breeds C and D have a similar difference
 
 This is the reason why only using the medians (and the fact that there is a difference of 3 in both cases) is not enough, since it tells us nothing about the variability of the two sets of data. As we have seen, these different amounts of variability within each group result in more separation or less separation, and thus affect how we judge the importance of the difference between the medians.
 
-<img src ="S04-four-dog-breeds-box-plot.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S04-four-dog-breeds-box-plot.png" width="500" style="display: block; margin: 0 auto;">
 
 In the previous case, we used the median to compare the different datasets. We could have used mean instead, and we would have gotten to the same conclusion ->  that the magnitude of the difference between the means is related to the amount of variability of the data. 
 

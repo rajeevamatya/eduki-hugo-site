@@ -18,7 +18,7 @@ What if the outcomes were the same? Like two ‘fives’? Let’s see the same s
 
 Look at a slightly modified spinner below.
 
-<img src ="S01-spinner-red-blue-green-blue.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S01-spinner-red-blue-green-blue.jpg" width="200" style="display: block; margin: 0 auto;">
 
 What has changed? Well, we see that there are now two sections with blue and a total of 4 is the new size of the sample space. The number of outcomes for the event “blue” is 2. So the probability of the event “blue” is 2/4 = ½ or 50%.
 
@@ -43,7 +43,7 @@ Interpreting the meaning of probability - what does it mean by a probability of 
 
 Let’s look at our modified spinner:
 
-<img src ="S01-spinner-red-blue-green-blue.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S01-spinner-red-blue-green-blue.jpg" width="200" style="display: block; margin: 0 auto;">
 
 We calculated the probability of the event “blue” to be 2/4 or ½. 
 
@@ -86,7 +86,7 @@ So far, we have only dealt with situations where all sample spaces were obvious 
 
 Let’s now look at the new spinner. 
 
-<img src ="S02-spinner-uneven.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S02-spinner-uneven.jpg" width="200" style="display: block; margin: 0 auto;">
 
 Looking at the picture, we do not know the exact sample space. All we know is that the blue area is much bigger than the green and red sections, but we don’t know how much bigger it is exactly.
 
@@ -94,13 +94,13 @@ We could approach such problems by estimating the probability of an event using 
 
 Let’s do that. Below are the observations for 100 and 1000 different spins. As we concluded before, more spins give us a better estimate of probability. 
 
-<img src ="S02-100-and-1000-spins-unknown-sample-space.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S02-100-and-1000-spins-unknown-sample-space.jpg" width="500" style="display: block; margin: 0 auto;">
 
 So, using the 1000 trials answer, we could estimate the probability of the event “blue” to be about 0.6. 
 
 We could make an estimate by looking carefully at the spinner given above. Let’s make some divisions to estimate how much area each color covers. 
 
-<img src ="S02-spinner-uneven-eight-divisions.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S02-spinner-uneven-eight-divisions.jpg" width="200" style="display: block; margin: 0 auto;">
 
 We see that red covers about a quarter of the circle, so the probability of getting red is about ¼ or 0.25. Green covers about an eight of the circle, so its probability is about 0.125. Finally, blue covers the most, about 62.5, so the probability of getting green is about 0.625. All of these probabilities are similar to what the 1000 spins gave us as well - 0.128, 0.255, and 0.617. Kind of cool right?
 
@@ -112,13 +112,13 @@ We have a bag of blocks that are of different colors. We can’t look into the b
 
 Just like before, we can randomly draw an item from the bag, record it and put the block back and shuffle. Let’s make sure we don’t look into the bag and take only one block out at a time. We can repeatedly draw items from the bag and look for the patterns in this repetition. Let’s say we did it 20 times and recorded which colo we got as shown. 
 
-<img src ="S02-20-trials-unknown-blocks.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S02-20-trials-unknown-blocks.jpg" width="500" style="display: block; margin: 0 auto;">
 
 Here, 12 out of 20 outcomes were green, so we could estimate that the probability of taking out a green block from this bag is 12/20. If we want a more precise probability estimate, we learnt that we can conduct more experiments.  
 
 Let’s repeat the experiment 200 times and note down the results.  
 
-<img src ="S02-20-and-200-trials-unknown-blocks.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S02-20-and-200-trials-unknown-blocks.jpg" width="500" style="display: block; margin: 0 auto;">
 
 After repeating the trial 200 times, we can calculate the probability of taking out a green block to be as 122/200 or 0.61. 
 

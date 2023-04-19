@@ -30,7 +30,7 @@ Most other methods of selecting a sample from a population are likely to be bias
 
 Given are some examples of random sample selection along with other sampling methods with bias. 
 
-<img src ="S02-random-and-biased-sample.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S02-random-and-biased-sample.jpg" width="500" style="display: block; margin: 0 auto;">
 
 Say you want to find the average length of words in the description of ”The Life cycle of a Butterfly”.
 
@@ -51,11 +51,11 @@ All the students then recorded the length of each word in their samples as well.
 
 Next, let’s make a table for the results on the means from about 20 different samples (from 20 different students). 
 
-<img src ="S02-student-and-sample-mean-of-words-selected.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="S02-student-and-sample-mean-of-words-selected.jpg" width="400" style="display: block; margin: 0 auto;">
 
 Let’s create a dot plot for the 10 means from the table to see the distribution.
 
-<img src ="S02-dot-plot-of-sample-mean-for-word-length.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="S02-dot-plot-of-sample-mean-for-word-length.png" width="500" style="display: block; margin: 0 auto;">
 
 This sample to sample variability that we see (variability in mean in this case) is called the sampling distribution (do not confuse this with sample distribution). But it is a sample distribution only when all possible samples of the same size have been taken from the population. That would be a lot (Extremely high) of samples to look into. So, we have chosen only 20 samples from the population above. When we approximate the sampling distribution on the basis of the selection of a number of samples, this approximate sampling distribution is called an empirical sampling distribution.
 
