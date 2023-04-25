@@ -10,9 +10,9 @@ weight: 520
 ---
 
 ### Equations expressing relation between two quantities
-In the previous grades, we had familiarized ourselves with the equation involving a single variable. We learned about the different strategies used to solve it. Now we will learn about equations that have more than one variables in them or to be more specific; two variable equations. 
+In the previous grades, we had familiarized ourselves with the equation involving a single variable. We learned different strategies used to solve it. Now we will learn about equations that have more than one variables in them or to be more specific; two variable equations. 
 
-Solving equations with many variables is also similar to the process of solving single-variable equations. Similar in the sense that laws of equality are used here as well. 
+The proces of olving equations with many variables is similar to that of single-variable equations. Similar in the sense that laws of equality are used here as well.  
 
 Why do we use more than one variable in the equation?
 More than one variable is required in cases when there are more than one quantities that are unknown to us. 
