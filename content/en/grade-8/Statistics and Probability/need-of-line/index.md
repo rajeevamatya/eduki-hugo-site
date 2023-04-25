@@ -10,7 +10,7 @@ weight: 380
 toc: true
 ---
 
-Why exactly do we need to draw a ‘line’?
+## Why exactly do we need to draw a ‘line’?
 
 
 We’ve been talking about a line being made to show positive or negative association. 
@@ -20,13 +20,12 @@ The reason we have the linear function or ‘the line’ is because it has an eq
 
 Let’s look at our previous example of dog height and weight for this as well.
 
-
-S02-height-and-weight-linear-line.jpg
-
-
+<img src ="S02-height-and-weight-linear-line.jpg" width="500" style="display: block; margin: 0 auto;">
 
 We see the line drawn for this, and from other topics like algebra, we know that we can write an equation for the line. 
+
 Let’s say the equation of the line is y = 0.9x - 21.5
+
 This means that multiplying the value of height (x) by 0.9 and then subtracting 21.5 from it gives us the weight of the dog (y). This is true for all points that lie on the line itself. And since the line itself is the best fit line we chose based on all the points, we can use this equation of line to estimate height or weight when one of the two values are known. 
 Let’s try it out with a point that we already have. What is the weight of the dog that has a height of 75?
 Let’s replace the value in the equation and find out.
@@ -66,8 +65,8 @@ Here is a case where the intercept might make sense.
 
 Say Sam’s car is 5 km away from his house. The following is the distance traveled after different times for the car. 
 
+<img src ="S04-distance-time-graph.jpg" width="500" style="display: block; margin: 0 auto;">
 
-S04-distance-time-graph.jpg
 The the graph, we see the best fit line for this case and the equation to be as follows:
 y = 0.65x + 5
 In this case, when the time (x) is zero, the distance is 5 km, which means when no time has passed, Sam’s car is still 5 km away from his house. 
