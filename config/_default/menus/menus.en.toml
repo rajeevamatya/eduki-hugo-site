@@ -1,16 +1,16 @@
 [[main]]
   name = "Grade 6"
-  url = "/grade-6/introduction/welcome/"
+  url = "/grade-6/"
   weight = 10
 
 [[main]]
   name = "Grade 7"
-  url = "/grade-7/introduction/welcome/"
+  url = "/grade-7/"
   weight = 20
 
 [[main]]
   name = "Grade 8"
-  url = "/grade-8/introduction/welcome/"
+  url = "/grade-8/"
   weight = 30
 
 [[main]]
