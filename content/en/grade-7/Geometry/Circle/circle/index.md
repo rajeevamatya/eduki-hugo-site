@@ -15,38 +15,61 @@ What is common between these shapes?
 <img src="4_1_Different_circular_objects.jpg" width="400" style="display: block; margin: 0 auto;">
 4.1
 
-They all have a distinct shape in which the distance between the point in the center and the periphery is constant and that is why we can notice the distinct curvature in such objects. 
-You can imagine attaching chalk on one end of the thread while holding the other end tightly at one point on the ground. After that, you rotate the thread keeping it tight, and mark the traced points with that chalk. This is the same principle that we use to construct a circle and That is how a geometric compass works.    
+They all have a distinct curved shape that we also refer as round. What does round actually mean?
+
+You can imagine attaching chalk on one end of the thread while holding the other end tightly at one point on the ground. After that, you rotate the thread keeping it tight, and mark the traced points on the ground with that chalk. This is the same principle that we use to construct a circle and That is how a geometric compass works. All the points traced by the chalk will always be at a constant distance from the center and that is how a round shape or circle is constructed. 
+
 <img src="4_2_circle construction.gif" width="400" style="display: block; margin: 0 auto;">
 4.2
 
 ### Attributes of a circle
-Circle has many features/characteristics. First is the center of the circle which is the fixed point marked as O in the figure below. It is the point on which the needle of a geometric compass is fixed. 
-Then there is a line that passes through that center and joins any two points on the circumference. It is shown as BD in the figure below. BD is a diameter of a circle. There are infinite diameters in a circle but all of them are of the same length. 
-A line that joins the center with any point on the circle is the radius of the circle. The radius of the circle is always half of the diameter.OA, OB, OC, and OD all are radii (we dont write plural as “radiuses”)
+Circle has many attributes. First is the center of the circle which is the fixed point marked as O in the figure below. It is the point on which the needle of a geometric compass is fixed. 
+
+Then there is a line that passes through that center and joins any two points on the circumference. It is shown as BD in the figure below. BD is a diameter of a circle. There are infinite such diameters in a circle but all of them are of the same length.
+
+A line that joins the center with any point on the circle is the radius of the circle. The radius of the circle is always half of the diameter.OA, OB, OC, and OD all are radii (we don't write plural as “radiuses”)
 If we denote diameter with “d” and radius with “r” then
-d=2 times r
-or, d=2r
+
+d= 2 times r
+
+or, d=r+r=2r
+
 <img src="4_3_attributes.jpg" width="400" style="display: block; margin: 0 auto;">
 4.3
 
 
-
-We can also measure how long the path around the circle is and that is termed as the circumference of the circle. It is important when we have to make a circular object with some material such as rope or rod. 
-How long a rod is required to bend it into a circle of that has a 5-meter diameter? The answer to that question is given by the circumference. 
+We can also measure how long the path around the circle is and that is termed as the circumference of the circle. It is important when we have to make a circular object with some material such as rope or rod.
+We have to bend a rod into a circle having 5-meter diameter? what must be the length of that rod in minimum so that we can complete a full circle? 
+The answer to that question is given by a new quantity known as the circumference of the circle. 
 —-------------------------
 
-### Estimating the circumference of a circle 
-Let's observe a triangle circumscribed in a circle of radius r and the same circle inscribed in a square. From observation, we can see that the three vertices of the triangle are at ‘r’ distance from the center.
+### Estimating the circumference of a circle
+
+Let's observe a triangle circumscribed in a circle of radius ‘r’ and the same circle inscribed in a square. From observation, we can see that the three vertices of the triangle are at ‘r’ distance from the center.Triangle is inside a circle, circle is inside the square. 
 <img src="4_4_perimeter_estimation.jpg" width="400" style="display: block; margin: 0 auto;">
 4.4
 
-The Triangle Inequality Theorem tells us that one side of the triangle must always be more than the sum of the other two sides. So, the sides of the triangle (made by joining two radii of the circle) must be greater than the sum of the radii (two other sides of the triangle are r and r), r + r or 2r. 
-This means the perimeter of the triangle must be greater than 6r. 
-Since the center of the circle and square are the same, the side of the square is equal to 2r, equal to the diameter of the circle. So, the perimeter of the square is 2r + 2r + 2r + 2r = 8r. 
-Now, the path of the circle is in between the triangle and the square, so the distance traveled around the circle will be more than 6r and less than 8r. 6r is what would have been if the periphery was triangular as observed in the figure and 8r would be if the periphery was in the form of a square. Since the circular path passes between the two it must measure less than the periphery of the square but more than the periphery of the triangle. 
- The distance traveled around the circle can be measured by using a thread to make a circle. From experiments, it is found that the circumference is around 6.2832 times the radius which is more than 8r and less than 6r as analyzed earlier. 
-If the radius is converted into diameter, then the circumference is 3.1416 times the diameter. This experiment was found to be true for circles of any size. This constant of proportionality, 3.1416, that relates the circumference “C” and diameter “d” is denoted by a Greek letter π, read as pi. Since the circumference of ‘pi’ times the diameter, we can say that ‘pi’ is the ratio of circumference to diameter. 
+We see that there are three small triangles that are formed inside the large triangle. In each small triangle we know two sides are equal to the radius of the circle. Furthermore, Triangle Inequality Theorem tells us that one side of the triangle must always be more than the sum of the other two sides. That means the third side of the small triangle (each side of the larger triangle must be more than the sum of the two known sides).
+
+Each side in the triangle>r+r
+
+or, Each side in the triangle>2r
+
+If each side is greater than 2r then the perimeter of the triangle is
+perimeter of the triangle > 2r + 2r + 2r
+or, perimeter of the triangle > 6r
+
+Since the center of the circle and square are the same, the side of the square is equal to 2r, equal to the diameter of the circle. So, the perimeter of the square is 2r + 2r + 2r + 2r = 8r.
+
+Now, the path of the circle is in between the triangle and the square, so the distance traveled around the circle will be more than 6r and less than 8r.  
+
+The distance traveled around the circle can be measured by using a thread to make a circle. From experiments, it is found that the circumference is around 6.2832 times the radius which is more than 8r and less than 6r as analyzed earlier. lets denote circumference with C. 
+C=6.2832 times r
+or, C=3.1416 times 2r
+or, C= 3.1416 times d
+Where r is the radius and d is the diameter of the circle. 
+
+This relation holds true for circle of any size. The factor 3.1416, that relates the circumference “C” and diameter “d” is denoted by a Greek letter π, read as pi. Since the circumference of ‘pi’ times the diameter, we can say that ‘pi’ is the ratio of circumference to diameter. 
 
 Pi is an irrational number, hence the digits after the decimal point go on forever and do not repeat. We can thus write the circumference as:
 C = πd
