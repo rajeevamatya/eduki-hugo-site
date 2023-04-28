@@ -79,7 +79,7 @@ It can be agreed upon that we can't explain the price of every toffee with one v
 Thus, if we had something that could act as a placeholder for all the values of the toffee prices, it could help us immensely to express the value needed to pay for the chocolate and that is what p-0.3 gives assuming the price of a toffee before the discount is p.
 Remember this table from before?
 
-<img src="1_19_placeholder table.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src="1_19_placeholder_table.jpg" width="300" style="display: block; margin: 0 auto;">
 1.19
 
 
@@ -126,3 +126,27 @@ and if we put 75 in place of d it will be 0.9 x 75 = 67.5
 
 Now, 0.9d is an algebraic expression that gives the money a patient has to pay following the discount available.
 
+### Placeholder variables
+We found some of the algebraic expressions in the patterns quiz. We found that letters could act as placeholders by substituting in place of a number. Such placeholder symbols or letters are known as variables. 
+
+The kind of letter or symbol we choose is totally independent of whatever quantity we are assuming; it can be any letter or symbol. If we suppose the price of an apple to be p or a, it is just for convenience and not because it represents an abbreviation of the quantity. 
+
+It must also be understood that the letters don't represent the object itself but an attribute of that object. If f  is used in some context involving fish then it may be expressing the weight of fish, the number of fish, the price of fish, or something like that. 
+
+<img src="1_5_fishes.jpg" width="300" style="display: block; margin: 0 auto;">
+1.5
+
+
+Not all letters represent variables, there are letters used as abbreviations for units such as 10 meters is written as 10 m. 20 pounds is written as 20 lb and so on.
+
+It's also not necessary that a particular variable may be used for a particular quantity only. But the same variable cannot be used to depict two different quantities in the same context. 
+For example you have the guess the age of two of your cousins. If you choose variable "x" for one of the cousin, the age of the other cousin cant be "x" just because it is unknown as well. The reason being its rare that both numbers turn out be chosen. 
+
+In another example: If the number of oranges is denoted by “t” then "t" should not be used again to denote the weight of the oranges in that same scenario. 
+
+<img src="1_6_oranges.jpg" width="300" style="display: block; margin: 0 auto;">
+1.6
+
+There are two types of entities in an expression generally: variables and constants. Variables can be used as a placeholder for a quantity whose value isn't fixed and constants are those entities that represent one particular quantity.
+
+One notion may be set up in your mind now that whenever letters are seen in an expression, they are variables. There are certain symbols, particularly Greek, that are used to represent constant values such as π (pi), prominent in formulae related to curved surfaces or circles. It represents 3.14 and is always equal to that value in whatever context it may be used.  Another such symbol is e is known as Euler's number which we will learn about in higher grades. 

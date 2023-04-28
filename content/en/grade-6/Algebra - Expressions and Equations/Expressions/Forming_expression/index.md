@@ -1,5 +1,5 @@
 ---
-title: "Symbolic transformation"
+title: "Forming expressions"
 description: ""
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -61,15 +61,20 @@ Expressions always tell something about a situation mathematically. The operator
 For example, if an expression says double the amount of an unknown number, we first need a placeholder variable for the number and then multiply that by 2. If we choose the placeholder for that number as "g", then double the number becomes 2g. 
 
 
-If an expression says that the amount of food cooked is 50 kg less than that of yesterday and the amount of yesterday isn't known, then we need a placeholder variable to denote the unknown amount of food, double it and subtract 50 from it. 
+If an expression says that the amount of food cooked today is 50 kg less than that of yesterday and the amount of yesterday isn't known, then we need a placeholder variable to denote the unknown amount of food, double it and subtract 50 from it. 
 amount of food cooked yesterday= f
 double of that amount = 2 x f
 50 less than double = 2 x f - 50
 
-The expression would look something like 2f - 50 where f is the amount of food cooked today. 
+The expression would look something like 2f - 50 where f is the amount of food cooked yesterday. 
 
 <img src="1_7_rice_pen_notebook.jpg" width="300" style="display: block; margin: 0 auto;">
 1.7
+
+We assumed a placeholder for food cooked yesterday as f and found the expression for food cooked today.
+Based on how the expressions are formed, we can compare two expressions that contain same variable. 
+
+For example, if we have two expressions 
 
 
 The parts of expressions are separated by an operator. Operators can be addition “+”, subtraction “-”, multiplication “*” or “x”, division “÷” or “/”, the root “√” etc. Sometimes parts of an expression may not seem to use any operators, it is done in the cases of multiplication.
@@ -80,5 +85,3 @@ Thus the total cost of all the t-shirts is 3𝑥+2.5y+2z dollars.
 
 <img src="1_8_tshirts.jpg" width="300" style="display: block; margin: 0 auto;">
 1.8 
-
-

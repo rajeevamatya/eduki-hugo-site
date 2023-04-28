@@ -8,6 +8,7 @@ draft: false
 images: []
 weight: 340
 ---
+
 ### Application of law of equalities in equation
 We learned to solve two types of equations previously. 
 when we have the equation of type 2𝑥 = 8, we use the multiplicative law of equality to isolate the variable. We divide both sides by 2.
