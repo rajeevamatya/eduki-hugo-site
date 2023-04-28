@@ -17,8 +17,8 @@ For algebraic expressions, the value of expressions that we obtain by symbolic t
 
 Suppose 𝑥 is taken to be 25,
 
-then 25+25+25 is also 75, and 
-3 x 25 is also 75.
+then 25+25+25 is also 75, 
+and 3 x 25 is also 75.
 
 If 𝑥 is 3 
 then 3+3+3 is also 9 and 
@@ -28,7 +28,7 @@ We find the same value for both 𝑥+𝑥+𝑥 and 3𝑥 in all values of 𝑥 a
 
 #### Distributive property
 The distributive property is the property by which expressions under multiplication/division can be written in the form of addition/subtraction. 
-For example 
+For example,
 
 a(b+c)=ab+ac
 
@@ -61,18 +61,28 @@ lets test the commutative property with numerical values.
 
 2 - 8 =-6 ≠6= 8 - 2
 
-If two expressions give the same value for only some of the numbers then such expressions aren't equivalent to each other. 5𝑥 and 𝑥-8 give equal values only when 𝑥 = -2, 
+We can represent subtraction as the addition of the negative quantity and in that case we can apply commutative property. 
+2 - 8 = 2 + (-8) = (-8) + 2 = -8 + 2
+
+Whenever we apply properties like the distributive property, commutative property and associative property, we get equivalent expressions. It is like writing '4ℓ' in place of 'ℓ + ℓ + ℓ + ℓ', both will amount to the same number, whatever value we substitute for 'ℓ'. We can also interpret them as repeated addition means multiplication. Any number added four times within itself is the same as multiplying the given number with 4. 
+We can use the distributive law in order to verify that. 
+Perimeter of a square = sum of all sides = ℓ + ℓ + ℓ + ℓ = ℓ  (1+ 1 + 1 + 1) =  ℓ x 4 = 4ℓ
+
+
+We arent yet familiar with cases in which two expressions give the same value for one particular value for variable only. For example, 5𝑥 and 𝑥-8 both amount to 10 when we place -2 in place of 𝑥, 
 
 5𝑥 = 5 x -2 =-10
 
 𝑥-8 = -2 -8 = -10
 
-That means these expressions are called equal expressions at 𝑥 = -2. 
-
-We can try any other value for 𝑥 such as 7
+That means these expressions are equal at 𝑥 = -2. Expressions are equal when they amount to one value at one particular point whereas in case of equivalent expressions, they will amount to same number for all values of variable. 
+We can check if the expressions above are equal at another point as well. We can try  another value for 𝑥 such as 7
 
 5𝑥 = 5 x 7 =35
 
 𝑥-8 = 7 -8 = -1
 
-Just like 35≠-1, at all other values for 𝑥, these two expressions will have different values. So these expressions can't be termed as equivalent expressions. 
+At all other values for 𝑥 except -2, these two expressions wont give same value. So these expressions can't be termed as equivalent expressions. 
+We can also differentiate equal and equivalent expressions with new terms; instance and pattern. If two expressions are equal, they are equal at one instance only and if two expressions are equivalent, then they are equal at all instances or the pattern of the expressions are same. 
+
+We use pattern word normally to denote geometric figures but it is not just that. Pattern means the trend of a particular expression varying. 

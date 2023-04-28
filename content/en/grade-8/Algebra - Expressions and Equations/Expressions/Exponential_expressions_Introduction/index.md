@@ -13,13 +13,15 @@ toc: true
 ### Repeated multiplication in expressions
 In the acronym PEMDAS, E stands for exponents. Let's learn a few things about how to work with exponents. If a number has to be multiplied to itself many times, then exponents are used. 
 
-For example, 25²  means 25 multiplied by itself twice, that is, 25 x 25. In the same way, 25³ means 25 x 25 x 25.
+For example, 25²  means 25 multiplied by itself once, that is, 25 x 25. In the same way, 25³ means 25 multiplied by 25 multiplied by 25 or, 25 x 25 x 25.
+
 The area of a square is given by the square of its length, so the length “a” has to be multiplied twice. The expression a x a can be written as a². 
 
 <img src="3_1_square_of_a_units.jpg" width="300" style="display: block; margin: 0 auto;">
 3.1
 
-Here, 2 is written as an index to show how many times “a” has to be multiplied. The operation between indices follows some rules that are known as the "Laws of indices". 
+Here, 2 is written as an index to show how many times “a” has to be multiplied. The operation between indices follows some rules that are known as the "Laws of indices".
+ 
 In the same manner, the volume of a cube with side length “a” is denoted by a³ which means that the length of the cube has to be multiplied 3 times. 
 
 <img src="3_2_cube_of_a_units.jpg" width="400" style="display: block; margin: 0 auto;">
