@@ -19,7 +19,7 @@ There are two variables we will be looking at for 100 students in c school. Do t
 
 Following is the table with the data for the above questions, but since it is difficult to have 100 rows, only about 15 are shown. 
 
-<img src ="S05-chores-curfew-table.jpg
+<img src ="S05-chores-curfew-table.jpg" width="200" style="display: block; margin: 0 auto;">
 
 It simply contains yes or no data. Looking at the table, we know that we can have four types of answers from this data. 
 1. Students who have curfew and who have chores
@@ -29,13 +29,13 @@ It simply contains yes or no data. Looking at the table, we know that we can hav
 
 We can arrange the data given in the above table in another form of table with the four types of data we discussed just now. For this, curfew data can be shown row wise and chore data can be shown column wise. 
 
-<img src ="S05-chores-curfew-table-two-way-table.jpg
+<img src ="S05-chores-curfew-table-two-way-table.jpg" width="300" style="display: block; margin: 0 auto;">
 
 We see that we have the frequencies for the four types of data we discussed earlier. 
 
 Let’s say we want to see if there is an association between people who have chores and people who have curfews. We want to see if students who have a curfew also tend to have chores or not. Let’s show the frequencies of the students in the different categories in a bar graph. 
 
-<img src ="S05-chores-curfew-bar-graph.jpg
+<img src ="S05-chores-curfew-bar-graph.jpg" width="500" style="display: block; margin: 0 auto;">
 
 We see that the number of students who have chores is slightly higher than those who do not have chores. We also see that out of the people who have chores, more students also have curfew. Out of the students who do have chores, more students also do not have a curfew. So, does this mean that having a curfew causes students to have chores at home? Probably not, it sounds absurd. But we can see some sort of association between the two, mostly a positive one between having a chore and having curfew.  
 
