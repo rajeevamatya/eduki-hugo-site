@@ -24,19 +24,16 @@ Since the points fit on a linear function quite well, we can say that there is a
 
 But not all bivariate data will have a positive association. Let’s take an example and see what the plot looks like for the given situation. Given is the amount of time students spend on their phones at home and their scores in the most recent midterms. 
 
-S02-table-for-student-score-and-screen-time.jpg
-
+<img src ="S02-table-for-student-score-and-screen-time.jpg" width="300" style="display: block; margin: 0 auto;">
 
 Like before, we have a lot of data which is not arranged in any way, so we make a graph to see what kind of association or pattern there is. 
 
 <img src ="
 S02-graph-for-student-score-and-screen-time.jpg" width="500" style="display: block; margin: 0 auto;">
 
-
 This looks completely different from the previous graph. The line that passes through most of the points is as shown:
 
 <img src ="S02-hours-scores-linear-line.jpg" width="500" style="display: block; margin: 0 auto;">
-
 
 Before, there was a positive association since the slope of the line is positive as well, and an increase in one variable increases the other as well. In this case however, we see that an increase in hours spent using the phone decreases the score for students. It also means that a decrease in hours spent on the phone increased the score. This is an example of a negative association between the two variables since the slope of the line drawn is negative. 
 
@@ -55,8 +52,6 @@ Given in the graph that shows a scatter plot of size of different guava fruits a
 
 <img src ="S02-graph-seed-and-size-of-fruit-multiple-fruits.jpg" width="500" style="display: block; margin: 0 auto;">
 
-
-We see two different group
 We see two different clusters or groups here. We know that the top cluster is for guavas. The fruit size and the number of seeds is similar. We can thus conclude that the other cluster is another fruit since that cluster also has similar fruit sizes and seed numbers. 
 So while there is no positive or negative linear association in this case, the presence of clusters also is a pattern in itself. 
 
@@ -70,12 +65,10 @@ Let’s look at the previous graph of the negative association.
 
 We can see that one of the points on the top right seems like it does not properly fit in the linear negative association. This point tells us that even with high hours spent on the phone, this particular student still scored pretty high, which does not fit the relationship between hours and score we concluded with. But since this point is only one point that seems different from all other points, we consider this the outlier in the dataset. Kind of like the ‘odd one out’. So this student probably studies a lot as well or maybe listens in class and thus scores pretty well while also spending a lot of time on their phone. 
 
-## Non Linear Association
+## Non-Linear Association
 
 Besides the two linear associations and the clusters we have looked at, there are even more kinds of associations between data. (Obviously, we cannot just have only three kinds of relationships between two sets of data).
 
 We can have a relationship that is quadratic as well. Just think of the points drawn on the scatterplot as arranged in such a way that a parabola would pass through most of the points. So in such a case, increasing one variable first decreases the other and then increases it (or vice versa). Since this association is not linear, we call it nonlinear to generalize it. But we can be specific and call it quadratic as well. 
 
 <img src ="S02-quadratic-graph.jpg" width="500" style="display: block; margin: 0 auto;">
-
-

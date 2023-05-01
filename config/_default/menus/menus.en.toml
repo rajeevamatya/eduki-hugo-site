@@ -1,11 +1,11 @@
 [[main]]
   name = "Grade 6"
-  url = "/grade-6/"
+  url = "/grade-6/arithmetic-the-number-system/number_system/"
   weight = 10
 
 [[main]]
   name = "Grade 7"
-  url = "/grade-7/"
+  url = "/grade-7/arithmetic-rational_numbers/addition_subtraction/"
   weight = 20
 
 [[main]]
