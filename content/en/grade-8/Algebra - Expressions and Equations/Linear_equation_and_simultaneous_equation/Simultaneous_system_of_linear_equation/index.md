@@ -10,65 +10,75 @@ weight: 540
 ---
 
 ### System of equations
-We have already found out that there are many value pairs for a two variable equation. We can find the particular values that satisfy the given relation between the two. 
-The process of comparing many linear relationships and finding a common solution is known as solving the system of linear equations. The number of variables involved in the system must at least be equal to the number of equations as well. We find out the solution set of all the values for the unknown variables such that they satisfy all the relationships. lets suppose two relations given as:
+We have already found out that there are many pairs of values that satisfy a two variable equation. lets suppose two relations given as:
 
 𝑥=y/25
 
 𝑥=y/40
 
-The solution for values of 𝑥 and y in this case is (0,0). It means that when we put the values of 𝑥 and y as 0, both equations will be satisfied. 
+We have many values for 𝑥 and y that satisfy 𝑥=y/25 
+<img src="3_16_xy=25.jpg" width="500" style="display: block; margin: 0 auto;">
+3.16
+
+Likewise we have many values that satisfy 𝑥=y/40
+<img src="3_17_xy=40" width="500" style="display: block; margin: 0 auto;">
+3.17
+
+We can see that out of the several values that fit in the two equations, we have 0 and 0 (for 𝑥 and y) in both tables. The solution for values of 𝑥 and y in this case is (0,0). It means that when we put the values of 𝑥 and y as 0, both equations will be satisfied. 
 
 0=0/25 ✓
 
 0=0/40 ✓
+We are trying more than one equation together, thus they are called simultaneous equation or system of linear equations. The more number of variables are involved, we require the same number of equations if we have to find the common set of variables that satisfy all of the given equations. 
+
+Even though this method of solving two equations seems very logical, it may not be feasible at all times. We have no idea how many solutions we have to find for each equation. We will learn about the more efficient methods later. 
 
 ### Types of solutions in a linear system
-While solving a system of linear equations, there are many possibilities. We take a look at some on the basis of the nature of the intersection point through these figures. 
+We arent always sure if we will get a unique pair of values for both 𝑥 and y. According to the nature of the equations, the system of equations may have different types of solution. Let's look at some of the conditions of solutions between different lines.
 
-#### When the lines are parallel-No solutions
+#### When the equations represent parallel lines- No solution
 
 <img src="3_11_parallel_lines.jpg" width="500" style="display: block; margin: 0 auto;">
 3.11
 
-If the rate of change of two lines is the same between two relations, then they move parallel to each other. Parallel lines do not intersect at any point so these relations do not have any solution. An example of this would be if two bikes start traveling at the speed of 20 miles per hour but with the different initial position. The bike that starts ahead will remain ahead for the whole journey since they both will travel the same distance per hour. 
+If the coefficients of two variables are same but the constant isnt, then in that case, there will be no solution common in between two equations. 
+For example if we try to solve two equations 𝑥 + y = 5 and 𝑥 + y = 6, we have to find two numbers when added become 5 and that same number when added becomes 6 as well. Two numbers can be added to get 5 but those same numbers cant be added to get 6. Thus there will be no solution in between the equations. 
+If we generate a table with possible values for both the equations and plot the possible values from the table in a graph, we get parallel lines. We already know that parallel lines dont meet or they meet at infinity its said. 
+An example of this situation would be if two bikes start traveling at the speed of 20 miles per hour but with the different initial position. The bike that starts ahead will remain ahead for the whole journey since they both will travel the same distance in each hour. 
 
 <img src="3_12_two_cyclists.jpg" width="400" style="display: block; margin: 0 auto;">
 3.12
 
-Its like saying the cost of an apple fruit is 20 dollars per pc and the price of an apple MacBook is 1300 dollars and their prices grow by 10 dollars each year, will their prices be the same at any point in time? No, because 1300 is already higher than 20 before they start changing at the same rate. If the changing rate for MacBook was lesser than that of fruit, then maybe they could have the same price at some point. 
+Its like saying the cost of an apple fruit is 20 dollars per pc and the price of an apple MacBook is $1300 and their prices grow by $10 each year, will their prices be the same at any point in time? No, because $1300 is already higher than $20 before they start changing at the same rate. If the changing rate for MacBook was lesser than that of fruit, then maybe they could have the same price at some point. 
 
 <img src="3_13_apple_and_apple.jpg" width="400" style="display: block; margin: 0 auto;">
 3.13
 
 
-#### When the lines are coincident-many solutions
+#### When the equation represents coincident lines-many solutions
 <img src="3_14_coincident_equations.jpg" width="500" style="display: block; margin: 0 auto;">
 3.14
 
-When two relations have the same initial point along with the same rate of change, then they meet at all points. If the price of an orange and an apple per pc is the same as 20 dollars, then the price of 2 apples and 2 oranges are also the same. The same is with 3 apples and 3 oranges and so on. They will have multiple solutions. 
+If the co-efficients of the variables are same and the constant term is same as well, then the two relations will have many pair of values that satisfy both the equations. All values that are solution to one equation are the solution to another equation as well. For example, If the price of an orange and an apple per pc is the same as 2 dollars, then the price of 2 apples and 2 oranges are also the same. The same is with 3 apples and 3 oranges and so on. Thus they will have multiple solutions. 
 
 #### Another conditions-one unique solution
 <img src="3_15_intersecting_equations.jpg" width="500" style="display: block; margin: 0 auto;">
 3.15
+If the coefficients are different as well as the constant, then the two equations will have different set of solutions for the two equations except one point. The equations when shown in graph represent two lines that intersect at a point. Only one set of values substituted in place of the variables of both equations will be true. The point where the blue and green lines intersect lies on the path of both lines and they don't meet at any other point ahead and beyond that. Not even if we extend the lines! 
 
-The third type of condition is generally what we face and that is all other conditions except the two described before. If the rates of change are different, then two equations will have one unique solution. Only one set of values substituted in place of the variables will satisfy both equations. The point where the blue and green lines intersect lies on the path of both lines and they don't meet at any other point ahead and beyond that. Not even if we extend the lines! 
-
-
-There are several methods of solving a system of linear equations. The most simpler in terms of methodology are substitution and elimination methods.
+### Methods of solving linear equation
+There are several methods of solving a system of linear equations. The most simpler in terms of methodology are substitution and elimination methods. 
 
 #####  Substitution method
-In the substitution method, the expression of one of the variables is used from one equation to another and then the new equation becomes one-variable equation and can be solved easily.
+In the substitution method, the expression of one of the variables is used from one equation to another and then the new equation becomes one-variable equation and can be solved easily. 
 
+For that, we first isolate one of the variables either 𝑥 or y using one of the equation. We substitute that expression generated into the other equation. We can choose to substitute any variable from any of the equations. We must avoid processes like taking the expression for 𝑥 from the first equation and plug it into first equation itself. 
 
 For example, we have to solve the following system of linear equations.
 
 2𝑥 + 7y = 23
 
 𝑥 - 4y = -11
-
-If we are to use the substitution method, we substitute the value of 𝑥 or y from the first into second or second into first into the other equation. We can choose to substitute any variable from any of the equations, the only thing that has to be noticed is that the same equation shouldnt be used twice. That means we must not take the expression for 𝑥 from the first equation and plug it into first equation itself. 
-
 
 Suppose we decide to substitute 𝑥 from the second equation into the first. 
 We get 𝑥 = 4y-11 when isolating 𝑥 in the second equation
@@ -96,9 +106,9 @@ or, 𝑥 = 2/2
 𝑥 = 1
 
 ##### Elimination method
-In the elimination method, both equations are operated with some constant at first and then with each other later such that one of the variables gets eliminated either by subtraction or addition and thus there remains only one-variable equation.
+Elimination method, by name itself is the method of eliminating one of the variable to solve the system of equations. 
+If the given equations have the coefficient of one of the variables same and of same sign, we subtract one equation from the other such that one of the variables in both equations gets eliminated. If one of the coefficient between the equations for the same variable is same but of opposite sign, then the equations are added. 
 
-In the method, we add or subtract two equations such that one of the variables in both equations. If the coefficients are of opposite sign, then the equations are added and if the coefficients are of the same sign then one equation is subtracted from the other. 
 
 For example, if the two equations are 𝑥 - y = 2 and  𝑥 + 2y = -1
 
@@ -123,7 +133,8 @@ Now the value of y is replaced in one of the equations to get to the value of �
 
 𝑥 = 2-1 = 1
 
-If the magnitude of the variables in the equations arent the same such as in the case of y in the above system of equations, then we have to multiply one/both equations by different numbers so that we can get a common coefficient for same variable in both equations. After that the equations are added/subtracted with/from each other respectively. Is it confusing?
+If none of the coefficients of the variables in the equations are same, we cant eliminate one variable just by performing addition or subtraction. 
+In that case we first have to multiply one/both equations by different numbers so that we can make one of the coefficients same for one variable in both equations. After that we add/subtract equations according to the need. Is it confusing?
 
 
 Lets look at one example. Suppose the equations are
@@ -133,7 +144,10 @@ Lets look at one example. Suppose the equations are
 -3𝑥+7y=4…………………(ii)
 
 
-Now if we are looking to cancel 𝑥, then 5 and 3 won't get canceled with either subtraction or addition. Thus we make them both equal to one common number which is 15. 15 is the lowest common multiple of 5 and 3. 5 can be made 15 by multiplying with 3. 3 can be made 15 by multiplying with 5. Since multiplication cant be done on only one term because it will affect the equality of the two sides, the whole equations are multiplied by respectively factors.
+Now if we are looking to cancel 𝑥, then 5 and 3 won't get canceled with either subtraction or addition. We multiply each of the equations with some factor and then make the coefficients same. We dont use the additive law of equality because it will add the unnecessary variable terms on both sides. 
+If we have to make coefficients 3 and 5 the same number by multiplying then the number must be multiples of both 3 and 5. The smallest of the common multiples is 15. We choose the smallest to make our calculations easier. 5 can be transformed to 15 by multiplying with 3. 3 can be transformed to 15 by multiplying with 5. To maintain the equality, we have to use the same multiplier on both sides. 
+
+
 Equation (i) has to be multiplied by 3 and Equation (ii) by 5
 
 3[5𝑥+2y=1]
@@ -165,5 +179,5 @@ or, 15𝑥 = 0.36
 or, 𝑥 = 0.36/15 = 0.024
 
 
-Similarly, if we were looking to eliminate y then Equation (i) has to be multiplied by 7 and Equation (ii) by 2 with both coefficients becoming 14 in magnitude. The processes after that is similar to the one shown earlier.  
+Similarly, if we were looking to eliminate y then we have to multiply equation (i) by 7 and equation (ii) by 2 with both coefficients becoming 14 in magnitude. The processes after that is similar to the one shown above.  
 
