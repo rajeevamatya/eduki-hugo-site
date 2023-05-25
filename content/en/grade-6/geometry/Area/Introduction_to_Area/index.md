@@ -1,5 +1,5 @@
 ---
-title: "Introducing Area"
+title: "01 Introducing Area"
 description: "We get familiar with the term area and the unit to measure it"
 lead: ""
 date: 2020-10-06T08:49:31+00:00
@@ -10,190 +10,168 @@ weight: 610
 toc: true
 ---
 
+
 ## Area
 ### What is area?
 
-Given are a few different shapes. 
+To understand area, let's look at different shapes.
+
 <img src="1_1_different_shapes.png" width="500" style="display: block; margin: 0 auto;">
-1_1
+
+You can see that the sizes of these shapes are not the same. Now, imagine placing each shape on a large piece of paper or the floor. Which shape do you think takes up more space?
+
+We can make a good guess just by looking at the images. Generally, bigger shapes occupy more space, right? So, let's try arranging them in order from smallest to largest based on how much space they seem to occupy. But remember, this is just an estimate.
 
 
-
-We can clearly see that all of the sizes of the shapes are not the same. Think of each shape being placed on a large piece of paper, or even the floor. Which shape do you think occupies more space on the paper/floor?   
-
-We can make a pretty good estimate for this just by looking at some of the images. Bigger shapes obviously occupy more space right? So let’s try arranging them in ascending order by how much space they occupy. Don’t worry if it turns out to be wrong, this is just an estimate.
 <img src="1_2_shapes_arranged_ascending.png" width="500" style="display: block; margin: 0 auto;">
-1_2 
+It looks like a reasonable order, but can we be absolutely certain that this order is correct?
 
+Knowing the exact amount of space a shape occupies is important in mathematics. For instance, imagine you need to cover all the walls of classrooms with wallpaper. How will you know how much wallpaper to buy? How will you explain it to the shopkeeper? There are many other situations where we need to measure different surfaces. So, how do we find the measurement?
 
+This is where we use 'area.' Area tells us how much space a shape occupies.
 
+Now, let's learn how to find the area of a shape.
 
-Seems like a good order, but can we be absolutely sure that this order is correct?
+When you draw a shape on a piece of paper, it's hard to determine the space it occupies because the paper is blank. However, by visually comparing shapes, we can usually tell which one has a larger or smaller area. The bigger the shape, the more space it occupies, so it has a greater area. This method of visually comparing sizes is useful when the shapes are noticeably different in terms of the space they cover.
 
-Knowing exactly how much space a shape occupies is an important thing to know in mathematics. For example, you have to cover all the walls of all classrooms with wallpaper. How are you going to know how much wallpaper is needed? How are you going to explain to the shopkeeper?
-There are several other kinds of problems in which we have to measure different surfaces. So how do we go about finding it? 
+However, sometimes shapes look very similar, and it's difficult to determine which one is larger. In math, we need to be precise.
 
-This is where we use ‘area’. Area basically tells us how much space a shape occupies. 
-
-So how do we go about finding it?
-
-We’ll start simple. 
-
-When you draw a shape on a piece of paper, it is difficult to find the space it occupies since it is blank. As we have seen before, by sight, we may be able to tell when shapes have bigger or smaller areas. The bigger the shape, the more space it occupies, hence more the area will have. The method of visually deciding which is bigger is useful and makes sense when the shapes we compare are considerably different in terms of the space they cover. 
-
-But this may not be the case all the time, sometimes the shapes look way too similar for us to correctly decide if one is greater or not, all we can do is estimate. In math, we need to be precise.
-
-So how do we do this?
+So, how do we achieve this precision?
 
 For this, let’s go back a few topics to the idea of measuring length.
 
-When we measure the length of a line, we do so by using a unit, say a meter. So, to measure a line, we count how many 1-meters there are in the line. If the total length of the line can occupy five 1-meters then the line has a length of 5 meters. This helps us correctly measure the length of the line, rather than just blindly estimating. We can see that below.
+To measure length, we use a unit of measurement, such as a meter. When measuring a line, we count how many 1-meter units fit into the line. For example, if the line can occupy five 1-meter units, then the length of the line is 5 meters. This allows us to accurately measure the length instead of just estimating. Here's an illustration of this concept:
+
 <img src="1_3_5_times_one_meter.gif" width="500" style="display: block; margin: 0 auto;">
-1_3 
 
 
-The main idea of measuring area is the same. We need some standard like the 1-meter unit against which we can compare the area of any object. Could we not use the same?
- 
-Let’s try it out for a rectangle. 
+The concept of measuring area is similar. We also need a standard unit of measurement against which we can compare the area of any object. Can't we use the same unit as for length?
+
+Let's try it out with a rectangle:
+
 <img src="1_4_6_square_meter.gif" width="500" style="display: block; margin: 0 auto;">
-1_4
 
 
 
-We know that a rectangle has a length and a breadth/width. Here,  length means the horizontal side and vertical side is the width but the names can be interchanged. The rectangle has its side 3 times the standard 1 meter. We can thus measure length to be 3 meters. But what about the width? We would need to measure that as well. The width is observed to be 2 meters. But now we know just the length and width of the rectangle. How do we express how much space it occupies? What is the area? 
 
-Since our shape itself has a new dimension (width is addition to length), it makes sense for the unit of measure to have a new dimension as well, rather than using the one for length. Dimensions of a figure provide an idea about the size occupied by an object. We need a new quantity for defining the space occupied by an object because we can change space occupied by the object by two ways. 
+A rectangle has a length and a breadth (or width). Here, the length refers to the horizontal side, and the vertical side is the width (although the names can be interchanged). In this example, the sides of the rectangle are three times the length of the standard 1 meter. Therefore, we can measure the length to be 3 meters. But what about the width? We need to measure that as well. From observation, we can determine that the width is 2 meters. Now we know the length and width of the rectangle, but how do we express the amount of space it occupies? What is the area?
 
-So, instead of using 1 meter, we add an additional dimension when we work with shapes. Adding a new dimension but with the same length gives us a square, with both sides being 1 meter.	 Now we have a measurement unit with length and width. 
+Since the rectangle has a new dimension (width in addition to length), it makes sense for the unit of measure to also have a new dimension, rather than using the one for length alone. The dimensions of a figure provide an idea of the size occupied by an object. We need a new quantity to define the space occupied by an object because we can change the space occupied by the object in two ways.
+
+Instead of using 1 meter as the unit, we introduce an additional dimension when working with shapes. Adding a new dimension with the same length gives us a square, with both sides measuring 1 meter. Now we have a measurement unit with both length and width.
+
 <img src="1_5_meter_square.png" width="200" style="display: block; margin: 0 auto;">
-1_5
 
+In the case of length, we determined how many 1-meter lines could fit within the line we wanted to measure. Similarly, when calculating the area of a rectangle, we determine how many squares with a side length of 1 meter (as shown above) can fit within it. Let's take an example of a rectangle and see how many of the given squares can fit within it:
 
-
-In the case of length, we checked how many 1-meter lines fit in the line we wanted to measure. Similarly, in the case of the area of a rectangle, we check how many squares of side 1 meter (shown above) fit in it.   
-So let’s take a rectangle for example and let's try to see how many of the given squares will fit in it.
 <img src="1_6_15_square_meter.gif" width="500" style="display: block; margin: 0 auto;">
-1_6
 
+In this particular rectangle, we can observe that 15 squares with a side length of 1 meter fit inside it. This is what area represents—the number of squares that can fit inside the rectangle or any given shape. In this case, the area of the rectangle is 15 squares with a side length of 1 meter.
 
-We see 15 squares of side 1 meter in this rectangle. This is what area is -> the number of squares that the rectangle (or shape) can fit inside it. The area of a given rectangle is 15 squares of unit side. (Kind of long, right? Don’t worry, we’ll make it shorter and easier to remember soon).
+I understand that this explanation might seem a bit lengthy. However, we'll simplify and provide an easier way to remember the concept of area soon.
+
 
 ### Unit used to measure area
-Like with length, you can use any unit to measure area. In length, we use cm, inch, foot, meter, km, etc. To generalize, we can take the context about how we measure the length in ‘units’. This is because a ‘unit’ means 1. But it has to be a standard value that acts as a reference value with which we compare all other lengths. So, if we know that the length of a line joining two points is 5 units, then we know that it is 5 times more than a standard unit (which could be a centimeter, or an inch or a kilometer). Based on that, the given value may be 5 mm, 5 inch, 5 cm or 5 meter etc.
- 
-Area will be referred to as “square units” in this whole lesson, but what does “square units” actually mean?
 
+Just like with length, we can use any unit to measure area. In the case of length, we use units such as centimeters, inches, feet, meters, kilometers, and so on. To generalize the concept, we consider the "unit" as a standard value that serves as a reference for comparing other lengths. For example, if the length of a line joining two points is 5 units, it means it is five times greater than the standard unit, which could be a centimeter, an inch, or a kilometer. Based on this, the given value could be expressed as 5 mm, 5 inches, 5 cm, 5 meters, and so on.
 
-The square that we use for measuring the area has a side length of 1 meter. To generalize, let’s say it's 1 unit (like with length). So, do we say the unit of measurement of area is 1 unit as well? This would definitely get confused with length since 5 units could mean both area or length. So what do we do instead?
+In the context of area, we refer to the unit of measurement as "square units" throughout this lesson. But what does "square units" actually mean?
 
-Since we use a square of side 1 unit to measure other areas, we use square units! Easy right? The small square itself has an area, which will obviously be 1 square unit (since both sides are of length 1 unit). So a rectangle that fits 10 of these squares will have an area of 10 square units! If we used a square of size 1 cm, the area would be 1 cm square or 1cm2, with the superscript 2 being a symbol for ‘square’. If we use this square to measure the area of a shape and we can fit 500 squares of 1 cm side, the area of the shape is 500 cm^2. (We’ll see more about this later as well).
+The square we use for measuring area has a side length of 1 meter. To generalize, let's consider it as 1 unit (similar to length). However, if we use "unit" to refer to both area and length, it can lead to confusion. Therefore, instead of using "1 unit" as the unit of measurement for area, we use "square units" to differentiate it from length. It's quite simple, really! The small square itself has an area of 1 square unit since both sides have a length of 1 unit. So, if a rectangle can fit 10 of these squares, its area would be 10 square units. If we were using a square with a side length of 1 centimeter, the area would be expressed as 1 cm² (cm square) or 1 cm², where the superscript 2 denotes "square." If we use this square to measure the area of a shape and find that 500 squares with a side length of 1 centimeter can fit, the area of the shape would be 500 cm². (We'll explore this further later on.)
 
-
-Now that we know to use squares to measure area, let’s use this method to find the area of the four shapes from the beginning and see if we ordered them correctly. For this case, let’s just use square units and not any particular physical unit like cm or m. 
+Now that we know how to use squares to measure area, let's apply this method to find the area of the four shapes from the beginning and determine if we ordered them correctly. In this case, we'll use square units without specifying any particular physical unit like centimeters or meters.
 
 <img src="1_7_different_grids.png" width="500" style="display: block; margin: 0 auto;">
-image 1_7
-
-
-
-It seems we were mistaken about the last two. 
-
-
-Keep in mind that you need to use the same-sized square to compare all the shapes. It doesn't really matter what size square you choose, but just make sure to use the same for all shapes. 
 
 
 
 
-So how do we know which sized square we should use? 
+It seems we were mistaken about the last two.
 
+When finding the area of a shape using squares, it's important to use the same-sized square for all the shapes being compared. The actual size of the square doesn't matter as long as it's consistent for all the shapes.
 
-Let’s see using an example of a rectangle. 
+So how do we know which sized square we should use?
+In the example of a rectangle, there are different ways to find the area using squares, as shown. 
 
-
-Which way of finding the area of the rectangle do you think is correct? Note that they are all the same rectangle. 
 
 <img src="1_8_same_figure_different_grades.png" width="1000" style="display: block; margin: 0 auto;">
-1_8
 
 
 
 
-The first one maybe? Since it has the least amount of squares?
+The first approach may seem correct because it uses the least number of squares. However, we are not asked to compare the different methods or determine which one is the largest or smallest. We are simply asked to find the area of the rectangle.
+
+Surprisingly, all the methods shown are correct, even though they yield different areas for the same rectangle. This is because the area is ultimately determined by the number of squares that can fit inside the shape, regardless of the specific method used. As long as we consistently use the same-sized square for all the shapes, the calculated areas will be valid.
+
+So, while the methods may yield different numerical results, they are all technically correct in terms of finding the area of the rectangle using squares.
 
 
-We are not being asked to compare them, just to find the area of the rectangle. Maybe they’re all incorrect since we get different areas for the same rectangle. 
+Just like in the case of measuring length, the choice of unit for measuring area can result in different numerical values, but it doesn't change the actual area of the shape being measured. The underlying concept remains the same.
+Using your example, when measuring a line against a 1-meter line, we get a measurement of 5 meters. However, if we measure the same line against a 1 cm line, we get a measurement of 500 cm. The difference in numerical values is due to the difference in units used for measurement, but the actual length of the line remains unchanged.
 
 
-But technically, they’re all correct. 
+Similarly, when measuring the area of a rectangle, we can use squares of different sizes as our unit of measurement. Changing the size of the square will result in different numerical values representing the area (15, 60, 135 in your example), but the actual area of the rectangle remains the same.
 
 
-Let’s go back to the line example from before.
+So, the key point to understand is that the choice of unit affects how we represent the area numerically, but it doesn't alter the intrinsic size or space occupied by the shape itself.
 
 
-If a line is given and you measure it against a 1-meter line, you get 5 meters. But if you measure it against a 1 cm line, you get 500 cm! The same line is shown using different numbers, which works because the units are different. The same theory applies here. In order to measure the area of a rectangle, we can use any sized square. Changing the size does change the number that represents the area (15, 60, 135 from before) but the area does not change. What we are changing is the way we represent the area. 
+In our example, you used different units (a, b, c) to represent the size of the squares used for measuring the area of the rectangle. Let's recap:
+
+- In the first case, the size of the square used is 1 'a'. Since there are 15 squares that fit within the rectangle, we can express the area as 15 square 'a's.
+- In the second case, the size of the square used is 1 'b'. With 60 squares fitting within the rectangle, the area can be expressed as 60 square 'b's.
+- Finally, in the third case, the size of the square used is 1 'c'. The rectangle accommodates 135 squares, so the area is 135 square 'c's.
+
+The area of a shape remains the same regardless of the unit or size of the square used to measure it. The numerical value of the area will change depending on the unit or size of the square used, but the actual amount of space covered by the shape remains constant. What it means is that the area covered by 15 square ‘a’s is the same as the area covered by 60 square ‘b’s and 135 square ‘c’s.
+
+Using a smaller square unit will result in a higher numerical value for the area because it takes more of those smaller squares to cover the same space. Conversely, using a larger square unit will give a smaller numerical value for the area because fewer of those larger squares are needed to cover the same space.
 
 
-Say in the first case the size of the square is 1 ‘a’ (it’s a made up unit). So the area of the square is 15 square ‘a’s. In the second case, say the size of the square is 1 ‘b’, so the area is 60 square ‘b’s. Finally lets say the size of the final square is 1 ‘c’, making the area of the rectangle to be 135 square ‘c’s. 
+Let's explore the relationship between different units of area using real-world measurements.
 
+We know that one foot is equal to 12 inches. Now, we want to find out how many square inches are equal to 1 square foot.
 
-Basically, the area of the rectangle is the same, but the way we are expressing them using different units gives us different values for area. 
-What it means is that the area covered by 15 square ‘a’s is the same as the area covered by 60 square ‘b’s and 135 square ‘c’s. 
+At first, it might seem like the answer is 12 square inches. However, let's confirm this visually using some figures.
 
-
-We see that if we use a smaller square we get a higher numerical value, and if we use a larger square we get a smaller numerical value for the area.
- 
-Let’s now look at units that actually exist and see how they relate in terms of area. 
-
-
-We know that one foot is equal to 12 inches, so how many square inches would be equal to 1 square feet?
-
-
-The obvious answer would have been 12 square inches but can we be sure? Let’s see visually if this is correct.
 <img src="1_9_one_square_feet.png" width="500" style="display: block; margin: 0 auto;">
-1_9
+
 
 
 <img src="1_10_one_square_feet_into_square_inches.png" width="400" style="display: block; margin: 0 auto;">
-1_10
 
 
 
-We can see in the figures that each side would be filled by 12 squares in both directions making the total number of squares filling the figure completely 144 squares of side 1 inch. The space covered by 144 squares of 1 inch side is equal to the space covered by 1 square of 1 foot side. 
+
+By examining the figures, we can see that each side of the square with 1-foot length can be filled with 12 squares in both directions. This means that the total number of squares needed to completely fill the figure is 144 squares, each with a side length of 1 inch.
+
+Therefore, we conclude that the space covered by 144 squares, each with a side length of 1 inch, is equal to the space covered by 1 square with a side length of 1 foot. 
+So, 1 square feet = 144 square inches 
+1 feet^2= 144 inch^2
 
 
-So, 1 square feet = 144 square inches
-1 feet2= 144 inch2
+
+Let's analyze the relationships required to convert units from square feet to square inches.
+
+In the case of length, we know that 1 foot = 12 inches
+
+This means that to convert a length from feet to inches, we multiply the given value in feet by 12.
+
+However, when it comes to area, the conversion is a bit different. We have,
+ 1 square foot = 144 square inches
+
+So, simply multiplying the unit given in square feet by 12 is not sufficient. We need to multiply it by 12 x 12 because that's how many squares of 1-inch side length can fit in a square of 1 foot.
+
+To illustrate this, consider that the space that can accommodate 12 squares of 1-foot length can also hold 12 x 12 x 12, which equals 1728 squares of 1-inch length.
+
+12 feet^2 = 12 x 1 ft x 1 ft = 12 x 12 inch x 12 inch = 1728 inch^2
 
 
-Did you see the relationships required to convert the unit from square feet to square inches? 
 
+The choice of which square to use for measuring area depends on the size of the area we want to measure. If we want to find the area of a small space like a room's floor, using 1-foot squares could be practical. On the other hand, if we want to measure a large area like a football field, using 1-meter squares would be more suitable. 
 
-In length, 1 feet = 12 inches
+The reason for selecting the appropriate square size is to strike a balance. If we were to use tiny 1-centimeter squares to measure the football field, it would be an overwhelming task to count each and every square. It would be tedious and time-consuming. That's why we avoid using a smaller square for measuring large areas. 
 
+Similarly, using larger squares for measuring smaller areas doesn't make sense either. For instance, measuring the area of a room's floor with a square that has a side length of 1 kilometer would be impractical and unnecessary. 
 
-This means that to find any length in inches, we multiply the unit given in feet by 12. 
+Therefore, it's important to think about the appropriate units before measuring an area and choose a square size that matches the scale of the area being measured.
 
-
-In area however, 1 feet2= 144 inch2
-
-
-So simply multiplying by 12 is not enough. We need to multiply the unit given in square feet by 12 x 12 since that many squares of square inches can fit in a square of 1 foot. 
-
-
-Using this reasoning, we can say that the space that can hold 12 squares of 1 feet length can also hold 12 x 12 x 12 = 1728 squares of 1-inch length. 
-
-
-12 feet2 = 12 x 1 ft x 1 ft = 12 x 12 inch x 12 inch = 1728 inch2
-
-
-The question of which square to choose depends on the area we have to measure. If you want to find the area of your room’s floor, using 1 foot squares could be useful. If you want to find the area of a football field, maybe 1-meter squares would be useful. The reason is that the number of 1-meter squares covering the football field is neither too large nor too small. Imagine measuring a football field with 1 cm squares. So many squares!! Would you like to count each and every square of 1 cm squares in the football field? It’s tedious, isn't it? 
-
-
-This is why we avoid using a smaller square to measure a large area. But if we used 1-meter squares, we would need to use fewer squares. 
-
-
-This also applies to using larger squares to measure smaller areas. It would not make sense to measure the area of your room’s floor with a square that has a side of 1 km right?
-
-
-So, think of what units would be appropriate before you measure area.
- 
