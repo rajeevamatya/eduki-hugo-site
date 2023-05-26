@@ -1,5 +1,5 @@
 ---
-title: "Decomposition complex polygon"
+title: "06 Decomposition Of Complex Polygon"
 description: "We decompose a complex polygon multiple times to calculate the area"
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -9,50 +9,37 @@ images: []
 weight: 660
 toc: true
 ---
-## Finding area using decomposition (complex shape)
+## Finding area using decomposition (complex shapes)
 
 
-We can apply decomposition to find areas of other kinds of shapes as well. When we are not familiar with the shape whose area has to be found out, decomposition becomes very useful like the one example given below. 
+We can use decomposition to find the area of different shapes. It's really helpful when we don't know the shape well. For example, let's say we have a shape we don't know how to find the area of. We can break it down into smaller shapes we do know how to find the area of.
 
+Sometimes, we have to break down and rearrange the shape more than once to find the area, like given below.
 
-Let’s take an example in which we may have to decompose and rearrange the shape more than once. 
 <img src="1_69_complex_quadrilateral.png" width="300" style="display: block; margin: 0 auto;">
-1_69
 
 
+Our goal is to get as many complete squares in the shape as we can. To do this, we can add more lines to the shape to make it easier to work with. 
+To start, we draw a vertical line in the shape. Then, we use decomposition and rearrangement to turn it into a pentagon shape.
 
-Our main aim is to get as many complete unit squares in the shape as possible. We can do that by introducing more horizontal and vertical lines in the final rearranged figure. 
-
-
-First, we draw a vertical line as shown in the figure, and then apply the decomposition and rearrangement process so that we get a pentagon. 
 <img src="1_70_complex_quadrilateral_to_pentagon.gif" width="300" style="display: block; margin: 0 auto;">
-1_70
-
  
 We get a figure somewhat like the one shown below.
 <img src="1_71_pentagon_from_quadrilateral.png" width="300" style="display: block; margin: 0 auto;">
-1_71
- 
-This figure is composed of two trapeziums as shown. We can directly use the formula of trapezium on them and add their calculated areas. 
+
+The shape we're looking at is made up of two trapeziums. We can use a formula to find the area of each trapezium and add them together to get the area of the whole shape. 
+
 <img src="1_72_pentagon_into_two_trapeziums.png" width="300" style="display: block; margin: 0 auto;">
-1_72
 
+Another way to find the area of the shape is to break it down into smaller parts. We can turn the half triangle at the bottom of one of the trapeziums into a whole square.
 
-
-Alternatively, we can further decompose the figure transforming the half triangle from the trapezium at the bottom to make a complete square as shown. 
 <img src="1_73_pentagon_to_heptagon.gif" width="300" style="display: block; margin: 0 auto;">
-1_73
 
+Now, we have a new shape that's made up of a triangle (half a unit square), 3 rectangles (half of a unit square), and 2 squares (one unit square). 
 
-
-After the decomposition, we get the figure below which comprises of a triangle (half a unit square), 3 rectangles (half of unit square), and 2 squares (one unit square). 
 <img src="1_74_countingsquares_in_heptagon.png" width="300" style="display: block; margin: 0 auto;">
-1_74
 
 When we add the areas of all the individual pieces we get:
+Total area= 0.5 +1 + 1 + 0.5 + 0.5 + 0.5 = 4 square units.
+It is always a matter if an incomplete square can be combined with another incomplete square to make a complete square! It's like a puzzle! Sometimes you need more than two pieces to make a complete square, but you can figure it out by trying different combinations. You can even rotate the pieces to make them fit. This idea of breaking shapes into smaller pieces can be used for any polygon.
 
-
-Total area= 0.5 +1 + 1 + 0.5 + 0.5 + 0.5 = 4 square units. 
-
-
-It is always a matter if an incomplete square can be combined with another incomplete square to make a complete square! Easy right? Sometimes we may need more than two pieces to complete a unit square but we can definitely do that by some trial and error. As you have already seen, you can rotate the decomposed shape as well while rearranging. The principle of decomposition can be applied to any polygon. 
