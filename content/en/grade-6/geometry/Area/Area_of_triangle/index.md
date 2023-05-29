@@ -1,5 +1,5 @@
 ---
-title: "04 Area of triangle"
+title: "05 Area of triangle"
 description: "We find the area of a triangle"
 lead: ""
 date: 2020-10-06T08:49:31+00:00
@@ -10,6 +10,7 @@ weight: 640
 toc: true
 ---
 ## Triangles
+
 ### Area of right-angled triangle
 
 We have a triangle with a right angle that measures 90° shown in the picture (hence the name of the triangle). How can we find the area of this shape? 
@@ -62,11 +63,7 @@ Look at the three different bases and their corresponding heights.
 <img src="1_55_base_and_height_of_parm_and_parm.gif" width="500" style="display: block; margin: 0 auto;">
 
 
-
-
 <img src="1_56_base_and_height_of_triangle2.png" width="300" style="display: block; margin: 0 auto;">
-
-
 
 <img src="1_57_base_and_height_of_triangle3.png" width="300" style="display: block; margin: 0 auto;">
 

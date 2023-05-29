@@ -1,5 +1,5 @@
 ---
-title: "03 Rectangles"
+title: "04 Rectangles"
 description: "We make the process of counting squares easier"
 lead: ""
 date: 2020-11-12T13:26:54+01:00

@@ -1,5 +1,5 @@
 ---
-title: "02 Counting squares"
+title: "03 Counting squares"
 description: "We learn to estimate the area by counting squares in different shapes"
 lead: ""
 date: 2020-11-12T13:26:54+01:00
