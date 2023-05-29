@@ -1,5 +1,5 @@
 ---
-title: "06 Decomposition Of Complex Polygon"
+title: "07 Decomposition Of Complex Polygon"
 description: "We decompose a complex polygon multiple times to calculate the area"
 lead: ""
 date: 2020-11-12T13:26:54+01:00

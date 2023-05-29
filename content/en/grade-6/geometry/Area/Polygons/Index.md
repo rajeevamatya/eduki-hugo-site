@@ -1,5 +1,5 @@
 ---
-title: "05 Polygons"
+title: "06 Polygons"
 description: "We derive the techniques of finding the area of different polygons"
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -115,9 +115,7 @@ Therefore, the base of triangle = b - a]
 
 <img src="1_68_trapezium_into_parm_and_triangle2.png" width="300" style="display: block; margin: 0 auto;">
 
-
 Now for the area of a trapezium. We can obviously just add the areas of the two shapes together to get the total area of the trapezium. 
-
 
 Area of the trapezium = area of the parallelogram + area of triangle 
 = base x height + ½ x base x height
@@ -126,13 +124,10 @@ Area of the trapezium = area of the parallelogram + area of triangle
 = h x (a/2 + b/2) 
 = ½ x h x (a+b)
 
-
 When writing in terms of the dimensions of the trapezium, we have the area of trapezium as:
 = ½ x distance between parallel sides (or height) x sum of parallel sides
 
-
 This formula uses the height and the sum of the parallel sides to find the area. 
-
 
 But don't worry if you don't want to use the formula! We can just find the area of a trapezium by breaking it down into shapes we already know how to find the area of. We can add the areas of these shapes together to find the total area of the trapezium.
 
