@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Net diagrams"
+title: "07 Introduction to Net diagrams"
 description: "We understand the use of net diagrams"
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -10,6 +10,21 @@ weight: 720
 toc: true
 ---
 
+## Pyramids
+
+
+Let's talk about pyramids (and not the ones in Egypt). 
+
+
+<img src="2_29_pyramid_extruded.gif" width="500" style="display: block; margin: 0 auto;">
+The given shape shows us that it has a square base and 4 triangular faces (although we can only see two in the image) that meet at a point, which is called the apex. There are 8 edges and 5 corners in this pyramid (you should know by now what edges and corners mean). When you look at the image,  while moving from the bottom (or base) to the top, it looks like the square base gets smaller and smaller until it reaches the point at the top (the apex). This is what differentiates a pyramid from a prism. In case of a prism, the base was consistent throughout the height of the prism. 
+There are other types of pyramids too, like ones with a hexagonal base. These have 6 triangular faces that connect the hexagon base to the apex. Hexagonal pyramids have 6 triangles, while hexagonal prisms have 6 rectangles.
+
+
+<img src="2_30_hexagonal_pyramid.png" width="150" style="display: block; margin: 0 auto;">
+
+
+Note: Have you noticed the dotted lines on pictures of 3D shapes? Those lines show us the faces that we can't see because they're hidden from view.
 
 
 
