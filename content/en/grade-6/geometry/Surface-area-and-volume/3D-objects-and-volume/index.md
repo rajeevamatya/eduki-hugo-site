@@ -45,4 +45,3 @@ Total surface area is the sum of all visible surfaces of an object. Visible face
 
 
 When we have a 3D object with different shaped faces, we find the area of each shape and add them up to get the total surface area. 
- 
