@@ -4,7 +4,7 @@ description: "this is a test blog"
 excerpt: "Just testing the new hugo blog template"
 date: 2023-03-20T11:44:24+05:45
 lastmod: 2023-03-20T11:44:24+05:45
-draft: false
+draft: true
 weight: 50
 images: []
 categories: ["geometry"]
