@@ -1,5 +1,5 @@
 ---
-title: "08 Volumes and Surface Areas"
+title: "07 More on Volumes and Surface Areas"
 description: "We get meaning with surface area"
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -12,7 +12,6 @@ toc: true
 
 ## Objects with same volume may have different surface areas
 
-
 Cuboids that have the same volume can look different and have different surface areas. 
 
 
@@ -23,8 +22,6 @@ Volume of cube B = 4 x 1 x 1 = 4 cubic units
 Total surface area of cube A= 2 (2x2 + 2x1 + 2x1) = 16 square units 
 Total surface area of cube B= 2 (4x1 + 4x1 + 1x1) = 12 square units
 This means that it would take more paint to color Cube A than Cube B.
-
-
 
 
 This applies in reverse as well, two objects that have the same surface area can occupy different volumes.
