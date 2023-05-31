@@ -1,5 +1,5 @@
 ---
-title: "07 Net Diagrams"
+title: "06 Net Diagrams"
 description: "We understand the use of net diagrams"
 lead: ""
 date: 2020-11-12T13:26:54+01:00

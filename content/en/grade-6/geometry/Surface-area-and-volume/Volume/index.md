@@ -1,10 +1,10 @@
 ---
-title: "04 What is volume?"
-description: "We get familiar with 3D objects and volume"
+title: "04 Prisms"
+description: "We get familiar with 3D objects: prisms"
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
-draft: false
+draft: true
 images: []
 weight: 715
 toc: true
