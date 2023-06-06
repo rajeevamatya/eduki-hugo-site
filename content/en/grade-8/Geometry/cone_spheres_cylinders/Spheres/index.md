@@ -1,5 +1,5 @@
 ---
-title: "Spheres"
+title: "03 Spheres"
 description: ""
 lead: ""
 date: 2020-10-06T08:49:31+00:00
@@ -10,60 +10,37 @@ weight: 360
 toc: true
 ---
 
-Sphere
-Another type of 3D object with a curved surface is a sphere. It does not have any flat face at all. 
-<img src="7_12_sphere.jpg" width="200" style="display: block; margin: 0 auto;">
-7.12
+Besides the cylinder and cone, another type of 3D object with a curved surface is a sphere. The difference between the former two and the latter is that the sphere does not have any flat face at all.
 
-Observing the above image, what objects can you think of that look like it?
-Football, basketball, volleyball, and many other balls that are used in sports are spherical in shape. A ball is used synonymously in place of the sphere due to this.
+<img src="7_22_sphere.jpg" width="200" style="display: block; margin: 0 auto;">
+
+
+Observing the above image of a sphere, what objects can you think of that look like it? Sports balls like basketballs, footballs, and volleyballs are all spherical, which means they have the same shape as a sphere. 
 <img src="7_13_spherical_objects.jpg" width="400" style="display: block; margin: 0 auto;">
-7.13
+
  
-The total surface area of the sphere
-The surface area of the sphere is measured with the help of a cylinder of the same dimensions as the sphere. Meaning the height of the cylinder is the same as the diameter of the sphere and the diameter of the sphere and cylinder are the same as well. Basically, the sphere perfectly fits in a cylinder, as shown. Note that the cylinder is hollow, with no bases.
+### Surface area of Sphere
+
+Let’s talk about the surface area of a sphere. To measure it, we use a cylinder that has the same dimensions as the sphere. That means the cylinder has the same height as the sphere's diameter, and the base of the cylinder and sphere have the same diameter too. The sphere fits perfectly inside the cylinder, like a puzzle piece. But wait, the cylinder is hollow, with no tops or bottoms!
+
 <img src="7_14_sphere_cylinder.jpg" width="200" style="display: block; margin: 0 auto;">
-7.14
 
-It is found that the cylinder completely covers the upper and lower surfaces of the sphere. This means that the lateral/curved surface area of the cylinder and the sphere are the same. 
+It is found that the cylinder completely covers the upper and lower surfaces of the sphere. This means that the curved surface area of the cylinder is equal to the total surface of the sphere.
+
+Note that a sphere does not have a curved surface area and total surface area distinction, since a sphere only has curved surface (unlike a cone and cylinder).
+
 <img src="7_15_sphere_total_surface_area.gif" width="500" style="display: block; margin: 0 auto;">
-7.15
-
-Lateral surface area of the cylinder = 2πrh = 2πr x 2r = 4πr2
-[Height of cylinder is the same as the diameter of the sphere, 2r]
+So, let’s find the lateral surface area of the cylinder, which will give us the total surface area of the sphere. 
+Lateral surface area of the cylinder = 2πrh = 2πr x 2r = 4πr^2 [Height of cylinder is the same as the diameter of the sphere, 2r] 
 This is the total surface area of the sphere.
 
-Volume of sphere
-To find the volume of the sphere, a cone of the same height and radius as the cylinder (from before) is filled with a liquid. The liquid from the cylinder and cone is emptied on the sphere of the same radius and it fits exactly.
-This means that the volume of the cone and cylinder when added together gives the volume of the sphere.
+
+### Volume of Sphere
+
+Let's now move on to finding the volume of a sphere. First, we need to find a cone that has the same height and radius as the cylinder we used before (to find the surface area of the sphere). We fill the cone and cylinder with a liquid and pour it onto the sphere (with the same radius as the radius of the bases of the former two). If the liquid fits perfectly inside the sphere, then we know that the volume of the cone and cylinder combined is the same as the volume of the sphere. Interesting, right?
+
 <img src="7_16_volume_of_cone_cylinder_sphere.gif" width="500" style="display: block; margin: 0 auto;">
-7.16 
 
-The volume of the cylinder + volume of the cone = Volume of the sphere
-or, Volume of sphere = 
-= πr2 x r + (⅓) x πr2 x r
-= (4/3) x πr3
-Hemisphere
-Half a sphere or the shape that we get when we cut the ball in half is a hemisphere. 
-<img src="7_17_hemisphere.jpg" width="300" style="display: block; margin: 0 auto;">
-7.17
+So, the volume of the cylinder + volume of the cone = Volume of the sphere 
+or, Volume of sphere =  πr^2 x r + (⅓) x πr^2 x r = (4/3) x πr^3
 
-What objects resemble a hemisphere?
-Half-cut foods like lemon, coconut, and watermelon are suitable examples. Utensils such as bowls are also hemispherical. One thing to notice is that the bowl is hollow because it has space whereas the other hemispheres shown are solid because there is no space in between. 
-<img src="7_18_hemispherical_objects.jpg" width="500" style="display: block; margin: 0 auto;">
-7.18
-
-
-
-Volume of hemisphere
-Since the hemisphere is literally a sphere cut in half, it has a volume of exactly half of the sphere.
-Volume of hemisphere = [(4/3) x πr^3]/2 = (2/3) x πr^3
-The surface area of the hemisphere
-When the sphere is cut in half, half of the surface area remains. So, the lateral/curved surface area of the hemisphere is equal to half of the total surface area of the sphere.
-The lateral surface area of the hemisphere = Total surface area of sphere/2
-= (4πr^2)/2
-= 2πr^2
-But notice that there is now a flat surface at the bottom of the curved surface, which is the circular base. So, for the total surface, we need to add the area of this circle, which has the same radius as the hemisphere. 
-The total surface area of the hemisphere = Lateral surface area of the hemisphere + area of the base circle
-= 2πr^2 + πr^2
-= 3πr^2

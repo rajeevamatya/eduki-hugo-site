@@ -1,5 +1,5 @@
 ---
-title: "Cylinders"
+title: "01 Cylinders"
 description: ""
 lead: ""
 date: 2020-10-06T08:49:31+00:00
@@ -10,40 +10,38 @@ weight: 320
 toc: true
 ---
 
-In grade 7, we learned about the different types of Polyhedra and how to distinguish between Polyhedra and Non-Polyhedra. Non-polyhedra is the term used for objects that contain curved surfaces since polyhedra should only have flat surfaces. For example, cube cuboids, pyramids, etc.
-We will now look at Non-Polyhedra, surfaces that do have curved surfaces. Examples of these include cylinders, cones, and spheres. 
-Cylinder
-Let's start with a cylinder. It is an object formed by stacking multiple circles of the same radii one on top of the other, or by rolling a rectangle and joining the opposite edges that meet. 
+Let’s refresh what we learned about polyhedra in 7th grade. We learned that polyhedra are objects with flat surfaces like cubes, cuboids, and pyramids. But what about non-polyhedra objects? These are objects with curved surfaces like cylinders, cones, and spheres. 
+
+Let's take a closer look at cylinders. Cylinders are formed by stacking circles of the same size on top of each other or by rolling up a rectangle and joining the ends together. 
+ 
 <img src="7_1_circles_extended.gif" width="400" style="display: block; margin: 0 auto;">
-7.1
-
-
-
-If the surfaces of the cylinder are spread out then we get something like shown below. 
+If the surfaces of the cylinder are spread out then we get something like shown below. This makes sense since we just said that rolling up a rectangle gives us a cylinder. If you remember what we learned about net diagrams, this is the net diagram of a cylinder. 
 <img src="7_2_net_of_a_cylinder.gif" width="400" style="display: block; margin: 0 auto;">
-<img src="7_3_cylinder_views.jpg" width="400" style="display: block; margin: 0 auto;">
-7.2 7.3
 
+Having observed the figure above, which real-life objects do you think match this shape? An unsharpened pencil is one such object, oil drums or tanks are another such object. Tires are also cylindrical, or more specifically hollow cylinders (think of hollow as nothing being inside).
 
-Having observed the figure above, which real-life objects do you think match this shape? An unsharpened pencil is one such object, tanks are another such object. Tires are also cylindrical or more specifically hollow cylinders.  
 <img src="7_4_cylindrical_objects.jpg" width="400" style="display: block; margin: 0 auto;">
-7.4
 
-When we were talking about a prism, the volume was found by multiplying the base area by the height. Even though a cylinder isn't necessarily considered a prism, the same method is used; finding the base area and multiplying it by the height. 
-Since the base is circular here, we multiply the height by the base area of the circle. 
-Base area = area of circle = πr^2
-Volume = Base area x height = πr^2 x h
-Finding the surface area of the cylinder is a little bit more tricky than finding the volume. With Polyhedra, it was easy because all of the shapes were flat, and we could easily find the area of the flat 2D objects. 
-In a cylinder, the two bases are flat circles, but a curved surface joins the two circles. We can cut the curved surface, in a way that is parallel to the axis. This gives a rectangle and two circles at the two ends.   
+### Volume of Cylinder
+
+Remember when we talked about prisms and how we found the volume by multiplying the base area by the height? Well, we can use that same method for cylinders too! (Even though cylinders are not exactly prisms!) The only difference is that the base of a cylinder is a circle, so we need to multiply the height by the area of the circle, which is πr^2. So, the formula for finding the volume of a cylinder is: Volume =  Base area x height = πr^2 x h. 
+
+### Surface Area of cylinder
+
+Now, finding the surface area of a cylinder is a little trickier than finding the volume. With prisms (or other polyhedra), it was easy because all of the shapes were flat and we could easily find the area of the flat 2D objects. But with a cylinder, while the two bases are flat circles, a curved surface joins the two circles. What we can do is cut the curved surface in a way that is parallel to the axis. This gives us a rectangle and two circles at the two ends. Look at the images below of how we could cut the cylinder. 
+
 <img src="7_2_net_of_a_cylinder.gif" width="400" style="display: block; margin: 0 auto;">
-7.2
-<img src="7_5_net_of_a_cylinder.jpg" width="400" style="display: block; margin: 0 auto;">
-7.5
 
-The thing that has to be noticed is that the length of the rectangle is equal to the perimeter/circumference of the circle at the base because the whole curved surface is entwined along the circumference. The width of the rectangle is equal to the height of the cylinder. Thus, we now have one rectangle with its precise dimensions and two circles. All of their areas can be easily found using the formulae learned before. 
-Total surface area = area of two circles + area of the rectangle
-= πr^2 + πr^2 + (2πr x h)
-= 2πr^2 + 2πrh
-= 2πr (r + h)
-The surfaces of cylinders is the curved part that can be unfolded into a rectangle, along with that there are two circles that are top and bottom of the cylinder. 
-If you only want the curved surface area (area of the curved part), it is simply the area of the rectangle, hence given by 2πrh (since we exclude the two circles).
+
+<img src="7_19_net_cylinder.jpg" width="400" style="display: block; margin: 0 auto;">
+
+
+Here, the length of a rectangle is equal to the circumference of the circle at the base of a cylinder. Can you see that from the image?
+
+The width of the rectangle is the same as the height of the cylinder. Cool, right? So, we can use this information to find the total surface area of a cylinder. All we have to do is use the formulas we learned before to find the area of the rectangle and the two circles that make up the cylinder. 
+
+To find just the curved surface area (which is the area of the curved part), we can simply use the area of the rectangle, which is l x b = 2πr x h = 2πrh. 
+
+The total surface area is the area of the curved part (the rectangle) and the two circles. 
+
+Total surface area = Area of two circles + Area of the rectangle = πr^2 + πr^2 + (2πr x h) = 2πr^2 + 2πrh = 2πr (r + h)
