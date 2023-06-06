@@ -1,5 +1,5 @@
 ---
-title: "Properties of Scaled figures"
+title: "02 Properties of Scaled figures"
 description: ""
 lead: ""
 date: 2020-11-12T15:22:20+01:00
