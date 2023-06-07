@@ -10,6 +10,7 @@ weight: 420
 toc: true
 ---
 ## Dilation: the non-rigid transformation
+
 The transformations we have studied so far are all examples of rigid transformations, where the shape and size of the object remain unchanged. Now, we move on to a non-rigid transformation - Dilation.
 Dilation is the only form of transformation that does not preserve the congruency of the figure. Dilation is the process in which the shape of the object remains the same while the size of the object changes (increases or decreases). Think of using a microscope or magnifying glass to look at small objects. They look big, right? Or maybe think of google earth; all images there are shown there are actually bigger in the real world while they easily fit on a small computer screen. 
 If you have a square of size 2 units and you decide to double each side, you get a new square, now with a side of 4 units. The new square is the scaled-up image of the original square. Similarly, if you had halved the original square, the new square would have been the scaled-down image of the original with each side measuring 1 unit.
