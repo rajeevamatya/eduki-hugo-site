@@ -14,7 +14,9 @@ toc: true
 
 ## Slope of a line using similarity
 Let's start with a line.
+
 <img src="9_22_similar_triangles.jpg" width="500" style="display: block; margin: 0 auto;">
+
 9.22
 
 We know that c/d would be equal to 6/5. As a matter of fact, no matter whichever two points you pick up from the black line, the ratio between the vertical and the horizontal sides (forming a right-angled triangle) will be the same. That ratio is known as the slope of the line. 
