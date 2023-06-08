@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "01 Introduction"
 description: ""
 lead: ""
 date: 2020-10-06T08:49:31+00:00
@@ -10,25 +10,33 @@ weight: 280
 toc: true
 ---
 
+## What does it mean to transform objects?
 
-What is meant by transforming objects?
-Transforming any object is the process of changing the orientation or location or size for different applications. These changes are done through different mechanisms. There are two types of transformations: rigid and non-rigid.
-Rigid transformations
-The main question is why do we need to transform shapes? Let’s focus on rigid transformations to be specific. Rigid transformation is the process of changing the orientation or location of any object. Have you ever wondered how the shape and size of all iPhones are the same? It may sound so stupid to question; the reason being so simple. But it is very important for Apple to make each of their phones of the same model to be the same shape and size. In other words, we can say that the shape and size of an iPhone have to be transformed into other raw materials so that more phones can be made. 
-Rigid transformations are those processes in which the shape and size of the object are conserved even after the transformation. Such transformations show some kind of change in the shape's orientation (how a shape is placed on the plane) or location or both. Reflection, rotation, and translation are examples of rigid transformations. 
-When the shape and size of an object are the same, then such a case is defined as congruence. If we want to find out if two shapes are congruent, then there should be a rigid transformation (or two or more) that can be used to transform one of the objects into the other. In converse, we can say that an object and image formed through single or multiple rigid transformations are congruent to each other. 
-Some of these kinds of transformations with real-life objects are shown below. 
+Transforming objects means changing their orientation, location, or size for different purposes. There are two types of transformations: rigid and non-rigid. We will look at both of them to try to understand what they are and how they are different. 
+
+
+## Rigid transformations
+
+Rigid transformations are all about changing the position or orientation of an object. Think of moving a chess piece from one box to another and changing the position. We’ll look at more examples below.
+
+Rigid Transformations keep the shape and size of an object the same, even after the transformation. The only thing that changes is the way the shape is facing (basically, its orientation). 
+
+When two shapes are the same size and shape, we call them congruent. To figure out if two shapes are congruent, there needs to be a rigid transformation (or transformations) that can transform one shape into the other. And in reverse, if we can transform an object into an image using one or more rigid transformations, then the object and image are congruent! 
+
+There are three types of rigid transformations: reflection, rotation, and translation.
+ 
+Check out the examples below to see how these work in real life. 
+ 
 <img src="8_1_reflection_in_water.jpg" width="400" style="display: block; margin: 0 auto;">
-8.1
 
-The building has its image reflected in the water as seen in the photograph. The topmost part of the building is reflected in the bottom-most part of the image.
+The building has its image ‘reflected’ in the water as seen in the photograph. The object (building) did not change its shape or size, just the orientation.
+
 <img src="8_2_rotated_heart.jpg" width="400" style="display: block; margin: 0 auto;">
-8.2 
 
-The heart-shaped candy is rotated since the orientation of the top curvy part changes its direction. 
+The heart-shaped object is ‘rotated’ to get the new orientation.
+
 <img src="8_3_chess_pieces_moved.jpg" width="400" style="display: block; margin: 0 auto;">
-8.3
 
 The queen chess piece is being moved (translated) on the board. 
-Non-rigid transformations do not conserve the object's shape or size (or both). Dilation is an example of non-rigid transformation, where the shape remains the same but the size of the object changes.  
 We will learn more about reflection, rotation, translation, and dilation going further.
+
