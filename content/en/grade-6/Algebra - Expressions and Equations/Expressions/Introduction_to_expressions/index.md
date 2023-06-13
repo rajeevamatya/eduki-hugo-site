@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Expressions"
+title: "01 Introduction to Expressions"
 description: ""
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -11,142 +11,103 @@ toc: true
 ---
 
 ## What are expressions?
-Expressions means the way of expressing and The ways of expressing can be of various types. There are certain ways of expressing things in terms of mathematics. Numerical expressions make use of numbers and operators to express something in mathematics. 
 
-If somebody asks you “what is your age?” How do you respond?
+Expressions are not just numbers like 14. They have different operators like addition (+), multiplication (x), subtraction (-), and division (÷). Here's an example:
+ 
+If we multiply 3 and 4, we get 12. We can write this as 3 x 4 or 12. Both are numerical expressions. Here, we see that 3 x 4 is equal to 12 and 12 is obviously equal to 12 as well. So, numerical expressions always have a value (in this case, 12) or have some quantity they are equivalent to.
+ 
+ 
+ 
+Some other examples of numerical expressions are:
+ 
+2 x 3 + 5   
+9 - 5 x 12  
+12 / 6  
+45  
+10001  
+ 
+When we see a math problem like 100 - 3, how can we explain what it means? There are two ways to think about it! One way is to think about what we need to do to 100 to get the answer. We need to take away 3, so the answer is 97. Another way is to think about the expression itself as a value. It means a number that is 3 less than 100, which is also 97. Both ways give us the same answer!
+ 
+As we talked about before, expressions are mathematical sentences that could equate to or could be equivalent to a value.(sometimes they could be equivalent to other expressions. Keep in mind that the value by itself (97) is also an expression as well) This is what we call the ‘value of an expression’.
+ 
+Let’s check out another example to understand this better. In the US Senate, there are 2 senators chosen from each state. So, to find out how many senators there are in total, we need to know how many states there are. There are 50 states in the US, so how many senators are there?
+ 
+Since each state has 2 senators, we can add 2 fifty times in a row.
+2 + 2 + 2 + 2…….  (50 times)  
 
-You may mention some number such as 11 years, 12 years, or 13 years etc. If your age is 14 years, then 14 years is an expression. 
-
-Suppose a T-shirt is priced at 10.99$ in a store during its sale. We know that 100 cents equal to 1 dollar. That means 1 cent is equal to 0.01 dollars and since the shirt costs 1 cent less than 11 dollars or (11-0.01)$ is also an expample of numerical expression. Expressions contain all kinds of operators such as addition (+), multiplication (x), subtraction (-), division (÷), etc. 
-
-For example, we know that 12 is the result when 3 is multiplied by 4. Both 3x4 and 12 are numerical expressions. Numerical expressions are always equivalent to a quantity. They point to some value. 
-
-Mathematics also uses expressions, made of numbers and symbols. Symbols used in mathematical expressions are done so for various purposes. 
-
-For example, when we see 100-3, we understand it is trying to say that we have to reduce 100 by 3. Or it may also be trying to express that is 3 less than 100. There isnt a lot of difference between the two expressions. 
-
-We can often simplify a given expression into an equivalent quantity (97 in the previous case), often known as the value of the expression.
-
-Let's take another example.
-
-There are 2 senators from each state in the US Senate. Now if we need to find out how many people that are in the senate, we need to find out the total number of states in the Nation.  As there are a total of 50 states under the American flag, how many members are there in total in the senate? 
-
-<img src="1_1_US_state_map.jpg" width="500" style="display: block; margin: 0 auto;">
-1.1
-
-As we can see that for each state there are two members, we have to add two 50 times which also means indirectly multiply 2 by 50.
-
-2+2+2+2....... up to 50 times
-
-or 2 x 50
-
-Both numerical expressions are equal to 100. It can also be interpreted as a single member from each state will make 50 members. The final answer is just double of 50.  
-
-It doesn't mean that we need to have some kind of operation between numbers like addition or subtraction to make an expression. It may simply be a number only and it expresses something. For example, 206 is an expression. It can be used to express the number of bones in a human body. 
-
-<img src="1_2_skeleton.jpg" width="500" style="display: block; margin: 0 auto;">
-1.2
-
-### Letters in expressions
-Apart from the operators and numbers we already know, there are letters/symbols used in the expression and they are known as variables. 
-
-You may be puzzled why would letters be used in expression but there are situations in which we have perform operations on unknown number as well. 
-
-Just like 9-3 means, we need to deduct 3 from 9 or a number that is 3 less than 9. 50-a means that we have to deduct “a” quantity from 50. It may also be expressing a number that is less than 50 by a. 
-
-One thing can be validly coming to your mind, How can a letter be subtracted from a number? 
-
-The answer to this question is that a letter is never subtracted, added, multiplied or divided by a known number. We perform those operations with numbers only. When we arent sure of true value of any quantity, we use a letter that holds the place for that quantity. Its like your friend keeping your seat secure in a resturant  
-
-The real reason is that the letter used here isn't just another letter. It's the same as deducting one numerical quantity from the other, the difference is that we know all numbers in a numerical expression while we may not know the value of all quantities in an algebraic expressions. 
-
-Let's consider a situation when we have some unknown value.
-For example, you are being offered 30 cents discount on all chocolates being sold at a store and you want to know how much you need to pay for one chocolate.
-
-<img src="1_3_toffees.jpg" width="300" style="display: block; margin: 0 auto;">
-1.3
+We can also write this repeated as multiplication to get 50 x 2, which means 50 times 2.
+ 
+Both numerical expressions are equal to 100. Both mathematically and contextually, the two expressions we have formed are equivalent, hence are called equivalent expressions. Mathematically, they are both equal to 100. Contextually, they mean the same thing - the total number of senators.
+ 
+We’ll learn more about this in the future!
 
 
-For a chocolate marked $3, the amount to pay will be $(3-0.3). For another chocolate marked $4.7, we have to pay $4.4. We are sure that there are chocolates of different prices. If we have to express the price for different chocolates then either we calculate different values or we use a placeholder to make the expression up. 
+## Letters in expressions
+
+Let's talk about variables! They're like letters or symbols that we use in expressions. You might be wondering why we use letters instead of numbers. Well, sometimes we don't know what the number is, so we use a letter to represent it for the time being. It's like a mystery number that we can find later!
+
+
+When we look at 9 - 3, it means we need to take away 3 from 9. Easy, right? Well, sometimes we see expressions like 50 - a. Similar to before, this means we need to take away ‘a’ from 50. t may also be expressing a number that is less than 50 by some value ‘a’.
+You might be wondering, how can we subtract a letter from a number? But don't worry, we're not really subtracting a letter. 
+
+
+When we do math with numbers, we can add, subtract, multiply, and divide them. But when we don't know the value of something, we use a letter to stand in its place. It's like having a friend save your seat at a restaurant. The letter doesn't get added, subtracted, multiplied, or divided by a number. The letter is special because it represents a quantity that we don't know yet, unlike numbers that we already know.
+
+
+Some examples will hopefully help you understand this better. 
+
+
+Let's say you want to buy a chocolate and luckily, the store is offering a discount of 30 cents on all chocolates. 
+If a chocolate is marked as $3, you can figure out the price by subtracting the discount: $3 - $0.30 = $2.70. If another chocolate is marked as $4.70, you can do the same calculation: $4.70 - $0.30 = $4.40. 
+But what if there are lots of different prices for chocolates? You could do the math for each one, or you could use a special symbol to stand in for the price. Look at the table given below.
 
 
 <img src="1_19_placeholder_table.jpg" width="300" style="display: block; margin: 0 auto;">
-1.19
+We all know that not all chocolates cost the same. And we also know that we always have to pay 30 cents less than the price that's written on the package. But what if we had a way to talk about all the different prices of toffees at once? That's where the letter "p" comes in handy! If "p" stands for the price of a chocolate before the discount, then "p - 0.3" tells us how much we need to pay for it after the discount. 
+Basically, we substitute the unknown or varying costs of different chocolates with a letter such as p. Due to this the discounted prices of different chocolates (shown in different rows) can be explained with the single expression of p - 0.3.
 
 
-It can be agreed upon that we can't explain the price of every toffee with one value or one number. The other thing that is for sure is that we have to $0.3 less than the marked price, whatever may the price of the toffee be. 
-
-Thus, if we had something that could act as a placeholder for all the values of the toffee prices, it could help us immensely to express the value needed to pay for the chocolate and that is what p-0.3 gives assuming the price of a toffee before the discount is p.
-Remember this table from before?
-
-<img src="1_19_placeholder_table.jpg" width="300" style="display: block; margin: 0 auto;">
-1.19
+The letter "p" is just a stand-in for the real price. If someone tells you a specific price, like 4 dollars, that means the original price of the toffee was 4.3 dollars. And if they say 4.8 dollars, that means it's for a chocolate that originally cost 5.1 dollars. Easy, right?
 
 
-If we substitute the unknown or varying numbers with a letter such as p shown above, then all of the numbers of the rows above it can be explained properly. 
-
-If the marked price of one toffee is p dollars, then the price you have to pay will be p-0.3 dollars. This expression will always give the final price after the discount for toffee of any initial price. 
-p is just a placeholder that takes the place of the actual value of the price of the toffee. In contrast, if it was told that you have to pay 4 dollars then that is for those toffee only whose price is 4.3 dollars. If it is said that you have to pay 4.8 dollars then that is for chocolates of 5.1 dollars and so on. That is the reason why letters are used in an expression.
+Let’s look at another expression with a variable. 
 Suppose there is a 10 percent discount on all types of eye checkups and treatment fees.
-
-<img src="1_4_dr_checking_patient.jpg" width="300" style="display: block; margin: 0 auto;">
-1.4
-
-If a treatment costs 100 dollars, then after the discount will become 10 dollars lesser that is the patient has to pay only 90 dollars.
-
-100-10% of 100
-
-=100- (10/100) x 100
-
+If a treatment costs 100 dollars, after the discount, it will cost 10 dollars less. So the patient has to pay only 90 dollars.
+Original - 10% of original price
+100 -10% of 100
+=100 - (10/100) x 100
 =100-10
-
 =90
 
-If the cost of treatment was 75 dollars, then the patient has to pay
 
-=75-10% of 75
-
+If the cost of another treatment was 75 dollars, then the patient has to pay: 
+75 - 10% of 75
 =75-0.1 x 75
-
 =75-7.5
-
 =67.5
-
-This process will be the same for all values. If the cost of treatments is denoted by a placeholder "d", then 
-
-=d-10% of d 
-
-=d-10/100 x d 
-
+This process will be the same for all values. Like before, we can replace all values of treatments that keep changing with a placeholder, say “d”. Now, we have the value of each treatment as:
+=d - 10% of d
+=d - 10/100 x d
 =0.9d
+If we put 100 in place of d it will be 0.9 x 100 = 90 and if we put 75 in place of d it will be 0.9 x 75 = 67.5. This corresponds with the answers we found earlier. 
+0.9d is the expression that gives the money a patient has to pay following the discount available. 
+Expressions like these, with a letter in them are no longer numerical expressions, but are called algebraic expressions. The letters are variables and the numbers are constants because they do not change in the given context. 
 
-Now if we put 100 in place of d it will be 0.9 x 100 =90
+## Variables
 
-and if we put 75 in place of d it will be 0.9 x 75 = 67.5
-
-Now, 0.9d is an algebraic expression that gives the money a patient has to pay following the discount available.
-
-### Placeholder variables
-We found some of the algebraic expressions in the patterns quiz. We found that letters could act as placeholders by substituting in place of a number. Such placeholder symbols or letters are known as variables. 
-
-The kind of letter or symbol we choose is totally independent of whatever quantity we are assuming; it can be any letter or symbol. If we suppose the price of an apple to be p or a, it is just for convenience and not because it represents an abbreviation of the quantity. 
-
-It must also be understood that the letters don't represent the object itself but an attribute of that object. If f  is used in some context involving fish then it may be expressing the weight of fish, the number of fish, the price of fish, or something like that. 
-
-<img src="1_5_fishes.jpg" width="300" style="display: block; margin: 0 auto;">
-1.5
+The letter or symbol we use for a variable doesn't matter and has nothing to do with the quantity we are representing. It can be any letter or symbol we want. For example, if we say an apple costs p or a, it's just to make things easier, not because p or a stands for a specific price of an apple.
+It's also important to remember that the letters don't stand for the object itself, but for something that describes the object (like an attribute of the object). So if we use f as a variable in a problem about fish, it could mean the weight of the fish, the number of fish, or the price of the fish. It does not mean fist in itself. Say the number of fish caught in a net is 55 and each fish weighs roughly around the same. If we write the total weight of fishes as 55f (55 multiplied by f), it means we are multiplying 55 by the weight of a fish, which we are denoting as ‘f’. 55f does not mean that there are 55 fishes, since 55 itself is enough to convey that information. 
 
 
-Not all letters represent variables, there are letters used as abbreviations for units such as 10 meters is written as 10 m. 20 pounds is written as 20 lb and so on.
+Sometimes letters are used to represent units of measurement, like "m" for meters or "lb" for pounds. So keep in mind not to confuse letters used for units and letters used as variables.
 
-It's also not necessary that a particular variable may be used for a particular quantity only. But the same variable cannot be used to depict two different quantities in the same context. 
-For example you have the guess the age of two of your cousins. If you choose variable "x" for one of the cousin, the age of the other cousin cant be "x" just because it is unknown as well. The reason being its rare that both numbers turn out be chosen. 
 
-In another example: If the number of oranges is denoted by “t” then "t" should not be used again to denote the weight of the oranges in that same scenario. 
+It's also important to use different letters for different quantities in the same context, even if they're unknown. For example, if you're guessing the ages of two cousins and you use "x" for one, you can't use "x" for the other because it's unlikely that they'll be the same age.
 
-<img src="1_6_oranges.jpg" width="300" style="display: block; margin: 0 auto;">
-1.6
 
-There are two types of entities in an expression generally: variables and constants. Variables can be used as a placeholder for a quantity whose value isn't fixed and constants are those entities that represent one particular quantity.
+Similarly, if you use "t" to represent the number of oranges in a scenario, you shouldn't use "t" again to represent the weight of the oranges. 
 
-One notion may be set up in your mind now that whenever letters are seen in an expression, they are variables. There are certain symbols, particularly Greek, that are used to represent constant values such as π (pi), prominent in formulae related to curved surfaces or circles. It represents 3.14 and is always equal to that value in whatever context it may be used.  Another such symbol is e is known as Euler's number which we will learn about in higher grades. 
+
+
+
+Most times when you see a letter in an expression, it's a variable. But there are times when special symbols like π (pi) are used, which is not a variable since it always means the same thing. Pi is used a lot in math problems about circles and it always equals 3.14. Another symbol like this is e, which we'll learn more about later on.

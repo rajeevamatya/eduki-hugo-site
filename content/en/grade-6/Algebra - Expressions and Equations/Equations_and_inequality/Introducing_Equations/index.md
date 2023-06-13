@@ -1,5 +1,5 @@
 ---
-title: "Introducing Equations"
+title: "01 Introducing Equations"
 description: ""
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -11,89 +11,61 @@ toc: true
 ---
 
 
-## Equation 
-When two expressions are placed side by side separated by an equal sign, then it is called an equation. For example, 2+3=5 is a numerical equation.
-The money earned by an electrician working on wiring a house takes 100 dollars for a house.
-<img src="1_10_electrician_working.jpg" width="300" style="display: block; margin: 0 auto;">
-1.10 
+## Equations
+ 
+When you equate an expression with another, implying that they are equal, you get an equation. For example, 2 + 3 = 5 is an equation. 
 
-If he completes the wiring of 3 such houses in a week, then the total earnings he made can be found out by adding 100 three times or multiplying 100 by 3. 
 
-100+100+100=300 is also an equation and so is 100 x 3 =300
-On the other hand, 3+7=9 is also an equation; it is not true that is another subject matter but nonetheless, it is an equation. It is a false equation. 
+Let's say an electrician gets paid $100 for wiring one house. If he wires 3 houses in a week, we can figure out how much money he made by adding 100 three times or multiplying 100 by 3. Both 100 + 100 + 100 = 300 and 100 x 3 = 300 are equations. Such equations, where the two sides of the equation, or the two expressions are equal, are true equations. 
+But not all equations are true! For example, 3 + 7 = 9 is an equation, but it's not true. Adding 3 to 7 does not give us 9. 
 
-### Algebraic equations
-All the equations discussed before are numerical equations. As with expressions, equations can also be algebraic and it is of different types. 
 
-One way of categorizing equations is by observing how many different variables are used there. 𝑥=5 is one variable equation, and 𝑥-5=2y+7 is a two-variable equation because there are 𝑥 and y two variables in it. As we can see, there are two different expressions put side by side separated by an equal sign.
-Equations can also be categorized into linear, quadratic, or cubic according to the highest index of the variables being used which we will learn later.
+The equations we discussed above are numerical equations, containing actual numbers. But similar to algebraic expressions, equations can also be algebraic, which has variables in them. They are written/formed in a similar way as we form expressions, except this time we have two different expressions that are seemingly equal. Look at a simple example below. 
 
-Equations can be demonstrated in different ways. One of them is a tape diagram. 
+Look at this statement: “A number when increased by 2, is equal to 5”.
+We know that variables are only required when we need a placeholder for some quantity without a definitive value. We will need a placeholder for the unknown number.
+Let us use ‘𝑥’. Writing this as an equation, we get;
+𝑥 + 2 = 5  
 
-### Representing with tape diagrams
+Basically, 2 added to an unknown value gives us 5. 
+There are different types of equations, and one way to sort them is by how many variables they have. If there's only one variable, like 𝑥 = 5, it's a one-variable equation. If there are two variables, like 𝑥 - 5 = 2y + 7, it's a two-variable equation. 
+Equations can also be linear, quadratic, or cubic, depending on the highest power of the variables present. 
 
-A tape diagram as the name suggests shows quantities shown in rectangular-shaped figures also known as "tape".
 
+## Representing equations with tape diagrams
+
+Equations can be shown in different ways. Let’s at one of those here: the tape diagram.
+
+A tape diagram, as the name suggests, shows quantities shown in rectangular-shaped figures, also known as “tape”.
 For example, 𝑥 + 5= 7 has tape diagram as below
-<img src="1_11_tape_diagram1.jpg" width="300" style="display: block; margin: 0 auto;">
-1.11
 
-The equation 2𝑥+y+9=19 can have either of the two diagrams below. 
+<img src="1_11_tape_diagram1.jpg" width="300" style="display: block; margin: 0 auto;">
+
+The equation 2𝑥 + y + 9 = 19 can have either of the two diagrams below. Since 2𝑥 is simply formed by adding 2 𝑥’s, we can either write them separately in boxes (that need to be equal!), or in one single box as 2𝑥. 
+
 <img src="1_12_tape_diagram2.jpg" width="300" style="display: block; margin: 0 auto;">
-1.12
+
 
 <img src="1_13_tape_diagram3.jpg" width="300" style="display: block; margin: 0 auto;">
-1.13
 
-As discussed while defining variables, it is only required when we need a placeholder for some quantity without a definitive value. 
-Look at this statement: "A number when increased by 2, is equal to 5".
-We will need a placeholder for the unknown number. 
 
-Let us use 'x'. Writing this as an equation, we get;
+## Solving equations
 
-𝑥 + 2 = 5
+Solving an equation means finding the appropriate value of the variable, which when substituted into the equation will satisfy both sides of the equation. For example,  the equation for this statement “A number when increased by 2, is equal to 5” is 𝑥 + 2 = 5. 
+We want to find the number which becomes 5 when we add 2 to it. Our instinct would be to remove 2 from the left side. But there are consequences to changing just one side of an equation. If you think of the equation being balanced (since both sides are equal), removing or adding anything to one side would no longer keep the equation balanced. But there is a simple solution to this. You can copy the same step on the other side to maintain the balance. 
 
-### Solving equations
-Solving an equation means finding the appropriate value of the variable which when substituted into the equation will satisfy both sides of the equation. To find out the number that is equal to 5 when increased by 2, it would be common sense to decrease 2 from both sides so that the value of the variable gets revealed.
+So, if we subtract (remove) 2 from the left side, we will also do the same on the right side.
 
-or, 𝑥 + 2 - 2 = 5 - 2
+𝑥 + 2 = 5    
+𝑥 + 2 - 2 = 5 - 2  
+𝑥 = 3  
 
-or, 𝑥 = 3
+The process applied here relates to the additive property of equality, which suggests that when a particular equal quantity is added/reduced from two equal quantities, then the resulting quantities are also equal. Basically, the fact that the equation above is still true even though we added (-2) (or subtracted 2) to both sides. The reason we added -2 was so that we could get 2 + (-2) on the left side, which would result in 0. We do this to isolate the variable, which helps us find its value.
 
-This process can also be shown in the diagram below. Firstly 𝑥 + 2 = 5 is shown when the two sides are balanced as the arm is completely horizontal but when two units are removed from the right side, the balance shifts towards the left as the left side is more heavier. After that when again 2 units are removed from the left-hand side as well, the balance is restored. 
+Another property of equality commonly used to solve equations is the multiplicative property of equality. Here, as the name suggests, a particular quantity is either multiplied to or divided by both sides of the equation.
+For example, to solve 𝑥/5 = 20, we have nothing to add or subtract here. But. we see that the variable is being divided by 5. We cannot change that to 0 here since anything divided by 0 is not what we want. Instead, we want it to be 1, since 𝑥 and 𝑥/1 are the same. To remove 5, we multiply  both sides by 5. 
+(𝑥/5) x 5 = 20 x 5  
+𝑥 = 100  
+⅕ x 5 is 1, giving us just the variable on the left side. 
 
-<img src="1_14_hanger_diagrams.gif" width="600" style="display: block; margin: 0 auto;">
-1.14
-
-The process applied here is associated with the additive property of equality which suggests that when a particular equal quantity is added/reduced from two equal quantities, then the resulting quantities are also equal. 
-Another property of equality commonly used is the multiplicative property of equality in which a particular quantity is multiplied or divided by on both sides of the equation.
-
-For example, 𝑥/5 = 20
-
-Multiplying both sides by 5;
-
-(𝑥/5) x 5 = 20 x 5
-
-𝑥 = 100
-
-Suppose that there is a picnic being planned for a class in a school. It is found that 500 dollars are required for a class of 25 people. Then what will be the share of each student that needs to be collected?
-
-<img src="1_15_100_dollar_bill.jpg" width="300" style="display: block; margin: 0 auto;">
-1.15
-
-If we want to find out the answer, we have to divide 500 into 25 equal portions such that there is an equal load on all the students. In other words, it can also be said that some quantity that is added 25 times makes 500. Or what multiplied by 25 makes 500. If 𝑥 denotes the share of each student then
-
-25 times 𝑥 =500
-
-25𝑥=500
-
-25*𝑥= 25*20
-
-That is 𝑥=20
-
-Each student has to contribute 20 dollars to the cause in order to make a total collection to be 500 dollars.
-
-A variable will always be representing some kind of quantity according to its context. That quantity may be completely unknown or any number of a specified set suitable to the context.
-
-For example, if 4r is an expression used to denote the profit earned by selling “r” t-shirts when the profit rate per t-shirt is 4 dollars then r can have any value but not a negative number because a negative number of t-shirts won't make any sense.
-
+Some equations will also require use of both properties to solve the equation. Just make sure to use the correct property first.

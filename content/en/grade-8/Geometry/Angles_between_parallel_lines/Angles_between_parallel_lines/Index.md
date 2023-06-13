@@ -11,13 +11,11 @@ toc: true
 ---
 
 
-
 ## Angles made by transversal between parallel lines
 
 When lines don't meet and are the same distance apart all the time, they are called parallel lines. If lines aren't parallel and meet at one point, they are called intersecting lines. The angle between two lines is found at the point of intersection. If lines are parallel, they don't meet, so the angle between them is either 0° or 180° degrees. When a line that isn't 180° degrees goes through parallel lines, it's called a "transversal" (like the yellow line in the picture).
 
 <img src="10_1_angle_between_parallel_lines.jpg" width="400" style="display: block; margin: 0 auto;">
-
 
 When a transversal cuts parallel lines (two parallel lines in this case)  in two different places, then we see that 8 angles are formed; 4 at each intersection point between the line and the transversal.
 

@@ -1,5 +1,5 @@
 ---
-title: "Equivalent Expressions"
+title: "04 Equivalent Expressions"
 description: ""
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -10,79 +10,75 @@ weight: 350
 toc: true
 ---
 
-### Equivalent expressions
-The way of getting simpler expression from a given expression, is done through symbolic transformation. In symbolic transformation, we perform the operations mentioned in the algebraic expressions. We follow the PEMDAS rule for symbolic transformation as well.
-Remember when we mentioned that 3 x 4 is the same expression 4 + 4 + 4. That is because both expressions are equal to 12. 
-For algebraic expressions, the value of expressions that we obtain by symbolic transformation are equal in all cases. For example, we write 𝑥+𝑥+𝑥 as 3𝑥 using the distributive property. We can choose any value to put in place of 𝑥 and we get the same value for both 𝑥+𝑥+𝑥 and 3𝑥. 
+## Equivalent expressions
+We have seen that the way of getting simpler expressions from a given expression is done through symbolic transformations. We follow the PEMDAS rule to make sure we do the operations present in the expressions in the right order. 
 
-Suppose 𝑥 is taken to be 25,
 
-then 25+25+25 is also 75, 
-and 3 x 25 is also 75.
+But why use these transformations? One is obviously to simplify expressions, but the other is to understand and get equivalent expressions. Let’s understand what they mean.
+3 x 4 can be written as 4 + 4 + 4 because we can transform 4 + 4 + 4 into 3 x 4 using symbolic transformation. Since we can simplify them, we see that they are both equal to 12. This is helpful to know since unlike numerical expression, we do not really know the value of algebraic expression due to the presence of variables. So, when we use symbolic transformation on algebraic expressions, we always get an expression that has the same value as the original. 
+For example, we can change 𝑥 + 𝑥 + 𝑥 to 3𝑥 using the distributive property (𝑥(1 + 1 + 1) = 3𝑥). No matter what value we put in for 𝑥, both 𝑥 + 𝑥 + 𝑥 and 3𝑥 will give us the same answer.
+Suppose 𝑥 is taken to be 25, then 25 + 25 + 25 is 75, and 3 x 25 is also 75. If 𝑥 is 3 then 3 + 3 + 3 is 9 and 3 x 3 is also 9.
+Such expressions are called equivalent expressions.
 
-If 𝑥 is 3 
-then 3+3+3 is also 9 and 
-3 x 3 is also 9.
 
-We find the same value for both 𝑥+𝑥+𝑥 and 3𝑥 in all values of 𝑥 and thus they are called equivalent expressions. 
+There are a few properties that can be used for symbolic transformations. They are mentioned below. 
 
-#### Distributive property
-The distributive property is the property by which expressions under multiplication/division can be written in the form of addition/subtraction. 
-For example,
+## Distributive Property
 
-a(b+c)=ab+ac
+We have already mentioned this briefly before, but let’s go through it in more detail. 
+The distributive property is the property by which expressions under multiplication/division can be written in the form of addition/subtraction. Generalizing, it simply means:
+a(b + c) = ab + ac  
+(𝑥 + z)/y = (𝑥/y) + (z/y)  
 
-(𝑥+z)/y=(𝑥/y) + (z/y)
-
-Here is an example, the area of a purple rectangle is 4 x a because the dimensions of the rectangle are 4 units width and “a” length; The area of a red rectangle is 4 x 3 or 12 because the red rectangle is 4 units wide and 3 units long. 
-
-<img src="1_9_tape_diagrams.jpg" width="300" style="display: block; margin: 0 auto;">
+Here is an example.
+The area of a purple rectangle is 4 x a because the dimensions of the rectangle are 4 units in width and “a” units in length. The area of a red rectangle is 4 x 3 or 12 because the red rectangle is 4 units wide and 3 units long.
 1.9
-
-The total area in the figure is 4a +12 if we add both the area of the rectangles. 
-If we look at the dimensions of the whole rectangle (red + purple) we find that it is a+3 units long and 4 units wide. Thus the area of the whole rectangle is 4 x (a+3). Both 4 x (a+3) and 4a +12 must be equal. They are equal expressions.
-
-The parentheses are used in place of the multiplication operator. If we want to know the real value of the area of the whole rectangle, then the value of a must be substituted.
-
-Let's suppose that the value of a is 5 units. Then the value of the expression is 4 x (5+3) or 32. The value is the same even if we put a=5 in 4a+12. 
-
-#### Commutative property
-The commutative property is another property that helps in finding equivalent expressions. The placing of two quantities doesnt matter if the operation is commutative. Is it hard to understand? 
-lets make it easier 
-
-If addition is commutative, a + b is equal to b + a which is true.
-If division is commutative, a/b is equal to b/a which is not true. 
-
-The commutative property is valid in a lot of operations such as addition and multiplication whereas is invalid for operations such as subtraction and division. 
-
-lets test the commutative property with numerical values. 
-
-2 + 8 = 10 = 8 + 2 
-
-2 - 8 =-6 ≠6= 8 - 2
-
-We can represent subtraction as the addition of the negative quantity and in that case we can apply commutative property. 
-2 - 8 = 2 + (-8) = (-8) + 2 = -8 + 2
-
-Whenever we apply properties like the distributive property, commutative property and associative property, we get equivalent expressions. It is like writing '4ℓ' in place of 'ℓ + ℓ + ℓ + ℓ', both will amount to the same number, whatever value we substitute for 'ℓ'. We can also interpret them as repeated addition means multiplication. Any number added four times within itself is the same as multiplying the given number with 4. 
-We can use the distributive law in order to verify that. 
-Perimeter of a square = sum of all sides = ℓ + ℓ + ℓ + ℓ = ℓ  (1+ 1 + 1 + 1) =  ℓ x 4 = 4ℓ
+The total area of the figure is 4a +12, which we get by adding the area of both the rectangles. 
 
 
-We arent yet familiar with cases in which two expressions give the same value for one particular value for variable only. For example, 5𝑥 and 𝑥-8 both amount to 10 when we place -2 in place of 𝑥, 
+Looking at it in another perspective, if we look at the dimensions of the whole rectangle (red + purple), we find that it is a + 3 units long and 4 units wide. Thus the area of the whole rectangle is 4 x (a + 3). Both 4 x (a+3) and 4a +12 must be equal since we are talking about the area of the same rectangular image. So they are equivalent expressions.
+If we want to know the real value of the area of the whole rectangle, then the value of ‘a’ must be substituted.
+Let’s suppose that the value of a is 5 units. Then the value of the expression is 4 x (5 + 3) or 32. The value is the same even if we put a = 5 in the expression 4a + 12.
 
-5𝑥 = 5 x -2 =-10
 
-𝑥-8 = -2 -8 = -10
+We can also go from one expression to another without having to draw images. 
+In 4a +12, 4 is a common multiple of both 4a and 12, so we can take 4 common from the two to get 4(a + 3). 
+In 4(a + 3), we need to multiply both a and 3 with 4, which gives us 4a + 12. 
 
-That means these expressions are equal at 𝑥 = -2. Expressions are equal when they amount to one value at one particular point whereas in case of equivalent expressions, they will amount to same number for all values of variable. 
-We can check if the expressions above are equal at another point as well. We can try  another value for 𝑥 such as 7
 
-5𝑥 = 5 x 7 =35
+Easy, right? Practice a bunch of such questions and you will be an expert in it!
 
-𝑥-8 = 7 -8 = -1
 
-At all other values for 𝑥 except -2, these two expressions wont give same value. So these expressions can't be termed as equivalent expressions. 
-We can also differentiate equal and equivalent expressions with new terms; instance and pattern. If two expressions are equal, they are equal at one instance only and if two expressions are equivalent, then they are equal at all instances or the pattern of the expressions are same. 
+## Commutative Property
 
-We use pattern word normally to denote geometric figures but it is not just that. Pattern means the trend of a particular expression varying. 
+The commutative property is another property that helps us find equivalent expressions. Basically, it means that we can switch the order of two things if we're adding or multiplying them. For example, 2 + 3 is the same as 3 + 2. Easy, right? But this doesn't work for everything. If we're dividing, we can't switch the order. 10/5 is not the same as 5/10.
+
+
+Essentially, the commutative property is valid in operations such as addition and multiplication whereas is invalid for operations such as subtraction and division.
+Let's test the commutative property with numerical values.
+2 + 8 = 8 + 2  
+2 - 8 ≠ 8 - 2  
+Seems pretty obvious right? 
+We see that subtraction is not commutative since -6 and 6 from above are clearly different. But we can represent subtraction as the addition of the negative quantity. Now that this is in the form of addition, we can apply the commutative property and see that we get the same answer. 
+2 - 8 = 2 + (-8) = (-8) + 2 = -8 + 2  
+So, commutative property results in the formation of equivalent expressions. 
+Some examples are:
+
+
+5a + 7 = 7 + 5a  
+3b - 8 = -8 + 3b (3b - 8 ≠  8 - 3b)  
+
+
+## Are they always equivalent?
+
+In case of equiva;ent expression, we get the same value for all different values of variables we replace in the expressions. 
+For example, in the case of 4 x (a+3) and 4a +12, we get the same value for both when a =1, 2, 3, 5, 10, …..and all other values. 
+But there are cases in which two expressions give the same value but only for one particular value for a variable. For example, 5𝑥 and 𝑥 - 8 both amount to -10 when we replace 𝑥 with -2:  
+5𝑥 = 5 x -2 = -10  
+𝑥 - 8 = -2 - 8 = -10  
+If you replaced the value of 𝑥 with any other number besides -2, you would not get the same value for the two expressions. Let’s see the value of the two expressions when 𝑥 = 4.  
+
+5𝑥 = 5 x 4 = 20  
+𝑥 - 8 = 4 - 8 = -4 
+
+So, these expressions are only equal at 𝑥 = -2. Expressions are considered equal when they amount to one value at one particular point, like in the example above. On the other hand, equivalent expressions will amount to the same number for all values of variables. We can check if the expressions above are equal at another point as well. 

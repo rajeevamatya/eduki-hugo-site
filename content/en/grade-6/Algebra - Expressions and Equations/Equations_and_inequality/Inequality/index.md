@@ -11,57 +11,59 @@ toc: true
 ---
 
 
-### Inequality from Equation 
-We learned about equations and inequalities are very similar to them. If equal to sign is replaced with signs like , <,  ≤ etc. then inequality is formed. 
-a>b means a is greater than b
-a<b means a is less than b
-a≤b means a is less than or equal to b
-a≥b means a is greater than or equal to b
+## Inequality and equation 
+
+We just learned about equations. They were pretty straightforward and easy to understand, right? Inequalities are pretty similar to them, with a slight difference. Instead of using an equal sign, we use symbols like <, >, ≤, or ≥ to change an equation to an inequality. 
+
+a > b means a is greater than b
+a < b means a is less than b
+a ≤ b means a is less than or equal to b
+a ≥ b means a is greater than or equal to b
 
 
-
-For example, 𝑥>5 states that the number “𝑥” is greater than 5. From an equation, we could get only one potential solution for the given variable. In case of 𝑥>5, 6 is also greater than 5, 7 is also greater than 5, 8 is as well, 9 is as well and so on. Therefore there are many solutions of 𝑥>5. 
-
+For example, if we say 𝑥 > 5, that means the number “𝑥” is greater than 5. With equations, we only get one answer for the variable, but with inequalities, we can have lots of different answers. For 𝑥 > 5, 6 is greater than 5, 7 is greater than 5, 8 is greater than 5, and so on. There are many possible answers to this inequality!
  
-Hanger diagram for inequalities
-The coefficient of a term (numerical or algebraic) is shown in the hanger diagram by repeating that term multiple times in a group. Here the group of unknown number 𝑥 and 2 is repeated 3 times to get 3(𝑥 + 2).
 
-For example the hanger diagram for 3(𝑥 + 2) > 18 will be as shown below.
+## Solving inequalities
 
-<img src="1_18_unbalanced_hanger.jpg" width="300" style="display: block; margin: 0 auto;">
-1.18
-The side with the heavier quantity is the side on which the arms will lean towards. 
+Solving inequalities is a lot like solving equations. We use the same rules of additive and multiplicative laws of equality for both. 
+Let's try an example: 3(𝑥 + 2) > 18. 
 
-### Solving inequalities
-The processes of solving inequality and equation aren't very different from each other. The additive and multiplicative laws of equality are both applicable in the case of inequality as well.
-We go through the process of solving the inequality given before.
+First, we turn the inequality into an equation by replacing the greater than sign with an equal sign. Then we solve the equation just like we would any other. Here's how it goes: 
 
-3(𝑥 + 2)>18
+3(𝑥 + 2) = 18   
 
-We first convert it into an equation replacing the greater than sign with an equal.
+We divide both sides by 3 first. That gives us 𝑥 + 2 = 6.
+We then subtract 2 from both sides to get 𝑥 = 4
 
-3(𝑥+2)=18
 
-The rest of the steps are the same as the equation.
+Inequalities are different from equations because the solution can't be just one number as we have discussed above. So the 4 we get above is not the answer. We call 4 a boundary point, which means that the answer will be greater or less than 4. To figure out the solution, we use a test point. A test point can be any number that isn't 4. Let's use 1 as our test point. We plug it into the inequality and get 9 > 18. 
 
-or, 3(𝑥+2)/3=18/3
+3(𝑥 + 2) > 18  
+3(1 + 2) > 18  
+3 x 3 > 18  
+9 > 18    
 
-or, 𝑥+2=6
+This is clearly not true, so 1 is not part of the solution. Since 1 is less than 4, we know that the solution can't have any numbers less than 4. This means the solution is that x is greater than 4 or 𝑥 > 4. So the value of 𝑥 is 5, 6, 7, 8….and so on. 
 
-or, 𝑥+2-2=6-2
 
-or, 𝑥=4
+Alternatively, you could have simply replaced the equal sign from 𝑥 = 4 with the inequality sign given in the question, giving us the same answer as 𝑥 > 4. This method works most of the time, but fails us in some cases. 
 
-Now, this 4 that we got is what is known as a boundary point. Inequality is different from an equation, instead of the solution being at 4, it is anywhere but at 4. But that definition in itself isn't simpler either. If it isn't 4 then either it has to be greater than 4 or less than 4. For that we choose a test point, a test point can be any number that isn't 4, let's take 1. If we put 1 in the inequality initially given what do we get?
 
-3(𝑥 + 2)>18
+Say the inequality instead was -3(𝑥 + 2) > 18.
+Solving this like before, we would get the answer as 𝑥 = -8 or 𝑥 > -8 when we replace the sign.  
 
-3(1+2)>18
+Let’s check if this is true.   
 
-3 x 3>18
+Say 𝑥 is -7, which is greater than -8 (as our solution states).  
+-3(-7 + 2) > 18  
+-3 x -5 > 18  
+15 > 18  
+This is clearly not true!  
 
-9>18
+So, in inequalities like these, our method does not seem to work. What happened was when we divided both sides by -3, we needed to switch the inequality sign from > to <. This applies to multiplication or division of all negative numbers done to the inequality. Instead of having to memorize this, we could just use the test point method, which is guaranteed to give you correct answers. 
 
-9 is greater than 18. That is what the solution tells us. Is that true? No, it isn't. thus the solution doesn't contain 1. 1 is less than 4 so it should not contain any number that is less than 4. That means the solution is that 𝑥 is greater than 4.
+One more point to add is that the answer varies if the inequality was 3(𝑥 + 2) ≥ 18
 
-𝑥 > 4
+
+In this case, the answer would be 𝑥 ≥ 4. Unlike before, 4 is included in the answer as well. So the answer will be 4, 5, 6, 7….and so on, because ≥ means greater than or equal to while > only meant greater than. 
