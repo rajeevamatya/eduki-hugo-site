@@ -1,3 +1,5 @@
+title = "Eduki"
+description = "This website gives you the basic of all math topics from number system, ratio, percentgae, geometry, and statitics for grade 6, 7, and 8."
 baseurl = "/"
 canonifyURLs = false
 disableAliases = true

@@ -140,7 +140,7 @@ It's important to ensure that the divisions shown are of equal length in such ca
 
 
 <img src="1_34_rectangle_irregular_grids.gif" width="300" style="display: block; margin: 0 auto;">
-1_34
+
 
 ### Area of parallelogram
 
@@ -215,7 +215,7 @@ Therefore, a parallelogram that has the same base and height as a rectangle will
 
 We can also state that the area of a parallelogram is equivalent to the area of the rectangle that stands on the same base and is enclosed within the same parallel lines.
 
-To illustrate this, consider the example shown in picture 1_50. It displays multiple parallelograms and a rectangle, all having an area of 15 square units. Despite the increasing inclination of the sides, the distance between the parallel lines, which represents the height, remains constant. All of these shapes have a base of 3 units and a height of 5 units.
+To illustrate this, consider the example shown in the picture below. It displays multiple parallelograms and a rectangle, all having an area of 15 square units. Despite the increasing inclination of the sides, the distance between the parallel lines, which represents the height, remains constant. All of these shapes have a base of 3 units and a height of 5 units.
 
 As a result, following our previous conclusion, the area of each parallelogram will be calculated as 3 units multiplied by 5 units, resulting in 15 square units.
 
@@ -241,5 +241,7 @@ It's crucial to note that this doesn't mean the base is 4 units (since it is inc
 <img src="1_52_pairs_of_base_height.gif" width="500" style="display: block; margin: 0 auto;">
 
  
+<!-----
 <img src="1_53_rectangle_and_parm.png" width="500" style="display: block; margin: 0 auto;">
+------>
 

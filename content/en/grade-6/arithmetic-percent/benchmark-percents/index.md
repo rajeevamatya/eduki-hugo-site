@@ -72,7 +72,7 @@ If 25% equals 9, 100% has to equal 4 x 9 = 36!
 
 What about if we said that 9 equals 75% of some value? What would be 100% now?
 
-<img src ="P05-9-is-75-percent-of-what.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src ="P05-9-is-75-percent-of-what_2.jpg" width="400" style="display: block; margin: 0 auto;">
 
 This is slightly different from the cases before. 75% is three-fourths of 100%. In order to find the 100%, we can divide the value by 3 to get the one-fourth value and then multiply by 4 to get the complete (1) value. 
 
