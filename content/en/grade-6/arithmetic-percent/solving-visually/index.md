@@ -84,9 +84,6 @@ If 140% of a weight is 28 kg, then 100% is 20 kg.
 
 <img src ="P02-answer-100-percent-when 140-percent-is-given.jpg" width="400" style="display: block; margin: 0 auto;">
 
-.....
-
-
 
 
 
