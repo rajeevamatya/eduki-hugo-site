@@ -1,5 +1,5 @@
 ---
-title: "01 Computations of Multi-digit Numbers"
+title: "01 Operations on Numbers"
 description: "Computing multi-digit numbers"
 lead: " "
 date: 2020-10-06T08:49:31+00:00

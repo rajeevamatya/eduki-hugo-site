@@ -47,7 +47,7 @@ Lastly, let's confirm the answer using the double number line diagram.
 
 If 90 is 100%, they align on the two lines. We can divide 90 into 10 parts to show each part measuring 9 kg. This gives us 36 kg at the fourth mark after 0. Similarly, we can divide 100% into 10 parts, with each part measuring 10%. 36 kg now aligns with 40%!
 
-<img src ="\P04-finding-percentage-through-number-line-gif.gif" width="400" style="display: block; margin: 0 auto;">
+<img src ="P04-finding-percentage-through-number-line-gif.gif" width="400" style="display: block; margin: 0 auto;">
 
 If we go back to our two other types of percent problems, we can compare all three now:
 

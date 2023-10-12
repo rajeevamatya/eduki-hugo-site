@@ -62,11 +62,15 @@ Look at the three different bases and their corresponding heights.
 
 <img src="1_55_base_and_height_of_parm_and_parm.gif" width="500" style="display: block; margin: 0 auto;">
 
+------------------------------------------------------------
 
 <img src="1_56_base_and_height_of_triangle2.png" width="300" style="display: block; margin: 0 auto;">
 
+------------------------------------------------------------
+
 <img src="1_57_base_and_height_of_triangle3.png" width="300" style="display: block; margin: 0 auto;">
 
+------------------------------------------------------------
 
 Let’s look at an obtuse-angled triangle in which it isn’t that obvious to identify the base and height.
 

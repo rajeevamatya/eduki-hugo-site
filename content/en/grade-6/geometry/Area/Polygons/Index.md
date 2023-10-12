@@ -72,7 +72,7 @@ For instance, the shape we're looking at right now is called a trapezium. It has
 <img src="1_61_trapezium.png" width="300" style="display: block; margin: 0 auto;">
 Let's break down the trapezium into a triangle and a rectangle to find its area. We can use the formula for triangles and rectangles to find their areas and then add them up. 
 <img src="1_62_trapezium_into_triangle_and_rectangle.png" width="300" style="display: block; margin: 0 auto;">
-But there's an easier way! We can divide the triangle in half by drawing a line from the top corner to the midpoint of the bottom side. Then, we can move that triangle over to make a parallelogram ( a rectangle in this case). 
+But there's an easier way! We can divide the triangle in half by drawing a line from the top corner to the midpoint of the bottom side. Then, we can move that triangle over to make a parallelogram (a rectangle in this case). 
 <img src="1_63_trapezium_into_rectangle.gif" width="300" style="display: block; margin: 0 auto;">
 
 Now that we have a rectangle, we can either count the unit squares or simply use the length times width formula.

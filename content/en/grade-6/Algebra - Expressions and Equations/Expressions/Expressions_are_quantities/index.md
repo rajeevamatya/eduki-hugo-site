@@ -25,6 +25,7 @@ Since an expression always corresponds to some quantity, the parts of the expres
 
 For example: If the cost of 3 pens and 5 notebooks is 3𝑥 + 5y then 𝑥 is the price of one pen or unit price of pen and y is the price of one notebook or unit price of the notebook. 3𝑥 is the total price of all pens and 5y is the total price of all notebooks. This applies to all stores that sell pens and notebooks at different prices.
 
-<img src="1_20_table_expression_is_a_quantity.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src="1_20_table_expression_is_a_quantity.jpg" width="500" style="display: block; margin: 0 auto;">
+
 We can see that we obtain different total prices of the pens and notebooks even with the same expression. If we wanted, we could also just have found the prices for pens from all stores since we know 3x from the expression represents the price of pens. 
 From the above example, we saw that the process of finding the value of expression is the same even when there are more than 1 variable (x and y in the above case). Do not get confused about the use of different variables in the same context. It should be obvious that we would use different variables for different quantities (here the price of pens and notebooks) since using the same would create confusion. 

@@ -40,7 +40,7 @@ Sometimes people make net diagrams that aren't correct, even when the number and
 <img src="2_36_cuboid_netwrong1.png" width="300" style="display: block; margin: 0 auto;">
 <img src="2_37_cuboid_netwrong2.png" width="300" style="display: block; margin: 0 auto;">
 <img src="2_38_cuboid_netwrong3.png" width="300" style="display: block; margin: 0 auto;">
-2.36 2.37 2.38
+
 
 ### Finding Area from Net Diagrams
 

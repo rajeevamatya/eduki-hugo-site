@@ -22,7 +22,7 @@ Each direction of the cuboid has two faces that are the same size. There are six
 
 To find the total surface area of the cuboid, we add up the areas of all six rectangles. 
 Total surface area = ℓ x b + b x h + ℓ x h + ℓ x b + b x h + ℓ x h = 2 (ℓ x b + b x h + ℓ x h)
-We use this formula for rectangular prisms or cuboids. If the cuboid is a cube (where all sides are the same length), we can simplify the formula to 6ℓ^2 or 6b^2 or 6h^2 (simply replace two of the sides with the third). 
+We use this formula for rectangular prisms or cuboids. If the cuboid is a cube (where all sides are the same length), we can simplify the formula to 6ℓ<sup>2</sup> or 6b<sup>2</sup> or 6h<sup>2</sup> (simply replace two of the sides with the third). 
 
 <img src="2_23_cube_all_faces.gif" width="300" style="display: block; margin: 0 auto;">
 
@@ -78,9 +78,9 @@ Let's say we have a box with ℓ = ⅓ cm, b = ⅓ cm, and h = 1 cm. We can use 
 
 We can also measure volume in terms of the number of cubes of unit length that can fit inside an object, or the number of objects that can fit inside a cube of unit length.
 
-Before getting more into this, let’s take a side track and talk a little about units first. If a cube has equal length, width, and height (ℓ, b, and h), then we can find the volume by multiplying ℓ three times (ℓ x ℓ x ℓ = ℓ^3). Since each of the sides is measured in ‘units’, the unit of volume is cubic units. This means that if we measure length in centimeters, then volume is measured in cubic centimeters (cm^3). If we measure length in feet, then volume is measured in cubic feet (ft^3), and so on.
+Before getting more into this, let’s take a side track and talk a little about units first. If a cube has equal length, width, and height (ℓ, b, and h), then we can find the volume by multiplying ℓ three times (ℓ x ℓ x ℓ = ℓ<sup>3</sup>). Since each of the sides is measured in ‘units’, the unit of volume is cubic units. This means that if we measure length in centimeters, then volume is measured in cubic centimeters (cm<sup>3</sup>). If we measure length in feet, then volume is measured in cubic feet (ft<sup>3</sup>), and so on.
 
-Now, back to before. We can fit 6 small cubes with 1 cm sides inside a bigger cube with a volume of 6 cm^3. Two objects shown below are  made of small cubes and have the same total volume, so we can count the number of small cubes to find their volume instead of using a formula. Here, both objects have 6 small cubes inside.
+Now, back to before. We can fit 6 small cubes with 1 cm sides inside a bigger cube with a volume of 6 cm<sup>3</sup>. Two objects shown below are  made of small cubes and have the same total volume, so we can count the number of small cubes to find their volume instead of using a formula. Here, both objects have 6 small cubes inside.
 
 <img src="2_17_and_2_18_two_cubes.png" width="300" style="display: block; margin: 0 auto;">
 

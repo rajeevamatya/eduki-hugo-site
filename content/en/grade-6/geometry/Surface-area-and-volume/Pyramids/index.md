@@ -46,7 +46,7 @@ If the tip (or apex) of the pyramid is right above the center of the base, then 
 <img src="6_2_pyramids.jpg" width="450" style="display: block; margin: 0 auto;">
 
 So, the total surface area = ½ x a x s + ½ x a x s + ½ x a x s + ½ x a x s + a x a = 
-= ½ x s x (a + a + a + a) + a^2
+= ½ x s x (a + a + a + a) + a²
 = ½ x slant height x perimeter of base + area of base
  
 This formula applies to any kind of pyramid with any base. 
