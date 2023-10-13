@@ -1,7 +1,7 @@
 ---
 title: "02 Circumference of Circle"
-description: ""
-lead: ""
+description: "Estimating the circumference of a circle using triangles and squares. The circumference is roughly 6 to 8 times the radius. The formula is C = 2πr."
+lead: "Estimating the circumference of a circle using triangles and squares. The circumference is roughly 6 to 8 times the radius. The formula is C = 2πr."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

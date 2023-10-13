@@ -1,6 +1,6 @@
 ---
 title: "01 Percent Increase/Decrease"
-description: "Proportional Relationships and Graphs"
+description: "Percentage increase or decrease is a way to calculate the change in value based on fractions or percentages. It involves adding or subtracting a fraction or percentage of the original value. The double number line can be used to visualize and solve these problems."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

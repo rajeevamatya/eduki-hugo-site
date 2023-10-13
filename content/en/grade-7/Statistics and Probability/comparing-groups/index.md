@@ -1,6 +1,6 @@
 ---
 title: "04 Comparing two populations"
-description: "Comparing two populations"
+description: "Comparing two populations involves looking at the similarities and differences between their distributions and measures of center and variability. Overlap and separation in dot plots and box plots can help determine the differences between the groups. The more separation there is between distributions, the more meaningful the differences are considered to be. The five number summaries, range, and IQR can also be used to compare the groups. In one example, the weights of dogs from breed B were generally higher than those from breed A. In another example, both breeds had high variability in weight."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

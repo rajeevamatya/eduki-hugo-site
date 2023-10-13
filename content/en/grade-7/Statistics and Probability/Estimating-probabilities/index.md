@@ -1,6 +1,6 @@
 ---
 title: "06 Estimating Probabilities"
-description: "Estimating probabilities"
+description: "The article discusses how to estimate probabilities for events with more than one outcome. It provides examples and explains the concept of probability. It also explores the idea of estimating probabilities through repeated experiments."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

@@ -1,6 +1,6 @@
 ---
 title: "07 Compound Probabilities"
-description: "Compound probabilities"
+description: "Compound events involve two or more events occurring one after the other. This article explains how to find the probability of compound events using examples such as flipping two coins or spinning two spinners. It discusses techniques like creating a table or a tree diagram to determine all possible outcomes and calculate the probability of specific events."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

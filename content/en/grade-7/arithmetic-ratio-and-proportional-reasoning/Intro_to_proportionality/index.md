@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to Proportionality"
-description: "Intro to proportionality"
+description: "In this article, we learn about proportionality and equivalent ratios. Proportional relationships have the same ratio between quantities. Unit rates and constants of proportionality are also discussed."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

@@ -1,7 +1,7 @@
 ---
 title: "04 Construction of triangles"
-description: ""
-lead: ""
+description: "Construction of triangles involves determining the dimensions of a triangle, such as the length of its sides and the angles between them. The triangle inequality states that the sum of any two sides of a triangle must be greater than the remaining side. To test if a triangle can be formed, circles can be drawn at the ends of one of the sides, and if the circles intersect, a triangle can be formed. The orientation of the triangle may vary, but it is still the same triangle."
+lead: "Construction of triangles involves determining the dimensions of a triangle, such as the length of its sides and the angles between them. The triangle inequality states that the sum of any two sides of a triangle must be greater than the remaining side. To test if a triangle can be formed, circles can be drawn at the ends of one of the sides, and if the circles intersect, a triangle can be formed. The orientation of the triangle may vary, but it is still the same triangle."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false

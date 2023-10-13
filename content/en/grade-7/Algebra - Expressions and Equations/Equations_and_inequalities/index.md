@@ -1,7 +1,7 @@
 ---
 title: "Equations and Inequalities"
-description: ""
-lead: ""
+description: "The article discusses the application of the laws of equality in solving equations and inequalities. It explains how to isolate variables using the multiplicative and additive laws of equality. It also discusses the use of these laws in equations with expressions of the form p𝑥+q or p(𝑥+q). The article also applies the laws of equality in tape diagrams to solve problems involving pizza delivery charges."
+lead: "The article discusses the application of the laws of equality in solving equations and inequalities. It explains how to isolate variables using the multiplicative and additive laws of equality. It also discusses the use of these laws in equations with expressions of the form p𝑥+q or p(𝑥+q). The article also applies the laws of equality in tape diagrams to solve problems involving pizza delivery charges."
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
 draft: false

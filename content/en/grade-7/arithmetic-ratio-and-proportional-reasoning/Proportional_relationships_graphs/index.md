@@ -1,6 +1,6 @@
 ---
 title: "04 Proportional Relationships and Graphs"
-description: "Proportional Relationships and Graphs"
+description: "This article discusses proportional relationships and graphs. It explains how to determine the constant of proportionality from a graph and how to interpret graphs with different independent variables. It also demonstrates how graphs can be used to compare different relationships."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

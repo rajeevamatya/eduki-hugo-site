@@ -1,7 +1,7 @@
 ---
 title: "Expressions"
-description: ""
-lead: ""
+description: "Symbolic transformation is used to simplify expressions with rational coefficients. Coefficients are important, and if they are fractions, denominators must be made the same. Adding fractions requires finding a common multiple. PEMDAS and parentheses help clarify expressions. Percentages are another way to express rational numbers."
+lead: "Symbolic transformation is used to simplify expressions with rational coefficients. Coefficients are important, and if they are fractions, denominators must be made the same. Adding fractions requires finding a common multiple. PEMDAS and parentheses help clarify expressions. Percentages are another way to express rational numbers."
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
 draft: false

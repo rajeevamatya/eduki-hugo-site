@@ -1,7 +1,7 @@
 ---
 title: "prisms and pyramids"
-description: ""
-lead: ""
+description: "3D objects are objects that have three dimensions and are not flat like a sheet of paper. They have faces, which are the surfaces of the object, and each face spans in two directions. The Rubik's cube is an example of a 3D object with six faces, each made up of nine squares. The total surface area of a 3D object is the sum of the areas of all visible faces."
+lead: "3D objects are objects that have three dimensions and are not flat like a sheet of paper. They have faces, which are the surfaces of the object, and each face spans in two directions. The Rubik's cube is an example of a 3D object with six faces, each made up of nine squares. The total surface area of a 3D object is the sum of the areas of all visible faces."
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
 draft: false

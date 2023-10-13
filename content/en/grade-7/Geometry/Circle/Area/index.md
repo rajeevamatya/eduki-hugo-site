@@ -1,7 +1,7 @@
 ---
 title: "03 Area of Circle"
-description: ""
-lead: ""
+description: "Calculating the area of a circle by dividing it into smaller parts and rearranging them to form a rectangle. Area = πr^2. Area increases by n^2 if radius is increased by n times."
+lead: "Calculating the area of a circle by dividing it into smaller parts and rearranging them to form a rectangle. Area = πr^2. Area increases by n^2 if radius is increased by n times."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

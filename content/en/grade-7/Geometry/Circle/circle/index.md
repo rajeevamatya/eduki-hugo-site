@@ -1,7 +1,7 @@
 ---
 title: "01 Circle"
-description: ""
-lead: ""
+description: "Identifying circular shapes and understanding the attributes of a circle, including the center, radius, diameter, and circumference."
+lead: "Identifying circular shapes and understanding the attributes of a circle, including the center, radius, diameter, and circumference."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

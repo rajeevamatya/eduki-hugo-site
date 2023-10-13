@@ -1,7 +1,7 @@
 ---
 title: "01 Introduction to angles"
-description: ""
-lead: ""
+description: "Introduction to angles: Explains the formation of angles using lines, introduces parallel and intersecting lines, and discusses angle measurement and naming."
+lead: "Introduction to angles: Explains the formation of angles using lines, introduces parallel and intersecting lines, and discusses angle measurement and naming."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

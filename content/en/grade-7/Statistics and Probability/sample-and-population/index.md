@@ -1,6 +1,6 @@
 ---
 title: "01 Sample and Population"
-description: "Sample and Population"
+description: "Inferential statistics involves making conclusions about populations based on samples. A population is the entire group being studied, while a sample is a smaller subset. Collecting data from a whole population is often not feasible, so we use samples to derive information. However, not all samples are good representations of the population. A representative sample closely resembles the population in shape, center, and spread. Picking a representative sample is important to answer questions about the entire population."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

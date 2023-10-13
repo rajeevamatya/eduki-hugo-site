@@ -1,7 +1,7 @@
 ---
 title: "03 Relation between angles"
-description: ""
-lead: ""
+description: "Adjacent angles share a common arm and vertex, while supplementary angles add up to 180°. Complementary angles add up to 90°, and vertical angles are always equal."
+lead: "Adjacent angles share a common arm and vertex, while supplementary angles add up to 180°. Complementary angles add up to 90°, and vertical angles are always equal."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false
