@@ -1,6 +1,6 @@
 ---
 title: "04 Prisms"
-description: "This article explains how to find the surface area and volume of prisms with rectangular bases, as well as prisms with other base shapes."
+description: "The article explains how to find the surface area and volume of prisms with rectangular bases, as well as prisms with other base shapes."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

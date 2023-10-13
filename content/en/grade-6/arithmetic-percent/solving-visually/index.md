@@ -1,6 +1,6 @@
 ---
 title: "02 Solving Percent Problems Visually : Finding Whole and Amount"
-description: "A double number line diagram is used to understand percentages better, showing the corresponding percent for different values of money. A tape diagram can also be used to find percentages by dividing the whole into equal parts."
+description: "A double number line diagram is used to understand percentages better by representing values of money in relation to percentages. A tape diagram is also used to find percentages by dividing a whole into equal parts."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

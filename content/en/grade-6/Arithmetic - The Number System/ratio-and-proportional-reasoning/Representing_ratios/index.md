@@ -1,6 +1,6 @@
 ---
 title: "03 Represention of Ratios"
-description: "The article explains the concept of double number lines and how they are used to represent ratios. It shows examples and explains how to extend the number lines to represent equivalent ratios."
+description: "This article explains the concept of double number lines and how they are used to represent ratios and equivalent ratios. It also provides examples and diagrams to illustrate the concept."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

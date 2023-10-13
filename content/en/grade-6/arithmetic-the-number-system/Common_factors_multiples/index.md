@@ -1,6 +1,6 @@
 ---
 title: "02 Finding Common Factors and Multiples"
-description: "Common factors are whole numbers that divide another number evenly. This article explains how to find common factors and their importance in grouping objects. It also discusses common multiples, which are numbers obtained by multiplying two whole numbers together."
+description: "Common factors are whole numbers that divide another number evenly with no remainder. In this article, the concept of common factors is explained using the example of grouping balloons. The article also introduces the idea of common factors in terms of color combinations of balloons. The greatest common factor (GCF) is the largest number that can divide two whole numbers without getting a remainder. The article also briefly discusses common multiples, which are numbers obtained by multiplying two whole numbers together."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

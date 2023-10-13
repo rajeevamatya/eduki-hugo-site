@@ -1,6 +1,6 @@
 ---
 title: "03 Negative Numbers"
-description: "This article explains the concept of negative numbers and why they are needed in certain situations. It also discusses extending the number line to include negative numbers."
+description: "Negative numbers are numbers less than zero and are used to represent situations like temperature, elevation, and money in and out. The number line is extended to the left of zero to plot negative numbers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

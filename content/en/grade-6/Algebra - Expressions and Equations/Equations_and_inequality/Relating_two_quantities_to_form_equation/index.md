@@ -1,6 +1,6 @@
 ---
 title: "02 Relation between two quantities"
-description: "Equations help us understand the relationship between two quantities. By using placeholders, we can create equations to solve for unknowns."
+description: "Equations are used to understand the relationship between two quantities. Examples include the cost of pens and the number of candies per student."
 lead: " "
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

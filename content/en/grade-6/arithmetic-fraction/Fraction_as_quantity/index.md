@@ -1,6 +1,6 @@
 ---
 title: "01 Multiplication: Fraction as Quantity"
-description: "This article explains how to multiply fractions as quantities. It uses real-life examples, block diagrams, and number lines to illustrate the concept."
+description: "This article explains the concept of multiplication with fractions as quantities. It discusses making copies of unit fractions and fractions, using block diagrams and number lines to represent them visually, and finding the product of multiplication processes."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

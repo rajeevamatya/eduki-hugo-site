@@ -1,6 +1,6 @@
 ---
 title: "02 Finding Common Factors and Multiples"
-description: "Factors are numbers that divide another number evenly without a remainder. Common factors are factors that two numbers have in common. The greatest common factor is the largest common factor. Multiples are numbers that can be divided evenly by another number."
+description: "Finding common factors involves determining the numbers that can divide a given number evenly. Common multiples are the multiples shared by two or more numbers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

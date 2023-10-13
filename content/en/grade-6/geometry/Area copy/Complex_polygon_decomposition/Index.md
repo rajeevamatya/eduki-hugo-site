@@ -1,6 +1,6 @@
 ---
 title: "Decomposition complex polygon"
-description: "We can use decomposition to find the area of complex shapes. By introducing more lines, we can rearrange the shape and calculate the area."
+description: "Finding area using decomposition (complex shape). Decomposition is a useful method to find the area of unfamiliar shapes."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

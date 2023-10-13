@@ -1,6 +1,6 @@
 ---
 title: "01 Introducing Equations"
-description: "Equations are expressions that are equal to each other. They can be numerical or algebraic, with variables. Equations can be solved by balancing both sides. Tape diagrams can be used to represent equations visually."
+description: "Equations are expressions that are equal to each other. They can be numerical or algebraic. Equations can be solved to find the value of the variable. Tape diagrams can be used to represent equations visually."
 lead: " "
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

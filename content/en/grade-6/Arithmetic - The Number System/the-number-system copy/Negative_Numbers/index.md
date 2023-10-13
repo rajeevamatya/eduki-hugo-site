@@ -1,6 +1,8 @@
 ---
 title: "03 Negative Numbers"
-description: "Negative numbers are needed to represent situations where quantities are less than zero. They are used in contexts like temperature, elevation, and money. The number line is extended to the left of zero to represent negative numbers."
+description: "Need of Negative Numbers: Negative numbers are used to represent situations where something is being taken away or decreased, such as removing coins from a pile or a drop in temperature. They are necessary to represent values less than zero.
+
+Extending the Number Line: The number line is extended to include negative numbers, representing values less than zero. The line is divided into equally spaced divisions, with each division corresponding to 1 unit. Negative numbers are plotted to the left of zero."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

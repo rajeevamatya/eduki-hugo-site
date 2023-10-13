@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to Expressions"
-description: "Expressions are mathematical sentences that can have operators like addition, subtraction, multiplication, and division. They can be numerical or contain variables. Numerical expressions have a value, while variables represent unknown quantities. Equivalent expressions have the same value or meaning. Variables are used when the value is unknown, like a placeholder. They can be used to solve problems, like finding the discounted price of chocolates."
+description: "Expressions are mathematical sentences that can be numerical or contain variables. Numerical expressions have a value, while variables represent unknown quantities."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

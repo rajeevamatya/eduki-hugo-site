@@ -1,6 +1,6 @@
 ---
 title: "03 Negative Numbers"
-description: "The article discusses the concept of negative numbers and their need in various contexts such as temperature, elevation, and accounting. It explains how negative numbers represent values less than zero and extends the number line to include negative numbers."
+description: "Negative numbers are needed to represent situations where there is a decrease or a measurement below zero. They are used in contexts like temperature, elevation, and money. The number line is extended to include negative numbers, with each division representing 1 unit."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

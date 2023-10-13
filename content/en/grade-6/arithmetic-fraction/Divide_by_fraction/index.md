@@ -1,6 +1,6 @@
 ---
 title: "04 Division: Dividing by Fraction"
-description: "Dividing fractions by fractions is explained using examples. It is shown that the greater the divisor, the smaller the quotient, and vice versa."
+description: "Dividing fractions by fractions is similar to dividing whole numbers. The greater the divisor, the smaller the quotient. Examples are given."
 lead: ""
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00

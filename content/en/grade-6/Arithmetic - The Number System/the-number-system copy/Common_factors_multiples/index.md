@@ -1,6 +1,6 @@
 ---
 title: "02 Finding Common Factors and Multiples"
-description: "This article discusses common factors and multiples. It explains how to find factors and common factors of numbers, and how to find multiples."
+description: "Finding common factors and multiples involves dividing numbers into equal groups with no remainders. Factors divide a number evenly, while common factors are factors shared by two numbers. The greatest common factor is the largest factor shared by two numbers. Multiples are numbers that can be multiplied by another number to get a product."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

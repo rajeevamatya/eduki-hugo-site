@@ -1,6 +1,6 @@
 ---
 title: "04 Equivalent Expressions"
-description: "This article explains the concept of equivalent expressions and how to use symbolic transformations to find them. It also discusses the distributive property and the commutative property as properties that can be used for symbolic transformations."
+description: "This article explains the concept of equivalent expressions and how to find them using symbolic transformations and properties like distributive and commutative."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

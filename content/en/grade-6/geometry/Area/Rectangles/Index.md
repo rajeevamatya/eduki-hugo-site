@@ -1,6 +1,6 @@
 ---
 title: "04 Rectangles"
-description: "The article explains how to find the area of rectangles using a formula. It demonstrates that the area is found by multiplying the length and width."
+description: "This article explains how to find the area of a rectangle using the formula length x width. It also shows examples and explains the concept."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

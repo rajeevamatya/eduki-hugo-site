@@ -1,6 +1,6 @@
 ---
 title: "07 Decomposition Of Complex Polygon"
-description: "Decomposition is a useful method for finding the area of complex shapes. By breaking down the shape into smaller, known shapes, we can calculate the area. This process may involve adding lines to the shape and rearranging it multiple times. The goal is to create as many complete squares as possible within the shape. The area of each smaller shape can then be added together to find the total area of the complex shape. Another approach is to break the shape into smaller parts and calculate the area of each individual piece before adding them together. This method can be applied to any polygon."
+description: "Decomposition is a method used to find the area of complex shapes by breaking them down into smaller shapes and adding their areas together."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

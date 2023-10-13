@@ -1,7 +1,7 @@
 ---
 title: "Equivalent Expressions"
-description: "The article discusses equivalent expressions in algebra and how to obtain simpler expressions through symbolic transformation. It explains the distributive and commutative properties and provides examples to illustrate their application. It also distinguishes between expressions that are equal at one particular point and equivalent expressions that are equal for all values of the variable."
-lead: "The article discusses equivalent expressions in algebra and how to obtain simpler expressions through symbolic transformation. It explains the distributive and commutative properties and provides examples to illustrate their application. It also distinguishes between expressions that are equal at one particular point and equivalent expressions that are equal for all values of the variable."
+description: "Symbolic transformation is used to simplify algebraic expressions, resulting in equivalent expressions. Properties like the distributive and commutative properties can be used to find equivalent expressions. Equivalent expressions have the same value for all values of the variable."
+lead: "Symbolic transformation is used to simplify algebraic expressions, resulting in equivalent expressions. Properties like the distributive and commutative properties can be used to find equivalent expressions. Equivalent expressions have the same value for all values of the variable."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

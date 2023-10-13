@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Expressions"
-description: "Expressions are a way of expressing mathematical concepts using numbers and operators. They can be numerical or algebraic, and can involve addition, subtraction, multiplication, and division. Expressions can also include variables, which represent unknown quantities. The value of an expression can often be simplified to a single quantity."
-lead: "Expressions are a way of expressing mathematical concepts using numbers and operators. They can be numerical or algebraic, and can involve addition, subtraction, multiplication, and division. Expressions can also include variables, which represent unknown quantities. The value of an expression can often be simplified to a single quantity."
+description: "Expressions are ways of expressing things in mathematics. Numerical expressions use numbers and operators, while algebraic expressions use letters and symbols. They can be simplified and have a value. Expressions can also be used to represent real-life situations, such as finding the total number of senators in the US Senate."
+lead: "Expressions are ways of expressing things in mathematics. Numerical expressions use numbers and operators, while algebraic expressions use letters and symbols. They can be simplified and have a value. Expressions can also be used to represent real-life situations, such as finding the total number of senators in the US Senate."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

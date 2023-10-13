@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to 3D objects and volume"
-description: "Jumping from 2D to 3D: Introduction to 3D objects and volume. Learn about the total surface area and volume of 3D objects like cubes."
+description: "Jumping from 2D to 3D: Introduction to 3D objects and volume. Explains the concept of 3D objects, their faces, edges, and corners. Also introduces total surface area and volume of 3D objects."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
