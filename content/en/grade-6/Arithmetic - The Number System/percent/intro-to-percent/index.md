@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to Percentage"
-description: "This article introduces the concept of unit rates and how they relate to percentages. It explains the idea of "per one" and then transitions into the concept of "per 100" or percentage. It provides examples and tables to illustrate the calculations and relationships between different values."
+description: "This article introduces the concept of unit rates and how they relate to percentages. It explains the idea of per one and then transitions into the concept of per 100 or percentage. It provides examples and tables to illustrate the calculations and relationships between different values."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
