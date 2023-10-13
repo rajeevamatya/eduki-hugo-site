@@ -1,6 +1,6 @@
 ---
 title: "03 Negative Numbers"
-description: "Given a pile of coins, the article explains the concept of negative numbers by using subtraction and temperature examples. It also extends the number line to include negative numbers."
+description: "The article explains the concept of negative numbers and why they are needed in certain situations, such as temperature and money. It also discusses extending the number line to include negative numbers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

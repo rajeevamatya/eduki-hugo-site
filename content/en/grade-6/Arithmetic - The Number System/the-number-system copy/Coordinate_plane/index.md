@@ -1,6 +1,6 @@
 ---
 title: "04 Negative Numbers and the Coordinate Plane"
-description: "The article discusses the extension of the coordinate plane to include negative numbers. It explains the four quadrants and how to plot points in each quadrant. It also explains how to construct and interpret the coordinate plane when representing data."
+description: "This article explains the concept of negative numbers in the coordinate plane and how to plot points in different quadrants. It also discusses the use of the coordinate plane to represent data."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

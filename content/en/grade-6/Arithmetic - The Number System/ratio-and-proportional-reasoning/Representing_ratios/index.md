@@ -1,6 +1,6 @@
 ---
 title: "03 Represention of Ratios"
-description: "Number lines are useful for representing ratios, but sometimes we need multiple number lines to represent different quantities in a ratio relationship. This is where double number lines come in. Double number lines show the relationship between two or more quantities in a ratio by aligning the values on separate number lines. They can also be extended to represent equivalent ratios. Double number lines are more efficient than discrete diagrams and can easily show many more equivalent ratios. Just remember to maintain the interval between the values on the two number lines."
+description: "This article explains the concept of double number lines and how they are used to represent ratios and equivalent ratios. Double number lines are more efficient than discrete diagrams and can be easily extended to show more equivalent ratios. The article provides examples and visuals to illustrate the concept."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

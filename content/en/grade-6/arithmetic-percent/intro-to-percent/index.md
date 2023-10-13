@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to Percentage"
-description: "Unit rates are ratios that tell us how much of one quantity there is for 1 of another quantity. Percentages are rates per 100, or per cent."
+description: "Unit rates are ratios that tell us how much of one quantity there is for 1 of another quantity. Percentages are rates per 100, or per one hundred. For example, 1% is 1 cent for every 100 cents. The value of a penny is 1% of a dollar."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

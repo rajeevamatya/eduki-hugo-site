@@ -1,6 +1,6 @@
 ---
 title: "02 Finding Common Factors and Multiples"
-description: "Imagine you have balloons and need to divide them into equal bunches. The number of bunches and balloons in each bunch are factors of the total."
+description: "Finding common factors involves identifying numbers that can evenly divide a given number. Common multiples are numbers that are divisible by two or more numbers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

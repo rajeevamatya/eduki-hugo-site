@@ -1,6 +1,6 @@
 ---
 title: "07 More on Volumes and Surface Areas"
-description: "Objects with the same volume can have different surface areas, and objects with the same surface area can have different volumes. This is important to consider when calculating how much paint or material is needed to cover an object. Understanding the area and volume of 3D objects is useful for measuring capacity, determining how much material is needed, and knowing when to use surface area or volume in different situations."
+description: "Objects with the same volume can have different surface areas. Similarly, objects with the same surface area can have different volumes. Measuring area and volume is important for determining how much can fit inside an object and how much area needs to be covered."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

@@ -2,7 +2,7 @@
 title: "06 Polygons"
 description: "A polygon is a closed shape made up of straight lines. It must have at least three sides. The number of sides determines the name of the polygon. 
 To find the area of a trapezium, it can be broken down into a triangle and a rectangle, making it easier to calculate the area."
-lead: ""
+lead: "A polygon is a closed shape made up of straight lines. It must have at least three sides to be considered a polygon. The number of sides determines the name of the polygon. A trapezium can be broken down into a triangle and a rectangle to find its area."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

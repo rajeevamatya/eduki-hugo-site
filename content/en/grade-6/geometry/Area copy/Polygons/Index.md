@@ -1,6 +1,6 @@
 ---
 title: "Polygons"
-description: "A polygon is a closed figure made of straight lines. It must have multiple sides and cannot be made up of curved lines. The number of sides determines its name. A trapezium can be decomposed into a triangle and a rectangle to find its area."
+description: "Polygons are closed shapes made up of straight lines. They must have at least three sides to form a closed shape. The number of sides determines the name of the polygon. The area of a polygon can be found by decomposing it into triangles or other familiar shapes. Trapeziums can be decomposed into triangles and rectangles to find their area."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

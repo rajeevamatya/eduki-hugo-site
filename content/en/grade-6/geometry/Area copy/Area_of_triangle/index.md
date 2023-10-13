@@ -1,6 +1,6 @@
 ---
 title: "Area of triangle"
-description: "The area of a right-angled triangle can be found by taking half the product of its base and height. This method can also be applied to other types of triangles."
+description: "Area of triangle: The article explains how to find the area of a right-angled triangle using a rectangle and decomposition, and applies the same method to find the area of any triangle."
 lead: ""
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

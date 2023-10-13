@@ -1,6 +1,6 @@
 ---
 title: "06 Net Diagrams"
-description: "Net diagrams are a way to show all the faces of a 3D object on paper. They help us understand the shape and surface area of 3D objects."
+description: "Net diagrams are a way to show all the faces of a 3D object on paper. They help us understand the shape and find the surface area of objects."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to Expressions"
-description: "Expressions are mathematical sentences that can have operators and variables. They can represent values or quantities."
+description: "Expressions are mathematical sentences that can have operators like addition and multiplication. They can be numerical or involve variables."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

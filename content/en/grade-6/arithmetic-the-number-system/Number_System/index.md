@@ -1,6 +1,6 @@
 ---
 title: "01 Operations on Numbers"
-description: "Learn how to divide multi-digit whole numbers using long division and estimate the sum and difference of multi-digit decimals."
+description: "This article discusses division of multi-digit whole numbers and addition/subtraction of multi-digit decimals. It includes examples and tips for solving these types of problems."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

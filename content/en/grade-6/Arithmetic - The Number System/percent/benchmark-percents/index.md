@@ -1,6 +1,6 @@
 ---
 title: "05 Benchmark Percentages"
-description: "Benchmark percentages are commonly used percentages that can make solving problems involving fractions and percentages easier. For example, 50% is half, 25% is a quarter, and 75% is three-quarters. These benchmarks can be used to quickly find percentages of a given value. By using tape diagrams and double number lines, it is possible to solve problems like finding what number is 50% of 9 or finding the total value when 25% of a value is 9."
+description: "Benchmark percentages are percentages that serve as reference points for solving problems. They are derived from benchmark fractions, such as 1/2, 1/4, and 1/8. For example, 50% is half, 25% is a quarter, and 12.5% is an eighth. These percentages can be used to quickly solve problems by finding fractions or proportions of a given value. Common benchmarks include 25%, 50%, and 75%, which align with fractions 1/4, 1/2, and 3/4 respectively. By understanding these benchmarks, one can easily solve problems involving percentages."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
