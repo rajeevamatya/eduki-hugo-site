@@ -10,7 +10,7 @@ weight: 220
 toc: true
 ---
 
-## What are benchmark percentages? ????
+## What are benchmark percentages? ????!!!!!
 
 Let’s go back to fractions for a little bit here. When talking about fractions and in the process of getting more familiar with the topic, we got used to the idea of ½ being half, ¼ being quarter, etc. These were benchmark fractions that helped us compare others as well as easily solve questions. 
 
