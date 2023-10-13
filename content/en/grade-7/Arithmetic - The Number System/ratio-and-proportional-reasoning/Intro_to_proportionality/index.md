@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to Proportionality"
-description: "Intro to proportionality"
+description: "In this article, we learn about proportionality and equivalent ratios. Proportional relationships have the same ratio between quantities. Equivalent ratios are ratios that give the same relationship when multiplied by the same number. The article provides examples of equivalent ratios in real life and in images. It also introduces the concept of unit rates and the constant of proportionality. It explains that in proportional relationships, increasing or decreasing one quantity affects the other quantity in the same amount. The article concludes by discussing the constants of proportionality in the context of unit conversion between centimeters and millimeters."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

@@ -1,6 +1,6 @@
 ---
 title: "02 Multiplication and Division of Rational Numbers"
-description: "Multiply and divide rational numbers"
+description: "Multiplication of rational numbers involves multiplying the absolute values and adding the sign accordingly. Division is the inverse of multiplication."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

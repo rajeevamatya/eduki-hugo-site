@@ -1,6 +1,6 @@
 ---
 title: "02 Representations of Proportional Relationships"
-description: "Different ways to representations of proportional relationships"
+description: "Equations and Proportional Relationships: This article explains how to represent proportional relationships using equations and the constant of proportionality. It also discusses how equations can be used to find missing values in a table."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

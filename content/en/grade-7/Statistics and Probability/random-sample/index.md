@@ -1,6 +1,6 @@
 ---
 title: "03 Random Sample"
-description: "Random sample"
+description: "Generating a random sample involves assigning unique numbers to each member of a population and using a random number generator to select a sample. Random sampling is fair and unbiased, but the sample mean may vary. Sample size and population variability affect how close the sample mean is to the population mean."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

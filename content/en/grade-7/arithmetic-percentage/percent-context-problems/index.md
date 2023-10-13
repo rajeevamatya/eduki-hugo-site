@@ -1,6 +1,6 @@
 ---
 title: "03 Percent Context Problems"
-description: "Proportional Relationships and Graphs"
+description: "This article discusses percentage contexts such as sales tax and tip. It explains how sales tax is added to the cost of items and is a percentage of the cost paid by the customer. It also explains how tips are added to the cost of a service and are a percentage of the total cost paid by the customer. The article also introduces the concepts of markup and markdown, where the dealership wants to make a profit on the marked price of a vehicle."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

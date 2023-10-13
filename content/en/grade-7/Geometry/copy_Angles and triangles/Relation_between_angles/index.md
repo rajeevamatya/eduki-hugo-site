@@ -1,7 +1,7 @@
 ---
 title: "03 Relation between angles"
-description: ""
-lead: ""
+description: "Adjacent angles share one arm and the vertex. Supplementary angles have a sum of 180°. Complementary angles make up a right angle. Vertical angles are equal."
+lead: "Adjacent angles share one arm and the vertex. Supplementary angles have a sum of 180°. Complementary angles make up a right angle. Vertical angles are equal."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "05 Introduction to Probability"
-description: "Chance experiment, outcomes, events, and probabilities"
+description: "Probability is the branch of mathematics that deals with the likelihood of events occurring. It measures the chances of different outcomes and helps in making decisions under uncertainty. Probability can be used to determine the likelihood of getting a certain outcome in various situations, such as flipping a coin or picking a marble from a jar. It provides a way to quantify the chances of different events happening and helps in making informed decisions."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

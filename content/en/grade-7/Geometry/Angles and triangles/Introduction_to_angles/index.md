@@ -1,7 +1,15 @@
 ---
 title: "01 Introduction to angles"
-description: ""
-lead: ""
+description: "Types of lines: parallel lines never meet, intersecting lines meet at one point. Examples include train tracks and intersecting lines on paper.
+
+Formation of angles: angles are formed when lines intersect. The orientation of the lines determines the size of the angle.
+
+Unit for measuring angles: angles can be measured in degrees using the sexagesimal system. The point where the lines intersect is called the vertex."
+lead: "Types of lines: parallel lines never meet, intersecting lines meet at one point. Examples include train tracks and intersecting lines on paper.
+
+Formation of angles: angles are formed when lines intersect. The orientation of the lines determines the size of the angle.
+
+Unit for measuring angles: angles can be measured in degrees using the sexagesimal system. The point where the lines intersect is called the vertex."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

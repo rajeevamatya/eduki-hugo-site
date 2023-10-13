@@ -1,7 +1,9 @@
 ---
 title: "02 Measurement of angle"
-description: ""
-lead: ""
+description: "Measuring angles with a protractor: Learn how to use a protractor to measure angles and understand different ways to name angles. 
+Types of angles based on magnitudes: Acute angles (0°-90°) and right angles (90°) are categorized based on their size."
+lead: "Measuring angles with a protractor: Learn how to use a protractor to measure angles and understand different ways to name angles. 
+Types of angles based on magnitudes: Acute angles (0°-90°) and right angles (90°) are categorized based on their size."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

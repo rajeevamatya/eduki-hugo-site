@@ -1,6 +1,6 @@
 ---
 title: "03 Percent Context Problems"
-description: "Proportional Relationships and Graphs"
+description: "This article discusses percentage contexts in real-life situations, specifically focusing on sales tax and tip. It explains how sales tax is added to the cost of items and is a percentage of the item's cost, paid by the customer and collected by the government. It also discusses tips as a percentage of the total cost of a service, paid by the customer to the server/establishment. The article provides examples and calculations for both sales tax and tip scenarios. Additionally, it mentions that the next part will cover markups and markdowns."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

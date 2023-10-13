@@ -1,7 +1,7 @@
 ---
 title: "04 Construction of Triangles"
-description: ""
-lead: ""
+description: "Construction of Triangles: Explains how to construct a triangle using the lengths of its sides and the triangle inequality rule."
+lead: "Construction of Triangles: Explains how to construct a triangle using the lengths of its sides and the triangle inequality rule."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false

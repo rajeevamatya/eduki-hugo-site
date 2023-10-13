@@ -1,6 +1,6 @@
 ---
 title: "01 Percent Increase/Decrease"
-description: "Proportional Relationships and Graphs"
+description: "This article explains how to calculate percent increase or decrease using fractions and percentages. It provides examples and visualizations for better understanding."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

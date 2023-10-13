@@ -1,7 +1,7 @@
 ---
 title: "01 Introduction to Scaling"
-description: ""
-lead: ""
+description: "Introduction to scaling: Scaling is the process of making objects smaller or larger to fit on a smaller surface. Scale factor determines if the new figure is bigger or smaller than the original."
+lead: "Introduction to scaling: Scaling is the process of making objects smaller or larger to fit on a smaller surface. Scale factor determines if the new figure is bigger or smaller than the original."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false

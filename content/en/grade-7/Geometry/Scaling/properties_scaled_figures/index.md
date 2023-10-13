@@ -1,7 +1,7 @@
 ---
 title: "02 Properties of Scaled figures"
-description: ""
-lead: ""
+description: "The article discusses the properties of scaled figures, specifically focusing on the relationship between the dimensions and areas of scaled rectangles and trapeziums. It explains that when the dimensions of a rectangle are halved, the area becomes 1/4 of the original, and when the dimensions are doubled, the area becomes 4 times larger. It also highlights the importance of maintaining the same angles in scaled figures and provides an example with trapeziums to demonstrate that the ratio between the sides corresponds to the ratio between the areas, squared."
+lead: "The article discusses the properties of scaled figures, specifically focusing on the relationship between the dimensions and areas of scaled rectangles and trapeziums. It explains that when the dimensions of a rectangle are halved, the area becomes 1/4 of the original, and when the dimensions are doubled, the area becomes 4 times larger. It also highlights the importance of maintaining the same angles in scaled figures and provides an example with trapeziums to demonstrate that the ratio between the sides corresponds to the ratio between the areas, squared."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false
