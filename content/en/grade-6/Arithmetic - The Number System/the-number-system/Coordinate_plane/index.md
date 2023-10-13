@@ -1,6 +1,6 @@
 ---
 title: "04 Negative Numbers and the Coordinate Plane"
-description: "Coordinate plane"
+description: "The article discusses the extension of the coordinate plane to include negative numbers and the construction and interpretation of the coordinate plane."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

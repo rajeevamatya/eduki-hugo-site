@@ -1,6 +1,6 @@
 ---
 title: "03 Perspective when looking at 3D objects"
-description: "We get familiar with 3D objects and perspective"
+description: "When looking at 3D objects, perspective plays a role in how we perceive their shape. Even thin objects have thickness and can appear differently from different angles."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

@@ -1,7 +1,7 @@
 ---
 title: "Introducing Equations"
-description: ""
-lead: ""
+description: "Equations are expressions separated by an equal sign. They can be numerical or algebraic and can be represented using tape diagrams. Solving equations involves finding the value that satisfies both sides of the equation."
+lead: "Equations are expressions separated by an equal sign. They can be numerical or algebraic and can be represented using tape diagrams. Solving equations involves finding the value that satisfies both sides of the equation."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

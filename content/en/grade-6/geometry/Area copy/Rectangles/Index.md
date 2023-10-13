@@ -1,6 +1,6 @@
 ---
 title: "Rectangles"
-description: "We make the process of counting squares easier"
+description: "The area of a rectangle can be found by multiplying its length and width. This formula is useful for avoiding the tedious task of counting squares."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

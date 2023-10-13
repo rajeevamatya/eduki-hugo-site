@@ -1,6 +1,6 @@
 ---
 title: "04 Median and its measure of variability"
-description: "Median and the measure of variability"
+description: "The median is the middle value in a data set, with half of the values being less than or equal to it, and half being greater than or equal to it. When there are two middle values, the median is the mean of those two values. The interquartile range (IQR) is a measure of variability that goes with the median, and it involves dividing the data set into fourths."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

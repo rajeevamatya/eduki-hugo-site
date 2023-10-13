@@ -1,6 +1,6 @@
 ---
 title: "Counting squares"
-description: "We learn to estimate the area by counting squares in different shapes"
+description: "Counting squares can be used to find the area of any shape. This method involves adding squares to cover the shape and counting the complete squares inside. Incomplete squares are estimated with values of 0.75 and 0.25. The same method can be applied to curved shapes. Additionally, the article discusses decomposition and finding the area of different sections in a garden by counting squares."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

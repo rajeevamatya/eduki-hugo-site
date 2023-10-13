@@ -1,6 +1,6 @@
 ---
 title: "02 Multiplication: Fraction as Operator"
-description: "Fraction as operator"
+description: "Finding Fraction of a Quantity: An Introduction. Explains how fractions can be used as operators in multiplication. Provides examples and diagrams."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

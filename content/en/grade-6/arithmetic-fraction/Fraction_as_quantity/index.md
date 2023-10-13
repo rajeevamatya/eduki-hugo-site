@@ -1,6 +1,6 @@
 ---
 title: "01 Multiplication: Fraction as Quantity"
-description: "Fraction as Quantity"
+description: "Multiplying fractions is similar to multiplying whole numbers. We make copies of the second term based on the first term. Block diagrams and number lines can help visualize and solve multiplication problems with fractions."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

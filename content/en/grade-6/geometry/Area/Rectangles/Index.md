@@ -1,6 +1,6 @@
 ---
 title: "04 Rectangles"
-description: "We make the process of counting squares easier"
+description: "The article explains how to find the area of rectangles using a formula. The formula involves multiplying the length and width of the rectangle."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

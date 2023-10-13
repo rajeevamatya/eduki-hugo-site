@@ -1,6 +1,6 @@
 ---
 title: "04 Prisms"
-description: "We get familiar with 3D objects: prisms"
+description: "Area is the space that a 2D object takes up, and for 3D objects, we have something similar called volume. Volume is how much space a 3D object takes up in three different directions. We can find the volume of a box by multiplying the length, width, and height. We can also measure volume in terms of the number of cubes of unit length that can fit inside an object. Prisms are 3D objects made up of polygons and we can find their volume by multiplying the area of the base by the height."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

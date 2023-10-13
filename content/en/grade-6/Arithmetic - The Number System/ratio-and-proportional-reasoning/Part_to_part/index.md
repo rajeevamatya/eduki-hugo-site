@@ -1,6 +1,6 @@
 ---
 title: "04 Generalizing Ratios"
-description: "Different ways to represent ratio"
+description: "Understanding ratios with "parts" instead of physical units. Using tape diagrams or numerical calculations to find the value of each part."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

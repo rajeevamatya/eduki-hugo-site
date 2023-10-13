@@ -1,6 +1,6 @@
 ---
 title: "03 Counting squares"
-description: "We learn to estimate the area by counting squares in different shapes"
+description: "Area of different shapes can be measured using squares. Even irregular shapes can be measured by adding squares to cover the shape. Incomplete squares are assigned values and added to estimate the area. Decomposition can also be used to find the area by counting squares."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

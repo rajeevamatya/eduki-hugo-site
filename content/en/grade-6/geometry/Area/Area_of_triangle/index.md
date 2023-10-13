@@ -1,6 +1,6 @@
 ---
 title: "05 Area of triangle"
-description: "We find the area of a triangle"
+description: "Triangles can be divided into right-angled and other types. The area of a right-angled triangle is half the area of a rectangle. For other triangles, the area is half the area of a parallelogram."
 lead: ""
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

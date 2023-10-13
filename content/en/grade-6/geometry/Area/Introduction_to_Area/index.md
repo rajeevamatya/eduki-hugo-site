@@ -1,6 +1,6 @@
 ---
 title: "01 Introducing Area"
-description: "We get familiar with the term area and the unit to measure it"
+description: "Area is a concept that measures the amount of space occupied by a shape. It is important in mathematics and is used to measure surfaces."
 lead: ""
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

@@ -1,7 +1,7 @@
 ---
 title: "Relation between two quantities"
-description: ""
-lead: ""
+description: "Equations can be used to relate two quantities. For example, the price of pens is twice the number of pens. The number of candies each student gets is determined by the total number of candies and the number of students. The relationship between the two quantities can be expressed using equations. The same applies to the number of professors and students in a university. The equation can be written in different forms, but it doesn't affect the relationship between the two quantities. Another example is the height and width of a window, where the height is 6 inches less than the width."
+lead: "Equations can be used to relate two quantities. For example, the price of pens is twice the number of pens. The number of candies each student gets is determined by the total number of candies and the number of students. The relationship between the two quantities can be expressed using equations. The same applies to the number of professors and students in a university. The equation can be written in different forms, but it doesn't affect the relationship between the two quantities. Another example is the height and width of a window, where the height is 6 inches less than the width."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "04 Solving third type of percent problem: Finding percentage"
-description: "Solving percent problems numerically"
+description: "Finding the percentage of a given value using ratios and equivalent fractions. Can be solved numerically or using tables and double number lines."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

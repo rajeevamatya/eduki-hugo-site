@@ -1,6 +1,7 @@
 ---
 title: "06 Polygons"
-description: "We derive the techniques of finding the area of different polygons"
+description: "A polygon is a closed shape made up of straight lines. It must have at least three sides. The number of sides determines the name of the polygon. 
+To find the area of a trapezium, it can be broken down into a triangle and a rectangle, making it easier to calculate the area."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

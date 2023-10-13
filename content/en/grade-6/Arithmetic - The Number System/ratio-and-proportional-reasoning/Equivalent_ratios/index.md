@@ -1,6 +1,6 @@
 ---
 title: "02 Equivalent Ratios"
-description: "Equivalent Ratios"
+description: "Understanding equivalent ratios and how they maintain the same relationship. Examples include flower shapes and lemonade recipes."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

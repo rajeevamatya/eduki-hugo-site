@@ -1,6 +1,6 @@
 ---
 title: "05 Unit Conversion and Scaling"
-description: "Using ratios for unit conversion and scaling"
+description: "Unit conversions: Using ratios to convert from one unit to another, such as converting feet to inches. Scaling: Decreasing measurements proportionally, like making a model of a bridge. Maps: Using scales to determine distances between locations based on the map."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

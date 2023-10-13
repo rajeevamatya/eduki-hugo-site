@@ -1,6 +1,8 @@
 ---
 title: "02 Distribution of Data"
-description: "Distribution of data"
+description: "Distribution of Data: This article explains the concept of data distribution and how to analyze it using graphs, tables, and numerical summaries. It also discusses the importance of understanding the center, spread, and shape of the distribution. 
+
+Summarizing Data Set: This article discusses the use of frequency distribution tables to visualize and analyze data. It explains how to create a frequency table and the importance of understanding the frequency of each data value."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

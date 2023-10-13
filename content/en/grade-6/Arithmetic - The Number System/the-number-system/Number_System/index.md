@@ -1,6 +1,6 @@
 ---
 title: "01 Computations of Multi-digit Numbers"
-description: "Computing multi-digit numbers"
+description: "Learn how to divide multi-digit whole numbers using long division and how to add and subtract multi-digit decimals by place value."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

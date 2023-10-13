@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Expressions"
-description: ""
-lead: ""
+description: "Expressions are a way of expressing things in mathematics. They can be numerical or algebraic and involve operators and variables."
+lead: "Expressions are a way of expressing things in mathematics. They can be numerical or algebraic and involve operators and variables."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "03 Negative Numbers"
-description: "Negative numbers"
+description: "Given a pile of coins, the article explains the concept of negative numbers by using subtraction. It also discusses the need for negative numbers in real-life situations like temperature and elevations. The article then extends the number line to include negative numbers and explains their placement in relation to zero."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
