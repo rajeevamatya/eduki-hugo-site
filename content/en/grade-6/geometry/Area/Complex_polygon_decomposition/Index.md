@@ -6,7 +6,7 @@ date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false
 images: []
-weight: 660
+weight: 280
 toc: true
 ---
 ## Finding area using decomposition (complex shapes)
