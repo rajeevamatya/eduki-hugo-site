@@ -1,6 +1,6 @@
 ---
 title: "01 Multiplication: Fraction as Quantity"
-description: "Fraction as Quantity"
+description: "Multiplication of fractions is explored by understanding the concept of making copies of unit fractions and fractions. Real-life diagrams and block diagrams are used to represent fractions visually. Number lines are introduced as a tool to show multiplication of fractions. The process of multiplying whole numbers with any kind of fraction is also explained using visual representations."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

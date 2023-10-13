@@ -1,6 +1,6 @@
 ---
 title: "03 Forming expressions"
-description: ""
+description: "Expressions help simplify complex situations and convey mathematical meaning. Understanding operators and word meanings is crucial in forming expressions. PEMDAS is a tool to simplify expressions by following a specific order of operations."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

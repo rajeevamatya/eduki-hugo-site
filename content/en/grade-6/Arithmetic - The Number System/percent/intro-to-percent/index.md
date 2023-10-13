@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to Percentage"
-description: "Intro to percent"
+description: "Unit rates are introduced as a way to find the price of one quantity for a given amount of another quantity. This concept is then used to introduce the idea of percentages, which represent a rate per 100. The value of a coin is expressed as a percentage of a dollar based on the number of cents it is worth."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

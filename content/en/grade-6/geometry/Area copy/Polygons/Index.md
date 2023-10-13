@@ -1,6 +1,6 @@
 ---
 title: "Polygons"
-description: "We derive the techniques of finding the area of different polygons"
+description: "A polygon is a closed figure made of straight lines. It must have multiple sides and cannot be made up of curved lines. The number of sides determines its name. A trapezium can be decomposed into a triangle and a rectangle to find its area."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

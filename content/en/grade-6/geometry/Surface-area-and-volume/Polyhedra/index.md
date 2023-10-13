@@ -1,6 +1,6 @@
 ---
 title: "02 What are polyhedra?"
-description: "We get familiar with polyhedra"
+description: "Polyhedra are 3D objects with only flat surfaces. They can be divided into two types based on the shape of their faces: pyramids and cuboids."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

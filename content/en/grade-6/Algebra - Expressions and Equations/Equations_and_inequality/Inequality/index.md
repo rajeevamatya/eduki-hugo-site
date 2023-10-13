@@ -1,7 +1,7 @@
 ---
 title: "03 Inequalities"
-description: ""
-lead: ""
+description: "Inequalities are similar to equations, but use symbols like <, >, ≤, or ≥. They have multiple possible answers. Inequalities can be solved using the same rules as equations. The solution to an inequality is not just one number, but a range of numbers. A test point can be used to determine the solution. The method of replacing the equal sign with the inequality sign works most of the time, but not always. Negative numbers in inequalities may require switching the inequality sign. The solution can vary depending on whether the inequality includes an equal sign."
+lead: " "
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

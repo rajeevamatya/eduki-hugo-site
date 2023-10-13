@@ -1,6 +1,6 @@
 ---
 title: "05 Mean vs Median"
-description: "Mean vs median: which one to choose?"
+description: "Mean and median are both measures of center in a distribution. Mean is affected by extreme values, while median is not. The choice depends on shape and outliers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

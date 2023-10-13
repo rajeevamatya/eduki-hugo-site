@@ -1,6 +1,6 @@
 ---
 title: "03 Division: Dividing by Whole Number"
-description: "Fraction for Grade 6"
+description: "Dividing fractions by whole numbers using the partition model. Examples of dividing whole numbers and fractions using block diagrams."
 lead: ""
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00

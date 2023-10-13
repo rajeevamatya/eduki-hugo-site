@@ -1,6 +1,6 @@
 ---
 title: "03 Division: Dividing by Whole Number"
-description: "Fraction for Grade 6"
+description: "Dividing by whole numbers is explained using the partition model. The concept is then applied to dividing fractions by whole numbers."
 lead: ""
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00

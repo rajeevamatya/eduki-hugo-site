@@ -1,7 +1,7 @@
 ---
 title: "Equivalent Expressions"
-description: ""
-lead: ""
+description: "The article discusses equivalent expressions in algebra. It explains how to obtain simpler expressions through symbolic transformation and the use of properties like the distributive property and commutative property. Equivalent expressions are those that have the same value for all values of the variable. The article provides examples and explanations to illustrate the concept."
+lead: "The article discusses equivalent expressions in algebra. It explains how to obtain simpler expressions through symbolic transformation and the use of properties like the distributive property and commutative property. Equivalent expressions are those that have the same value for all values of the variable. The article provides examples and explanations to illustrate the concept."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "02 Unit For Measuring Area"
-description: "We get familiar with the unit to measure area"
+description: "Unit used to measure area. The unit of measurement for area is "square units". The size of the square used doesn't matter as long as it's consistent. Different methods can yield different numerical results, but they are all correct in terms of finding the area of the shape. The choice of unit for measuring area can result in different numerical values, but it doesn't change the actual area of the shape being measured."
 lead: ""
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

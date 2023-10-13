@@ -1,6 +1,8 @@
 ---
 title: "01 Introduction to Ratio"
-description: "Intorduction to Ratio"
+description: "Introduction to Ratio: Explains the concept of ratios and how they can be represented using diagrams, sentences, and numbers. Also discusses simplifying ratios and representing them fractionally.
+
+Part to part and part to whole: Uses an example of a grid filled with different colors to explain the concept of part-to-part and part-to-whole ratios."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

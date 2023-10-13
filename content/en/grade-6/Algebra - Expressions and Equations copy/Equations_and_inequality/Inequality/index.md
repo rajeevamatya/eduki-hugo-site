@@ -1,7 +1,7 @@
 ---
 title: "Inequalities"
-description: ""
-lead: ""
+description: "Inequalities are similar to equations, but instead of an equal sign, they use signs like >, <, ≤, or ≥. Inequalities can have multiple solutions. Solving inequalities involves converting them into equations and using the same steps. The solution to an inequality is a boundary point, and the solution set can be greater than or less than the boundary point. A test point is used to determine which side of the boundary point is the solution. In this example, the solution is 𝑥 > 4."
+lead: "Inequalities are similar to equations, but instead of an equal sign, they use signs like >, <, ≤, or ≥. Inequalities can have multiple solutions. Solving inequalities involves converting them into equations and using the same steps. The solution to an inequality is a boundary point, and the solution set can be greater than or less than the boundary point. A test point is used to determine which side of the boundary point is the solution. In this example, the solution is 𝑥 > 4."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

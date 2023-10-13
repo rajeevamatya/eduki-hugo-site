@@ -1,6 +1,6 @@
 ---
 title: "04 Division: Dividing by Fraction"
-description: "Fraction for Grade 6"
+description: "Dividing a fraction by a fraction is explained using examples of dividing whole numbers and stacks of books with different thicknesses. The greater the divisor, the smaller the quotient. The division of a fraction by any fraction follows the same concept."
 lead: ""
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
