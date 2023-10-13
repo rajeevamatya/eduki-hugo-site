@@ -12,6 +12,8 @@ toc: true
 
 ## What are benchmark percentages? ????!!!!!
 
+TESTING
+
 Let’s go back to fractions for a little bit here. When talking about fractions and in the process of getting more familiar with the topic, we got used to the idea of ½ being half, ¼ being quarter, etc. These were benchmark fractions that helped us compare others as well as easily solve questions. 
 
 For example, ½ of 10 can be easily thought of as 5, since ½ of 10 means half of 10. 
