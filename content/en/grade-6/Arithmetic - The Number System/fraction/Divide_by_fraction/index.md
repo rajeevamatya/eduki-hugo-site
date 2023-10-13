@@ -1,6 +1,6 @@
 ---
 title: "04 Division: Dividing by Fraction"
-description: "Dividing a fraction by a fraction is explained using examples of dividing whole numbers and dividing fractions. The concept of division is applied to find the number of books in a stack based on their thickness. The greater the divisor, the smaller the quotient. The same concept is then applied to dividing a fraction by any fraction. The block diagram is used to visualize the division process. The equation "number of parts x size of each part = total amount" is used to understand division as finding missing factors. Different types of division questions are explored."
+description: "Dividing a fraction by a fraction is explained using examples of dividing whole numbers and dividing fractions. The concept of division is applied to find the number of books in a stack based on their thickness. The greater the divisor, the smaller the quotient. The same concept is then applied to dividing a fraction by any fraction. The block diagram is used to visualize the division process. "
 lead: ""
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
