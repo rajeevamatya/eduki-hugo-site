@@ -1,6 +1,6 @@
 ---
 title: "05 Area of triangle"
-description: "Triangles can be divided into right-angled and other types. The area of a right-angled triangle is half the area of a rectangle. The area of any triangle can be found using the formula ½ x base x height."
+description: "Area of a triangle can be found by multiplying the base and height and dividing by 2. This formula works for all types of triangles."
 lead: ""
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

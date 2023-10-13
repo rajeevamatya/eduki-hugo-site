@@ -1,6 +1,6 @@
 ---
 title: "05 Mean vs Median"
-description: "Mean and median are both measures of center in a distribution, but they can provide different information. The mean is the balance point of the data, while the median splits the data in half. When a distribution is symmetrical, both measures are close, but when it is skewed, they can be farther apart. The choice between mean and median depends on the shape of the distribution and the presence of outliers."
+description: "Mean and median are both measures of the center of a distribution, but they can provide different information. The mean is the balance point of the data, while the median represents the middle value. The choice between mean and median depends on the shape of the distribution and the presence of outliers. In symmetrical distributions, both mean and median are close, but in skewed distributions, they can be far apart."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

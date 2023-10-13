@@ -1,6 +1,6 @@
 ---
 title: "03 Division: Dividing by Whole Number"
-description: "This article discusses division of whole numbers and fractions. It explains the partition model of division and how to represent division using block diagrams. It also demonstrates how to divide fractions by whole numbers using the same concept."
+description: "This article discusses division of whole numbers and fractions using the partition model. It explains how to represent division using block diagrams."
 lead: ""
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00

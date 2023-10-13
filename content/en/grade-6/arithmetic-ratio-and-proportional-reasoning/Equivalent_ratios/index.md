@@ -1,6 +1,6 @@
 ---
 title: "02 Equivalent Ratios"
-description: "Understanding equivalent ratios and how they maintain the same relationship between quantities when multiplied by the same number. Examples include flower diagrams and lemonade recipes."
+description: "Understanding equivalent ratios and how they maintain the same relationship between quantities when multiplied by the same number. Examples and diagrams provided."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

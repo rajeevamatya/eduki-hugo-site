@@ -1,6 +1,6 @@
 ---
 title: "02 Multiplication: Fraction as Operator"
-description: "Finding Fraction of a Quantity: An Introduction. Explains how to express multiplication as finding the area of a rectangle with a fraction and a whole number."
+description: "Finding the fraction of a quantity is equivalent to multiplying the fraction by the whole number. The fraction acts as the operator."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

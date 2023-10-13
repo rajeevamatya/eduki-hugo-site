@@ -1,6 +1,6 @@
 ---
 title: "03 Mean and its measure of variability"
-description: "The article discusses the concept of mean as a measure of center of distribution. It explains the mean as a fair share or leveling out and as the balance point of distribution."fair share" or the balance point."
+description: "The article discusses the concept of mean as a measure of center of distribution. It explains the two ways to understand the mean - as a "fair share" or "leveling out" and as the balance point of the distribution. Examples are provided to illustrate these concepts."fair share" or the balance point."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

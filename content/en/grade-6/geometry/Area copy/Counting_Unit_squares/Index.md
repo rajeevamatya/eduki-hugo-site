@@ -1,6 +1,8 @@
 ---
 title: "Counting squares"
-description: "Area of different shapes and how to count unit squares to find their area. Method I involves adding squares to cover the shape and counting complete squares inside. Decomposition involves counting squares to find the area of different parts and the total area of a garden."
+description: "Counting squares: Explains how to find the area of irregular shapes by counting squares and estimating the area of incomplete squares.
+
+Decomposition: Demonstrates how to find the area of a garden by counting squares and discusses the concept of adding the areas of different parts."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

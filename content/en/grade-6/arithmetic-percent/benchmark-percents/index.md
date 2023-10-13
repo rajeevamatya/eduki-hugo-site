@@ -1,6 +1,6 @@
 ---
 title: "05 Benchmark Percentages"
-description: "Benchmark percentages are percentages that serve as reference points for solving problems. For example, 25% is equivalent to 1/4, 50% is equivalent to 1/2, and 75% is equivalent to 3/4. These benchmarks can be used to easily find percentages of a given value. Additionally, benchmarks can be used to find the total value when a percentage is given. By understanding the relationship between percentages and fractions, solving percentage problems becomes much simpler."
+description: "Benchmark percentages are commonly used percentages that make solving problems easier. Examples include 25% as 1/4, 50% as 1/2, and 75% as 3/4. These benchmarks can be used to find percentages of values and solve problems."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

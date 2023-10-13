@@ -1,6 +1,6 @@
 ---
 title: "06 Net Diagrams"
-description: "Net diagrams are 2D representations of 3D objects that show all the faces of the object when unfolded. They help us understand the shape and find the surface area."
+description: "Net diagrams are 2D representations of 3D objects that help us understand their shape and find their surface area by breaking them down into 2D shapes."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

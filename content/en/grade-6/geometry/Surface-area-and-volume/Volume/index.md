@@ -1,6 +1,6 @@
 ---
 title: "04 Prisms"
-description: "Volume is the amount of space a 3D object occupies. It can be found by multiplying the area of the base by the height. Prisms are 3D objects with polygonal bases. The volume of a prism can be calculated by multiplying the base area by the height."
+description: "Volume is the amount of space a 3D object takes up. Prisms are 3D objects made up of the same shape and size polygons. Volume can be found by multiplying the length, width, and height of the object. The unit of volume depends on the unit of length. The number of small cubes inside an object can also represent its volume. Prisms can have different shapes as bases, and their volume can be found by multiplying the base area by the height."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

@@ -1,6 +1,6 @@
 ---
 title: "03 Solving Percent Problems Numerically : Finding Whole and Amount"
-description: "This article explains how to solve percent problems numerically by finding the whole and the amount. It provides examples and step-by-step explanations."
+description: "This article explains how to solve percent problems numerically by finding the value of percentages as well as the whole based on the percent given. It provides examples and equations to demonstrate the process."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

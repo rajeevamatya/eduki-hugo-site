@@ -1,7 +1,7 @@
 ---
 title: "Forming expressions"
-description: "Expressions are used to simplify complex contexts. PEMDAS helps determine the order of operations in expressions. Variables are represented by letters."
-lead: "Expressions are used to simplify complex contexts. PEMDAS helps determine the order of operations in expressions. Variables are represented by letters."
+description: "Expressions are used to simplify complex contexts in math. PEMDAS helps determine the order of operations. Variables are represented by letters."
+lead: "Expressions are used to simplify complex contexts in math. PEMDAS helps determine the order of operations. Variables are represented by letters."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "03 Forming expressions"
-description: "Expressions help simplify complex situations and provide a mathematical way to understand them. PEMDAS is used to simplify expressions."
+description: "Expressions are used to simplify complex situations. They involve operators like addition, subtraction, and multiplication. PEMDAS helps simplify expressions by determining the order of operations."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
