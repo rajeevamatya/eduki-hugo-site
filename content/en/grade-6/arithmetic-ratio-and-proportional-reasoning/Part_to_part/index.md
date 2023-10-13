@@ -1,6 +1,6 @@
 ---
 title: "04 Generalizing Ratios"
-description: "The article explains how to generalize ratios using "parts" and "wholes". It provides examples using tape diagrams and numerical calculations."
+description: "This article explains how to generalize ratios using "parts" instead of physical units. It provides examples and diagrams to illustrate the concept."parts" and "wholes". It provides examples using tape diagrams and numerical calculations."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

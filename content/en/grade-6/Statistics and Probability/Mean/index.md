@@ -1,6 +1,6 @@
 ---
 title: "03 Mean and its measure of variability"
-description: "The mean is a numerical summary that represents the center of a distribution. It can be thought of as a "fair share" or the balance point."
+description: "The article discusses the concept of mean as a measure of center and variability in a distribution. It explains the mean as a fair share or leveling out of values and as the balance point of a distribution. Examples are provided to illustrate these concepts."fair share" or the balance point."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

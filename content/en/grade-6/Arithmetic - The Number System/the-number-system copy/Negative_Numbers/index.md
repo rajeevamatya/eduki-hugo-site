@@ -1,6 +1,6 @@
 ---
 title: "03 Negative Numbers"
-description: "Given a pile of coins, the article explains the concept of negative numbers by using subtraction. It also discusses the need for negative numbers in real-life situations like temperature and elevations. The article then extends the number line to include negative numbers and explains their placement in relation to zero."
+description: "Negative numbers are numbers less than zero and are used to represent certain situations like temperature, elevation, and money in and out of accounts. The number line is extended to the left of zero to represent negative numbers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

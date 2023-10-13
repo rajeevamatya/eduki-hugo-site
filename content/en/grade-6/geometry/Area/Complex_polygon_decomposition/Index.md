@@ -1,6 +1,6 @@
 ---
 title: "07 Decomposition Of Complex Polygon"
-description: "We can find the area of complex shapes by breaking them down into smaller shapes and rearranging them. This method can be applied to any polygon."
+description: "Finding the area of complex shapes using decomposition. Break down the shape into smaller shapes and add their areas together."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

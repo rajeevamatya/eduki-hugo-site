@@ -1,6 +1,6 @@
 ---
 title: "03 Counting squares"
-description: "Area of different shapes can be measured using squares. Even irregular shapes can be measured by adding squares to cover the shape. Incomplete squares are assigned values and added to estimate the area. Decomposition can also be used to find the area by counting squares."
+description: "The article explains how to count unit squares to measure the area of different shapes, including irregular shapes. It also discusses decomposition to find the total area of a garden by adding the areas of different sections."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

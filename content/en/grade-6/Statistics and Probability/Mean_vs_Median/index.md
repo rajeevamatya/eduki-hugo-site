@@ -1,6 +1,6 @@
 ---
 title: "05 Mean vs Median"
-description: "Mean and median are both measures of center in a distribution. Mean is affected by extreme values, while median is not. The choice depends on shape and outliers."
+description: "Mean and median are both measures of center in a distribution, but they can provide different insights. Mean is influenced by extreme values, while median is not. In symmetrical distributions, mean and median are close, but in skewed distributions, they can differ significantly. The choice between mean and median depends on the shape of the distribution and the presence of outliers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

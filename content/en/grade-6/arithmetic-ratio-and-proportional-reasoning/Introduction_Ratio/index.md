@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to Ratio"
-description: "Ratios are associations between quantities and can be expressed in multiple ways. They can be represented using diagrams, sentences, and numbers. Ratios can also be written as fractions. Additionally, ratios can be simplified by finding the highest common factor. Another concept related to ratios is part-to-part and part-to-whole ratios, which involve the relationship between different parts of a whole."
+description: "Introduction to Ratio: This article explains what ratios are and how they can be represented using diagrams, sentences, and numbers. It also discusses the concept of part-to-part and part-to-whole ratios."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
