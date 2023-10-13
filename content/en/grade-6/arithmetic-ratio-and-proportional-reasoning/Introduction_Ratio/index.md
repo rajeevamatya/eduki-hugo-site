@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction to Ratio"
-description: "Introduction to Ratio: This article explains what ratios are and how they can be represented using diagrams, sentences, and numbers. It also discusses the concept of part-to-part and part-to-whole ratios."
+description: "This article introduces the concept of ratios and how they can be represented using diagrams, sentences, and numbers. It explains that a ratio is an association between two or more quantities and can be expressed using a colon. The article also discusses how ratios can be simplified by grouping them into smaller groups and finding the highest common factor. Additionally, it mentions that a ratio can be written in fractional form, but a ratio and a fraction are not the same. The article also briefly touches on the concept of part-to-part ratios, using an example of a grid filled with different colors."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

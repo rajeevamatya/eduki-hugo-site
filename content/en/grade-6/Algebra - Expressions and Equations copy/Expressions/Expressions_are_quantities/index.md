@@ -1,7 +1,7 @@
 ---
 title: "Expressions are Quantities"
-description: "Expressions, whether numerical or algebraic, always represent quantities. They can be evaluated by substituting variables with known values. Tables can be used to show the relationship between variables and their corresponding quantities. The parts of an expression also represent separate quantities. Expressions can be added or combined to represent a single value."
-lead: "Expressions, whether numerical or algebraic, always represent quantities. They can be evaluated by substituting variables with known values. Tables can be used to show the relationship between variables and their corresponding quantities. The parts of an expression also represent separate quantities. Expressions can be added or combined to represent a single value."
+description: "Expressions, whether numerical or algebraic, represent quantities. They can be evaluated by substituting variables with known values. Tables can also be used to show the relationship between variables and their corresponding values. The parts of an expression also represent quantities, such as the price of a pen or notebook. Expressions can be added or combined to represent a single value."
+lead: "Expressions, whether numerical or algebraic, represent quantities. They can be evaluated by substituting variables with known values. Tables can also be used to show the relationship between variables and their corresponding values. The parts of an expression also represent quantities, such as the price of a pen or notebook. Expressions can be added or combined to represent a single value."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "01 Introducing Area"
-description: "Area is introduced as a way to measure the space occupied by a shape. It is compared to measuring length using a unit of measurement."
+description: "Area is introduced as a way to measure the space occupied by a shape. It is compared to measuring length using a standard unit."
 lead: ""
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

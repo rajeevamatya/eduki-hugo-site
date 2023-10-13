@@ -1,6 +1,6 @@
 ---
 title: "05 Pyramids"
-description: "Pyramids are 3D shapes with a square or hexagonal base and triangular faces that meet at a point called the apex. The surface area is found by adding up the areas of all the faces, and the volume can be found by comparing it to a prism with the same base."
+description: "Pyramids are 3D shapes with a square or hexagonal base and triangular faces that meet at a point called the apex. The surface area of a pyramid is found by adding up the areas of all the faces, while the volume can be compared to a prism with the same base. The total surface area of a pyramid is equal to 1/2 times the slant height times the perimeter of the base plus the area of the base."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

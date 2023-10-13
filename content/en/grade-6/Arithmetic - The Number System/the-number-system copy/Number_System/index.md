@@ -1,6 +1,6 @@
 ---
 title: "01 Computations of Multi-digit Numbers"
-description: "In this article, we learn about dividing multi-digit whole numbers and adding and subtracting multi-digit decimals."
+description: "In this article, we learn about division of multi-digit whole numbers and addition/subtraction of multi-digit decimals."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

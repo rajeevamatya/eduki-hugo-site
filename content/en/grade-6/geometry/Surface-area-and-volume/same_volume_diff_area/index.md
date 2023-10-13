@@ -1,6 +1,6 @@
 ---
 title: "07 More on Volumes and Surface Areas"
-description: "Objects with the same volume can have different surface areas. Similarly, objects with the same surface area can have different volumes. Measuring area and volume is important for determining how much can fit inside an object and how much area needs to be covered."
+description: "Objects with the same volume can have different surface areas. The surface area and volume of 3D objects are important for various applications."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

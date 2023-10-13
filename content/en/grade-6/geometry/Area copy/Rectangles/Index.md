@@ -1,6 +1,6 @@
 ---
 title: "Rectangles"
-description: "The article explains how to find the area of a rectangle using the formula length x width. It also shows how to visualize the process using unit squares."
+description: "The article explains how to find the area of a rectangle using the formula length x width. It also shows examples and visual representations."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

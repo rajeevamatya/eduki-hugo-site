@@ -1,6 +1,6 @@
 ---
 title: "04 Equivalent Expressions"
-description: "Equivalent expressions are obtained through symbolic transformations, allowing us to simplify and understand algebraic expressions. Properties like the distributive and commutative properties help in these transformations. The distributive property allows expressions under multiplication/division to be written as addition/subtraction. The commutative property states that order can be switched in addition and multiplication operations. However, it does not hold for subtraction and division."
+description: "This article explains the concept of equivalent expressions and how to use symbolic transformations to find them. It also discusses the distributive property and the commutative property as properties that can be used for symbolic transformations."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

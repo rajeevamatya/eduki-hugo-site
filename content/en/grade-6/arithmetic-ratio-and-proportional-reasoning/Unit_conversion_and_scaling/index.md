@@ -1,6 +1,6 @@
 ---
 title: "05 Unit Conversion and Scaling"
-description: "Unit conversions involve using ratios to convert from one unit to another. For example, 20 feet is equal to 240 inches. Scaling is used in maps and architectural structures to create smaller models. By decreasing measurements proportionally, we can determine the corresponding measurements in the real structure."
+description: "Unit conversions are explained using ratios, such as converting feet to inches. Scaling is also discussed, especially in maps and models, using ratios to determine measurements in real structures."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

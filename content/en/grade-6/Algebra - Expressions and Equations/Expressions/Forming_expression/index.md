@@ -1,6 +1,6 @@
 ---
 title: "03 Forming expressions"
-description: "Expressions help simplify complex situations and provide mathematical information. Operators in expressions translate statements. PEMDAS helps simplify expressions by determining the order of operations."
+description: "Expressions help simplify complex situations and provide a mathematical way to understand them. PEMDAS is used to simplify expressions."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
