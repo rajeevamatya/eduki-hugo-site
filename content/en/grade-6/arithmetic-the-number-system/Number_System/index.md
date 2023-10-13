@@ -1,6 +1,6 @@
 ---
 title: "01 Operations on Numbers"
-description: "Computing multi-digit numbers"
+description: "Learn how to divide multi-digit whole numbers using long division. Also, learn how to add and subtract multi-digit decimals by lining up the decimal points."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
