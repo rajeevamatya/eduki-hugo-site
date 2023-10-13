@@ -1,6 +1,8 @@
 ---
 title: "02 Conversion Between Rational Numbers and Decimals"
-description: "Conversion between rational and decimal numbers"
+description: "Decimal Expansion of Rational Numbers: This article explains how all rational numbers can be written as decimals, either terminating or repeating.
+
+Converting decimals into the form a/b: This article discusses how to convert decimals into the form of a fraction, which is useful for understanding rational numbers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

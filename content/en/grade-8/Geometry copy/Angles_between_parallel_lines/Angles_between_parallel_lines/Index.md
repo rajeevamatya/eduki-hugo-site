@@ -1,7 +1,7 @@
 ---
 title: "Angles between parallel lines"
-description: ""
-lead: ""
+description: "Angles between parallel lines are determined by a transversal. There are different types of angles formed, such as vertically opposite, supplementary, corresponding, alternate, and co-interior angles. These angles have specific relationships and can be used to find the values of other angles."
+lead: "Angles between parallel lines are determined by a transversal. There are different types of angles formed, such as vertically opposite, supplementary, corresponding, alternate, and co-interior angles. These angles have specific relationships and can be used to find the values of other angles."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

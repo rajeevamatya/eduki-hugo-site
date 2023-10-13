@@ -1,7 +1,7 @@
 ---
 title: "Dilation"
-description: ""
-lead: ""
+description: "Dilation is a non-rigid transformation where the shape of an object remains the same but its size changes. It is achieved by scaling up or down the object from a center point. The scale factor determines the size change, and similar shapes have proportional relationships between corresponding sides."
+lead: "Dilation is a non-rigid transformation where the shape of an object remains the same but its size changes. It is achieved by scaling up or down the object from a center point. The scale factor determines the size change, and similar shapes have proportional relationships between corresponding sides."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

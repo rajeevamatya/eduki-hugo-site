@@ -1,7 +1,7 @@
 ---
 title: "Slope"
-description: ""
-lead: ""
+description: "The article explains the concept of slope and how it is used to measure the inclination between two lines. It also discusses the significance of slope in different types of lines and how to calculate it using the formula (y2-y1)/(x2-x1). The article also mentions that equations can be used to define all the points on a line without having to list them individually."
+lead: "The article explains the concept of slope and how it is used to measure the inclination between two lines. It also discusses the significance of slope in different types of lines and how to calculate it using the formula (y2-y1)/(x2-x1). The article also mentions that equations can be used to define all the points on a line without having to list them individually."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

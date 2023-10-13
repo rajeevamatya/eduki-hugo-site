@@ -1,7 +1,7 @@
 ---
 title: "02 Reflection"
-description: ""
-lead: ""
+description: "Reflection is a rigid transformation used in geometry where shapes are moved or flipped around a specific line called the axis of reflection. It helps us understand symmetry and can be used to find the line of symmetry in objects."
+lead: "Reflection is a rigid transformation used in geometry where shapes are moved or flipped around a specific line called the axis of reflection. It helps us understand symmetry and can be used to find the line of symmetry in objects."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

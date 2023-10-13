@@ -1,7 +1,7 @@
 ---
 title: "02 Angles in a polygon"
-description: ""
-lead: ""
+description: "A polygon is a closed figure formed with straight sides. A triangle has 3 sides, a quadrilateral has 4, and a pentagon has 5. The angles of a triangle add up to 180 degrees. Triangles can be classified based on angles (acute, obtuse, right) and sides (scalene, isosceles, equilateral)."
+lead: "A polygon is a closed figure formed with straight sides. A triangle has 3 sides, a quadrilateral has 4, and a pentagon has 5. The angles of a triangle add up to 180 degrees. Triangles can be classified based on angles (acute, obtuse, right) and sides (scalene, isosceles, equilateral)."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

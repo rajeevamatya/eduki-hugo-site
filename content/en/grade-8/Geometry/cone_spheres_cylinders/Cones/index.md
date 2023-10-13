@@ -1,7 +1,7 @@
 ---
 title: "02 Cones"
-description: ""
-lead: ""
+description: "Cones are like the pyramid version of a prism. The bottom is a circle and the height is the distance from the center to the top. The surface area is πrl and the volume is 1/3 of the volume of a cylinder."
+lead: "Cones are like the pyramid version of a prism. The bottom is a circle and the height is the distance from the center to the top. The surface area is πrl and the volume is 1/3 of the volume of a cylinder."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

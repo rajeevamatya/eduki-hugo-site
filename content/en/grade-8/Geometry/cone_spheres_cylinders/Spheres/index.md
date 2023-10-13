@@ -1,7 +1,7 @@
 ---
 title: "03 Spheres"
-description: ""
-lead: ""
+description: "A sphere is a 3D object with a curved surface and no flat faces. Its surface area is equal to the curved surface area of a cylinder that encloses it. The volume of a sphere is (4/3) x πr^3."
+lead: "A sphere is a 3D object with a curved surface and no flat faces. Its surface area is equal to the curved surface area of a cylinder that encloses it. The volume of a sphere is (4/3) x πr^3."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

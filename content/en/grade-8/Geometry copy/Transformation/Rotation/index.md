@@ -1,7 +1,7 @@
 ---
 title: "Rotation"
-description: ""
-lead: ""
+description: "Rotation is the act of turning an object by a certain angle around a fixed point. It can be clockwise or anticlockwise."
+lead: "Rotation is the act of turning an object by a certain angle around a fixed point. It can be clockwise or anticlockwise."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

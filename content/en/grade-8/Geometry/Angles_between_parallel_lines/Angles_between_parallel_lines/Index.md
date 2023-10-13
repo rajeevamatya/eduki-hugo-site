@@ -1,7 +1,7 @@
 ---
 title: "01 Angles between parallel lines"
-description: ""
-lead: ""
+description: "Angles between parallel lines are explored in this article. It discusses the different types of angles formed by a transversal cutting through parallel lines, including vertically opposite angles, supplementary angles, corresponding angles, alternate angles, and co-interior angles. The article provides examples and explanations for each type of angle and how they relate to each other."
+lead: "Angles between parallel lines are explored in this article. It discusses the different types of angles formed by a transversal cutting through parallel lines, including vertically opposite angles, supplementary angles, corresponding angles, alternate angles, and co-interior angles. The article provides examples and explanations for each type of angle and how they relate to each other."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

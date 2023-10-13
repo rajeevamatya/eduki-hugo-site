@@ -1,6 +1,7 @@
 ---
 title: "03 Irrational Numbers"
-description: "Irrational Numbers"
+description: "Introduction to Irrational Numbers: This article discusses the discovery of irrational numbers by a Pythagorean follower and their properties.
+Approximation and Decimal Expansion: This article explains how to approximate irrational numbers as rational numbers using whole number squares."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

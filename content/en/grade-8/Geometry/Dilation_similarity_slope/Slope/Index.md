@@ -1,7 +1,7 @@
 ---
 title: "03 Slope"
-description: ""
-lead: ""
+description: "The article explains the concept of slope in mathematics and how it is used to measure the inclination and compare the steepness of different lines. It also discusses the significance of slope in determining the distance traveled in the horizontal direction for a given vertical distance. The article mentions that a horizontal line has a slope of 0, while a vertical line has an undefined slope. It also explains how negative slopes indicate a downward inclination and how parallel lines have the same slope, while intersecting lines have different slopes."
+lead: "The article explains the concept of slope in mathematics and how it is used to measure the inclination and compare the steepness of different lines. It also discusses the significance of slope in determining the distance traveled in the horizontal direction for a given vertical distance. The article mentions that a horizontal line has a slope of 0, while a vertical line has an undefined slope. It also explains how negative slopes indicate a downward inclination and how parallel lines have the same slope, while intersecting lines have different slopes."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

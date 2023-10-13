@@ -1,7 +1,7 @@
 ---
 title: "01 Cylinders"
-description: ""
-lead: ""
+description: "Polyhedra are objects with flat surfaces, while non-polyhedra objects have curved surfaces like cylinders. Cylinders are formed by stacking circles or rolling up a rectangle. The volume of a cylinder is found by multiplying the base area by the height, while the surface area is found by adding the areas of the two circles and the curved surface. Real-life examples of cylinders include pencils, oil drums, and tires."
+lead: "Polyhedra are objects with flat surfaces, while non-polyhedra objects have curved surfaces like cylinders. Cylinders are formed by stacking circles or rolling up a rectangle. The volume of a cylinder is found by multiplying the base area by the height, while the surface area is found by adding the areas of the two circles and the curved surface. Real-life examples of cylinders include pencils, oil drums, and tires."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "03 Best Fit Line"
-description: "Best fit line"
+description: "The article discusses the concept of finding the best fit line for a scatter plot. It explains that there are infinite ways to draw a line that passes through the points, but the best fit line is the one that covers the most points. It also mentions that sometimes the best fit line may not be a straight line, but can be a parabola or another function. The article concludes by mentioning that actual calculations are required to determine the best fit line, but for now, the focus is on making an educated guess."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

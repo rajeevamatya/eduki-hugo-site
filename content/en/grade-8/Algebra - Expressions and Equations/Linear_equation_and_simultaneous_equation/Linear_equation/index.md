@@ -1,7 +1,7 @@
 ---
 title: "Linear Equation"
-description: ""
-lead: ""
+description: "Equations express the relationship between two quantities. Single variable equations find one value, while multi-variable equations have multiple solutions. Equations can model situations, such as age gaps or donut consumption. Variables are used to represent unknown quantities, and the equation is used to find the values that satisfy the relationship."
+lead: "Equations express the relationship between two quantities. Single variable equations find one value, while multi-variable equations have multiple solutions. Equations can model situations, such as age gaps or donut consumption. Variables are used to represent unknown quantities, and the equation is used to find the values that satisfy the relationship."
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
 draft: false

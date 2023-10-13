@@ -1,7 +1,7 @@
 ---
 title: "01 Introduction"
-description: ""
-lead: ""
+description: "Transforming objects means changing their orientation, location, or size. There are two types: rigid and non-rigid transformations. Rigid transformations keep the shape and size the same, only changing orientation. The three types of rigid transformations are reflection, rotation, and translation. Examples include reflecting a building in water, rotating a heart shape, and moving a chess piece."
+lead: "Transforming objects means changing their orientation, location, or size. There are two types: rigid and non-rigid transformations. Rigid transformations keep the shape and size the same, only changing orientation. The three types of rigid transformations are reflection, rotation, and translation. Examples include reflecting a building in water, rotating a heart shape, and moving a chess piece."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

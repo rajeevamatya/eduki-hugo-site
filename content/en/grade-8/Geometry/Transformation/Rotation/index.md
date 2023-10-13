@@ -1,7 +1,7 @@
 ---
 title: "03 Rotation"
-description: ""
-lead: ""
+description: "Rotation is the act of changing the way an object is facing by turning it at a certain angle around a fixed point. The direction of rotation can be measured in degrees, with anticlockwise turns being positive and clockwise turns being negative. Rotations can be represented by arcs and can result in symmetry in 2D shapes."
+lead: "Rotation is the act of changing the way an object is facing by turning it at a certain angle around a fixed point. The direction of rotation can be measured in degrees, with anticlockwise turns being positive and clockwise turns being negative. Rotations can be represented by arcs and can result in symmetry in 2D shapes."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

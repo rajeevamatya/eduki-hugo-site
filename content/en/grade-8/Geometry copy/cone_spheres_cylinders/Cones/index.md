@@ -1,7 +1,7 @@
 ---
 title: "Cones"
-description: ""
-lead: ""
+description: "The article explains the surface area and volume of a cone. The surface area is calculated by finding the curved surface and adding the base area. The volume is found to be 1/3 of the volume of a cylinder with the same base area and height."
+lead: "The article explains the surface area and volume of a cone. The surface area is calculated by finding the curved surface and adding the base area. The volume is found to be 1/3 of the volume of a cylinder with the same base area and height."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

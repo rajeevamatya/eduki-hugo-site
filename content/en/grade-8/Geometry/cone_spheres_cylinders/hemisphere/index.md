@@ -1,7 +1,7 @@
 ---
 title: "04 Hemispheres"
-description: ""
-lead: ""
+description: "Hemispheres are half of a sphere and can be found in various objects like lemons, coconuts, and bowls. The volume of a hemisphere is half of a sphere's volume, while the surface area consists of a curved part and a flat part. The curved surface area is half of the sphere's surface area, and the total surface area includes the curved surface area and the area of the base circle."
+lead: "Hemispheres are half of a sphere and can be found in various objects like lemons, coconuts, and bowls. The volume of a hemisphere is half of a sphere's volume, while the surface area consists of a curved part and a flat part. The curved surface area is half of the sphere's surface area, and the total surface area includes the curved surface area and the area of the base circle."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

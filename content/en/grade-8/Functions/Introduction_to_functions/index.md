@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Functions"
-description: ""
-lead: ""
+description: "Functions are special relationships between variables where there is a unique value of one variable for a specific value of another variable. Domain and range are important terms in functions."
+lead: "Functions are special relationships between variables where there is a unique value of one variable for a specific value of another variable. Domain and range are important terms in functions."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
