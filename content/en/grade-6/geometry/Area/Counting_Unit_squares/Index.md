@@ -1,6 +1,6 @@
 ---
 title: "03 Counting squares"
-description: "The article explains how to count unit squares to measure the area of different shapes, including irregular shapes. It also discusses decomposition to find the total area of a garden by adding the areas of different sections."
+description: "Area of different shapes: This article explains how to count unit squares to measure the area of different shapes, including irregular shapes. It also discusses decomposition and provides a practical example of finding the area of a garden by counting squares."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

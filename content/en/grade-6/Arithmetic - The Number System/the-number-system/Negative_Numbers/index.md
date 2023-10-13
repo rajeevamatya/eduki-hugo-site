@@ -1,6 +1,6 @@
 ---
 title: "03 Negative Numbers"
-description: "The article explains the need for negative numbers in various contexts such as subtraction, temperature, elevation, and accounting. It also discusses extending the number line to include negative numbers."
+description: "This article explains the concept of negative numbers and why they are needed in certain situations. It also discusses extending the number line to include negative numbers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

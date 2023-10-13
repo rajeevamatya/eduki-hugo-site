@@ -1,6 +1,6 @@
 ---
 title: "02 Expressions are Quantities"
-description: "Expressions, whether numerical or algebraic, represent quantities. Numerical expressions can be simplified, while algebraic expressions require variables. The parts of an expression also represent quantities, like the price of pens and notebooks in a store."
+description: "Expressions, whether numerical or algebraic, represent quantities. Numerical expressions can be simplified, while algebraic expressions require variables. The parts of an expression are also quantities, which can be analyzed separately."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

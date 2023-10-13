@@ -1,6 +1,6 @@
 ---
 title: "02 Multiplication: Fraction as Operator"
-description: "Finding Fraction of a Quantity: An Introduction. This article explains how to express multiplication using fractions as operators. It also discusses different ways to interpret multiplication expressions and provides visual examples. The focus is on the expression 1/b x a, where a fraction is multiplied by a whole number. The article emphasizes understanding the fraction as the operator and its effect on the whole number quantity. It also introduces the concept of finding the area of a rectangle with one side as a fraction and the other as a whole number."
+description: "Finding Fraction of a Quantity: An Introduction. Explains how to express multiplication as finding the area of a rectangle with a fraction and a whole number."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

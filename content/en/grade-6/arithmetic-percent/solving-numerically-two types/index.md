@@ -1,6 +1,6 @@
 ---
 title: "03 Solving Percent Problems Numerically : Finding Whole and Amount"
-description: "Finding the value of percentages numerically by using multiplication. Two types of percent problems: finding percent of a whole and finding the whole based on a percent."
+description: "This article explains how to solve percent problems numerically by finding the whole and the amount. It provides examples and step-by-step explanations."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

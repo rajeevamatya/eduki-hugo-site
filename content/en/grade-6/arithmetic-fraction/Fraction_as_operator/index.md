@@ -1,6 +1,6 @@
 ---
 title: "02 Multiplication: Fraction as Operator"
-description: "This article discusses the concept of using fractions as operators in multiplication. It explains how to find a fraction of a quantity and provides visual examples for better understanding. The article emphasizes the idea of thinking of the fraction as the operator and the whole number as the quantity being operated on. It also explores different expressions that can represent the same image and highlights the importance of using the appropriate expression based on the context. The article concludes by discussing the concept of expressing multiplication as finding the area of a rectangle with one side as a fraction and the other as a whole number."
+description: "Finding the fraction of a quantity involves using the fraction as an operator to affect the whole number quantity. This can be thought of as multiplication, where the fraction is multiplied by the whole number. Different expressions can define the same image, but the appropriate expression is used based on the context. The idea of expressing multiplication as finding the area of a rectangle is used to understand finding the fraction of a quantity."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

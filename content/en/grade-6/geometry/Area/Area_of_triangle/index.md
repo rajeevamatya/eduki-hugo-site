@@ -1,6 +1,6 @@
 ---
 title: "05 Area of triangle"
-description: "Triangles can be divided into right-angled and other types. For right-angled triangles, the area is half the area of a rectangle. For other triangles, the area is half the area of a parallelogram. The base and height of the triangle are the same as the base and height of the rectangle or parallelogram."
+description: "Triangles can be divided into right-angled and other types. The area of a right-angled triangle is half the area of a rectangle. The area of any triangle can be found using the formula ½ x base x height."
 lead: ""
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

@@ -1,6 +1,6 @@
 ---
 title: "05 Unit Conversion and Scaling"
-description: "Unit conversions involve using ratios to convert from one unit to another. For example, 20 feet is equal to 240 inches. Scaling is used in maps and architectural models to decrease measurements proportionally. For example, if a model bridge has a pillar that is 8 cm, it would be 1200 cm or 12 m in the real structure. Maps use scales to represent distances, with the ratio of distance on the map to real distance written as 1cm : 50 miles."
+description: "Unit conversions and scaling are important mathematical concepts used in real-life scenarios. Ratios can be used to convert from one unit to another, such as converting feet to inches. Scaling is commonly used in maps and architectural structures to create smaller models. By using ratios, measurements in the model can be converted to the corresponding measurements in the real structure. Maps often include a scale that indicates the distance between two locations based on the map's measurements. Understanding unit conversions and scaling allows for accurate representation and measurement in various contexts."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

@@ -1,6 +1,6 @@
 ---
 title: "04 Solving third type of percent problem: Finding percentage"
-description: "This article explains how to find the percentage in the third type of percent problem, where the percentage itself is unknown. It provides examples and methods for solving these types of problems, including using ratios, tables, and double number line diagrams. The article also compares this type of problem to the first two types of percent problems."
+description: "This article explains how to find the percentage in a given scenario by using ratios, tables, and double number line diagrams."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

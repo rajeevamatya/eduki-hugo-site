@@ -1,6 +1,6 @@
 ---
 title: "01 Introducing Area"
-description: "Area is the measurement of how much space a shape occupies. It is important in mathematics and is used to measure different surfaces."
+description: "Area is the measurement of how much space a shape occupies. It is important in mathematics and can be determined by visually comparing shapes or using a standard unit of measurement."
 lead: ""
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

@@ -1,6 +1,6 @@
 ---
 title: "02 Finding Common Factors and Multiples"
-description: "Common factors are whole numbers that divide another number evenly with no remainder. Factors of 24 include 1, 2, 3, 4, 6, 8, 12, and 24. Common factors are factors that two numbers have in common. For example, 30 and 18 have common factors of 1, 2, 3, and 6. The greatest common factor (GCF) is the largest common factor of two numbers. The GCF of 30 and 18 is 6. Common multiples are numbers that can be obtained by multiplying two whole numbers together. For example, 48 is a common multiple of 12 and 4."
+description: "Common factors are whole numbers that divide another number evenly. This article explains how to find common factors and their importance in grouping objects. It also discusses common multiples, which are numbers obtained by multiplying two whole numbers together."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

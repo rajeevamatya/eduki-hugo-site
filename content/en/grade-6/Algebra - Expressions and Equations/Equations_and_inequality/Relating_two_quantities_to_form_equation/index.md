@@ -1,6 +1,6 @@
 ---
 title: "02 Relation between two quantities"
-description: "Equations help us understand how two things are related. We can use equations to figure out the relationship between quantities and solve for unknowns."
+description: "Equations help us understand the relationship between two quantities. By using placeholders, we can create equations to solve for unknowns."
 lead: " "
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

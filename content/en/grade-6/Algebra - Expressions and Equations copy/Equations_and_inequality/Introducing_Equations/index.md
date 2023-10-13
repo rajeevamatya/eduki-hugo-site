@@ -1,7 +1,7 @@
 ---
 title: "Introducing Equations"
-description: "Equations are expressions separated by an equal sign. They can be numerical or algebraic, and can be solved to find the value of variables. Tape diagrams can be used to represent equations visually. Equations can be solved using properties of equality, such as addition and multiplication."
-lead: "Equations are expressions separated by an equal sign. They can be numerical or algebraic, and can be solved to find the value of variables. Tape diagrams can be used to represent equations visually. Equations can be solved using properties of equality, such as addition and multiplication."
+description: "Equations are expressions separated by an equal sign. They can be numerical or algebraic, with one or more variables. Tape diagrams can represent equations visually. Solving equations involves finding the value of the variable that satisfies both sides of the equation. This can be done through addition, subtraction, multiplication, or division."
+lead: "Equations are expressions separated by an equal sign. They can be numerical or algebraic, with one or more variables. Tape diagrams can represent equations visually. Solving equations involves finding the value of the variable that satisfies both sides of the equation. This can be done through addition, subtraction, multiplication, or division."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

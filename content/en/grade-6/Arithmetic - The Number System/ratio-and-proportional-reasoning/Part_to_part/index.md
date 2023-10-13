@@ -1,6 +1,6 @@
 ---
 title: "04 Generalizing Ratios"
-description: "This article discusses the concept of generalizing ratios, specifically part to part and part to whole ratios. It explains how parts can be used to represent ratios and how tape diagrams can be used to understand this concept. It also provides examples of using tape diagrams and numerical calculations to find the number of parts in a given ratio."parts" instead of physical units. Using tape diagrams or numerical calculations to find the value of each part."
+description: "This article explains how to generalize ratios using "parts" instead of physical units. It provides examples and diagrams to illustrate the concept."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

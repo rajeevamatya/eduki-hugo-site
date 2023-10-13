@@ -1,6 +1,6 @@
 ---
 title: "04 Median and its measure of variability"
-description: "The article explains the concept of median as the center of a distribution and how to find it. It also introduces the interquartile range as a measure of variability for the median."
+description: "The article discusses the concept of median as the center of a distribution and how to find it. It also introduces the interquartile range as a measure of variability."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

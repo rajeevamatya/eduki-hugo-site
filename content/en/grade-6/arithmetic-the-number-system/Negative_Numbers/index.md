@@ -1,6 +1,6 @@
 ---
 title: "03 Negative Numbers"
-description: "The article explains the concept of negative numbers and why they are needed in certain situations, such as temperature and money. It also discusses extending the number line to include negative numbers."
+description: "The article discusses the concept of negative numbers and their need in various contexts such as temperature, elevation, and accounting. It explains how negative numbers represent values less than zero and extends the number line to include negative numbers."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

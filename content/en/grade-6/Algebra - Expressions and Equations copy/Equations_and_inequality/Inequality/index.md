@@ -1,7 +1,7 @@
 ---
 title: "Inequalities"
-description: "Inequalities are similar to equations, but use signs like >, <, ≤, and ≥ to show relationships between numbers. They have multiple solutions. Hanger diagrams can be used to represent inequalities visually. Solving inequalities involves converting them into equations and applying the same steps. A boundary point is found, and a test point is used to determine the solution. In this example, 𝑥 > 4."
-lead: "Inequalities are similar to equations, but use signs like >, <, ≤, and ≥ to show relationships between numbers. They have multiple solutions. Hanger diagrams can be used to represent inequalities visually. Solving inequalities involves converting them into equations and applying the same steps. A boundary point is found, and a test point is used to determine the solution. In this example, 𝑥 > 4."
+description: "Inequalities are similar to equations, but use signs like >, <, ≤, or ≥. They can have multiple solutions. Hanger diagrams can be used to represent inequalities. The process of solving inequalities is similar to solving equations, using additive and multiplicative laws. A boundary point is found, and a test point is used to determine the solution. In this example, the solution is 𝑥 > 4."
+lead: "Inequalities are similar to equations, but use signs like >, <, ≤, or ≥. They can have multiple solutions. Hanger diagrams can be used to represent inequalities. The process of solving inequalities is similar to solving equations, using additive and multiplicative laws. A boundary point is found, and a test point is used to determine the solution. In this example, the solution is 𝑥 > 4."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

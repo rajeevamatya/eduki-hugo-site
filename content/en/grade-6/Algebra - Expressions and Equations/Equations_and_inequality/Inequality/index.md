@@ -1,6 +1,6 @@
 ---
 title: "03 Inequalities"
-description: "Inequalities are equations that use symbols like <, >, ≤, or ≥ instead of an equal sign. They have multiple possible answers and can be solved using the same rules as equations. The solution can be found by replacing the inequality sign with an equal sign and solving the equation. The solution is not just one number, but a range of numbers greater or less than a boundary point. A test point can be used to determine the correct solution. In some cases, the inequality sign may need to be switched when dividing or multiplying by negative numbers. The answer can also vary depending on whether the inequality includes the equal sign."
+description: "Inequalities are similar to equations, but instead of an equal sign, symbols like <, >, ≤, or ≥ are used. Inequalities can have multiple solutions. To solve an inequality, it can be turned into an equation and solved using additive and multiplicative laws. The solution to an inequality is not just one number, but a range of numbers. A test point can be used to determine the solution. The method of replacing the equal sign with the inequality sign works in most cases, but not always. Negative numbers may require switching the inequality sign. The solution can vary if the inequality includes the "greater than or equal to" symbol."
 lead: " "
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
