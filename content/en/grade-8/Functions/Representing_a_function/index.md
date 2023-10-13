@@ -1,7 +1,7 @@
 ---
 title: "Representing a Function"
-description: ""
-lead: ""
+description: "We can represent a function using ordered pairs, mapping diagrams, or graphs. Mapping diagrams are useful for showing relationships between inputs and outputs. Graphs allow us to visually see the relationship between variables. The rate of change of a function can be found by calculating the difference in the range divided by the difference in the domain. Linear functions have a constant rate of change, while nonlinear functions have changing rates of change."
+lead: "We can represent a function using ordered pairs, mapping diagrams, or graphs. Mapping diagrams are useful for showing relationships between inputs and outputs. Graphs allow us to visually see the relationship between variables. The rate of change of a function can be found by calculating the difference in the range divided by the difference in the domain. Linear functions have a constant rate of change, while nonlinear functions have changing rates of change."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "04 Equation"
-description: ""
-lead: ""
+description: "The article explains how to find the equation of horizontal and vertical lines, as well as the equation of all lines using slope."
+lead: "The article explains how to find the equation of horizontal and vertical lines, as well as the equation of all lines using slope."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

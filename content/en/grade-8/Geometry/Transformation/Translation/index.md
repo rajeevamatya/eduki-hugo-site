@@ -1,7 +1,7 @@
 ---
 title: "04 Translation"
-description: ""
-lead: ""
+description: "Translation is the process of moving an object to a new spot using two numbers to indicate the horizontal and vertical displacement."
+lead: "Translation is the process of moving an object to a new spot using two numbers to indicate the horizontal and vertical displacement."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

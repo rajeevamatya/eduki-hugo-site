@@ -1,6 +1,6 @@
 ---
 title: "01 Bivariate data"
-description: "Bivariate data"
+description: "Bivariate data refers to data collected on two variables from each individual in a group. It involves analyzing the relationship between two quantitative variables. In this article, examples of bivariate data are given, such as the weights and heights of dogs. The concept of explanatory and response variables is introduced, where one variable affects the other. The article also discusses how to visually represent bivariate data using dot plots."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

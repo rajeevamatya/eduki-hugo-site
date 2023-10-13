@@ -1,7 +1,7 @@
 ---
 title: "Similarity"
-description: ""
-lead: ""
+description: "Similarity is the relation between objects with the same shape but different sizes. It involves dilations and the use of a scale factor."
+lead: "Similarity is the relation between objects with the same shape but different sizes. It involves dilations and the use of a scale factor."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Reflection"
-description: ""
-lead: ""
+description: "When you look at yourself or any object in the mirror, you see your reflection, which looks like you, but the orientation is opposite. Reflection is a type of rigid transformation used in geometry. It is dependent on a specific line called the axis of reflection. The axis of reflection determines the orientation and distance of the reflected image. Reflections can be used to understand symmetry in objects. The axis of symmetry is the line that divides an object into two identical parts. Different objects have different lines of symmetry and different numbers of them."
+lead: "When you look at yourself or any object in the mirror, you see your reflection, which looks like you, but the orientation is opposite. Reflection is a type of rigid transformation used in geometry. It is dependent on a specific line called the axis of reflection. The axis of reflection determines the orientation and distance of the reflected image. Reflections can be used to understand symmetry in objects. The axis of symmetry is the line that divides an object into two identical parts. Different objects have different lines of symmetry and different numbers of them."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

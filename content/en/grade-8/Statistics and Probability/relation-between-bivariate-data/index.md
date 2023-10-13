@@ -1,6 +1,6 @@
 ---
 title: "02 Types of Relationships Between Bivariate data"
-description: "Realtionships in Bivariate data"
+description: "Linear association refers to the relationship between two variables that can be represented by a straight line. It can be positive or negative. Clusters refer to groups of data points that are grouped together but do not have a clear linear relationship."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

@@ -1,6 +1,6 @@
 ---
 title: "05 Comparison of Irrational Numbers"
-description: "Comparison of irrational numbers"
+description: "Comparing irrational numbers involves approximating them as decimals. To compare, we find the closest whole number to the square of the irrational number. Estimating expressions with root terms involves comparing the root terms themselves and considering the added terms. The magnitude of the whole term depends on the whole number multiplied outside the root."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

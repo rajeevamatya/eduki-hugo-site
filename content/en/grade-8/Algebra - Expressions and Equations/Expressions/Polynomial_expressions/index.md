@@ -1,7 +1,7 @@
 ---
 title: "Polynomial Expressions"
-description: ""
-lead: ""
+description: "Polynomial expressions are algebraic expressions that have non-negative integers as their index. They are categorized based on their degree, which is the highest degree of the variables. Solving polynomial equations involves finding values of x that satisfy the equation. The process involves factoring the equation and setting each factor equal to zero to find the possible values of x. Some polynomial equations may have irrational solutions, which cannot be expressed as a ratio of integers."
+lead: "Polynomial expressions are algebraic expressions that have non-negative integers as their index. They are categorized based on their degree, which is the highest degree of the variables. Solving polynomial equations involves finding values of x that satisfy the equation. The process involves factoring the equation and setting each factor equal to zero to find the possible values of x. Some polynomial equations may have irrational solutions, which cannot be expressed as a ratio of integers."
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-description: ""
-lead: ""
+description: "Transforming objects refers to changing the orientation, location, or size of an object. There are two types of transformations: rigid and non-rigid. Rigid transformations preserve shape and size, while non-rigid transformations do not. Examples of rigid transformations include reflection, rotation, and translation. Congruence is when two shapes have the same shape and size. Non-rigid transformations, like dilation, change the size of an object. The article provides real-life examples of these transformations."
+lead: "Transforming objects refers to changing the orientation, location, or size of an object. There are two types of transformations: rigid and non-rigid. Rigid transformations preserve shape and size, while non-rigid transformations do not. Examples of rigid transformations include reflection, rotation, and translation. Congruence is when two shapes have the same shape and size. Non-rigid transformations, like dilation, change the size of an object. The article provides real-life examples of these transformations."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

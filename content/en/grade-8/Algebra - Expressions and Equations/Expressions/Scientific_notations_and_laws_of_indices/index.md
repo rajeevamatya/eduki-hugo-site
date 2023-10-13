@@ -1,7 +1,7 @@
 ---
 title: "Scientific Notation"
-description: ""
-lead: ""
+description: "Scientific notation is a way to write very large or very small numbers using powers of 10. It simplifies writing and comparing these numbers."
+lead: "Scientific notation is a way to write very large or very small numbers using powers of 10. It simplifies writing and comparing these numbers."
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
 draft: false

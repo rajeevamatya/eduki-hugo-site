@@ -1,7 +1,7 @@
 ---
 title: "Pythagoras theorem"
-description: ""
-lead: ""
+description: "All triangles with right angles follow the Pythagoras theorem, which states that the square of the hypotenuse is equal to the sum of the squares of the other two sides."
+lead: "All triangles with right angles follow the Pythagoras theorem, which states that the square of the hypotenuse is equal to the sum of the squares of the other two sides."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

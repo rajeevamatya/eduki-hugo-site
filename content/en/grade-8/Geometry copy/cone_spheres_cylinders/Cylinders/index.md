@@ -1,7 +1,7 @@
 ---
 title: "Cylinders"
-description: ""
-lead: ""
+description: "In grade 7, we learned about Polyhedra and Non-Polyhedra. Non-Polyhedra have curved surfaces, like cylinders. Cylinders have circular bases and a curved surface. We can find the volume by multiplying the base area by the height. The surface area is the sum of the areas of the two circles and the rectangle formed by the curved surface."
+lead: "In grade 7, we learned about Polyhedra and Non-Polyhedra. Non-Polyhedra have curved surfaces, like cylinders. Cylinders have circular bases and a curved surface. We can find the volume by multiplying the base area by the height. The surface area is the sum of the areas of the two circles and the rectangle formed by the curved surface."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

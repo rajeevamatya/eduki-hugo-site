@@ -1,7 +1,7 @@
 ---
 title: "Non-linear Functions"
-description: ""
-lead: ""
+description: "Non-linear functions have exponents other than 1. Quadratic functions have degree 2. Rate of change is not constant. Linear functions have constant rate of change. Distance traveled by Natalie is a linear function. Table is useful for analyzing functions. Some functions are increasing, some are decreasing, and some are constant. Some functions have a combination of linear sections."
+lead: "Non-linear functions have exponents other than 1. Quadratic functions have degree 2. Rate of change is not constant. Linear functions have constant rate of change. Distance traveled by Natalie is a linear function. Table is useful for analyzing functions. Some functions are increasing, some are decreasing, and some are constant. Some functions have a combination of linear sections."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

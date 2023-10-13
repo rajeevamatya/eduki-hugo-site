@@ -1,7 +1,7 @@
 ---
 title: "Simultaneous Equations"
-description: ""
-lead: ""
+description: "System of equations refers to a set of equations with multiple variables. There are different types of solutions that can arise from these equations. When the equations represent parallel lines, there is no solution. When the equations represent coincident lines, there are many solutions. In other cases, there is one unique solution."
+lead: "System of equations refers to a set of equations with multiple variables. There are different types of solutions that can arise from these equations. When the equations represent parallel lines, there is no solution. When the equations represent coincident lines, there are many solutions. In other cases, there is one unique solution."
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
 draft: false

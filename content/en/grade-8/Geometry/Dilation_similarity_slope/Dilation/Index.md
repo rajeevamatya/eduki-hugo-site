@@ -1,7 +1,7 @@
 ---
 title: "01 Dilation"
-description: ""
-lead: ""
+description: "Dilation is a non-rigid transformation where the size of an object changes but the shape remains the same. It is determined by the scale factor and the center of dilation. The scale factor represents how much bigger or smaller the image is compared to the object, and the center is the point from which the object is dilated. Dilation does not produce congruent images like other transformations. The proportional relationship between corresponding sides and angles is maintained in the dilated image."
+lead: "Dilation is a non-rigid transformation where the size of an object changes but the shape remains the same. It is determined by the scale factor and the center of dilation. The scale factor represents how much bigger or smaller the image is compared to the object, and the center is the point from which the object is dilated. Dilation does not produce congruent images like other transformations. The proportional relationship between corresponding sides and angles is maintained in the dilated image."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

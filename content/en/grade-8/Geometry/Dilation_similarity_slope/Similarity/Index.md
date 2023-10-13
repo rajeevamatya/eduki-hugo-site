@@ -1,7 +1,7 @@
 ---
 title: "02 Similarity"
-description: ""
-lead: ""
+description: "Similarity is used to compare objects with the same shape. It is determined by comparing angles and sides. Two rectangles are compared for similarity using dilation and comparing their lengths and widths."
+lead: "Similarity is used to compare objects with the same shape. It is determined by comparing angles and sides. Two rectangles are compared for similarity using dilation and comparing their lengths and widths."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

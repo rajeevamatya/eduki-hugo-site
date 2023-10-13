@@ -1,7 +1,7 @@
 ---
 title: "Spheres"
-description: ""
-lead: ""
+description: "Spheres are 3D objects with a curved surface and no flat faces. They are commonly seen in sports balls. The surface area and volume of a sphere can be calculated using a cylinder and cone. Hemispheres are half of a sphere and have half the volume and half the surface area."
+lead: "Spheres are 3D objects with a curved surface and no flat faces. They are commonly seen in sports balls. The surface area and volume of a sphere can be calculated using a cylinder and cone. Hemispheres are half of a sphere and have half the volume and half the surface area."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

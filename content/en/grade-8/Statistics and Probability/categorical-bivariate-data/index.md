@@ -1,6 +1,6 @@
 ---
 title: "05 Association Between Categorical Variables"
-description: "Association between categorical variables"
+description: "We can find association between categorical bivariate data by analyzing frequencies and creating bar graphs."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

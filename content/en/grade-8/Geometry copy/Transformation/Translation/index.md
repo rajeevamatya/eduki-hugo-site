@@ -1,7 +1,7 @@
 ---
 title: "Translation"
-description: ""
-lead: ""
+description: "Translation, also known as sliding, involves changing the location of an object by denoting horizontal and vertical displacement. The orientation remains the same. Examples are shown with figures."
+lead: "Translation, also known as sliding, involves changing the location of an object by denoting horizontal and vertical displacement. The orientation remains the same. Examples are shown with figures."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false

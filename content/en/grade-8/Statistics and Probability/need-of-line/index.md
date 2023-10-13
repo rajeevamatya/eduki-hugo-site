@@ -1,6 +1,6 @@
 ---
 title: "04 Why do we need a line?"
-description: "Need of line"
+description: "The article explains the importance of having a line in mathematical equations and how it helps in estimating values based on known data points. It also discusses the slope and intercept of the line and their significance in determining the association between variables."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00

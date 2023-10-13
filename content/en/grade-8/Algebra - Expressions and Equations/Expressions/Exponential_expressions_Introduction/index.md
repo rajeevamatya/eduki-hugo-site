@@ -1,7 +1,7 @@
 ---
 title: "Exponential Expressions"
-description: ""
-lead: ""
+description: "Repeated multiplication in expressions using exponents. Explains how to work with exponents and the laws of indices. Also discusses exponential expressions and solving equations with higher powers."
+lead: "Repeated multiplication in expressions using exponents. Explains how to work with exponents and the laws of indices. Also discusses exponential expressions and solving equations with higher powers."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
