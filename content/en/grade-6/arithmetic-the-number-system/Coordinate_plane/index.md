@@ -16,7 +16,6 @@ You have already learnt about coordinate planes in grade 5. Did you know that th
 
 <img src ="N04-coordinate-plane-gif.gif" width="400" style="display: block; margin: 0 auto;">
 
-
 Now, let us plot a given point; say (3,1). Remember that 3 indicates that we first move 3 units from 0 on the horizontal number line (x-axis). The distance we cover horizontally is called the x-coordinate, which is 3 here. And then, we move 1 unit on the vertical number line (y-axis). Likewise, the distance we cover vertically is called the y-coordinate, which is 1 here. This process is shown below.
 
 <img src ="N04-coordinate-plane-3-1gif.gif" width="400" style="display: block; margin: 0 auto;">
@@ -30,14 +29,18 @@ This results in 4 different regions in the coordinate plane, which we call quadr
 
 <img src ="N04-four-quadrants.png" width="500" style="display: block; margin: 0 auto;">
 
-(i) Quadrant I: 
+<b>(i) Quadrant I:</b>  
 (This is the region of the coordinate plane that you were introduced to in grade 5.) It lies above the x-axis and to the right of the y-axis. A point lying in the first quadrant would have positive x-coordinate as well as positive y-coordinate. For instance; (3,1), (5,11), (83,6), and so on. 
-(ii) Quadrant II: 
+
+<b>(ii) Quadrant II:</b>  
 It lies above the x-axis and to the left of the y-axis. A point lying in the second quadrant would have negative x-coordinate and positive y-coordinate. For instance; (-3,1), (-5,11), (-83,6), and so on. 
-(iii) Quadrant III: 
-It lies below the x-axis and to the left of the y-axis. A point lying in the third quadrant would have negative x-coordinate as well as negative y-coordinate. For instance; (-3,-1), (-5,1-1), (-83,-6), and so on. 
-(iv) Quadrant IV: 
+
+<b>(iii) Quadrant III:</b>   
+It lies below the x-axis and to the left of the y-axis. A point lying in the third quadrant would have negative x-coordinate as well as negative y-coordinate. For instance; (-3,-1), (-5,1-1), (-83,-6), and so on.  
+
+<b>(iv) Quadrant IV:</b>   
 It lies below the x-axis and to the right of the y-axis. A point lying in the fourth quadrant would have positive x-coordinate and negative y-coordinate. For instance; (3,-1), (5,-11), (83,-6), and so on. This is just an introduction to the quadrants. 
+
 You will get used to the position of the given points with practice, which will be our focus in this section.
 
 ## Constructing and Interpreting the Coordinate Plane

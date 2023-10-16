@@ -11,7 +11,7 @@ toc: true
 ---
 
 
-## Need of Negative Numbers
+## Why do we need negative numbers?
 
 Given is a pile of coins. If we were to take away 4 coins from the given pile, how many would be remaining in the pile?
 
