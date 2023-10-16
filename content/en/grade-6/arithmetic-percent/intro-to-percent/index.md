@@ -42,7 +42,7 @@ We have grown familiar with ratios and how to find unit rates. Now, let's look a
 
 Given is a table with different types of coins. We know each of their values. Write them in terms of how much they are valued in cents. 
 
-<img src ="P01-value-in-cents.png" width="400" style="display: block; margin: 0 auto;">
+<img src ="P01-value-in-cents.png" width="600" style="display: block; margin: 0 auto;">
 
 We can easily find the ratios of penny to dollar, nickel to dollar, dime to dollar, half dollar to dollar as well as dollar to dollar (all values in terms of cents). 
 We get 1:100, 5:100, 10:100, 25:100, 50:100 and finally 100:100. 
@@ -78,7 +78,7 @@ Thinking of 100 as the whole makes it easier when we are given any percent since
 
 Look at the image below to better understand percents. We have a tape for 100 cents/1 dollar and another one for 25 cents. 25 cents or a quarter is 25% of the whole (1 dollar/100 cents).
 
-<img src ="P01-quarter-is-25-percent-of-dollar.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src ="P01-quarter-is-25-percent-of-dollar.jpg" width="450" style="display: block; margin: 0 auto;">
 
 We can use this idea to now find the percent of other number of cents (like we used the unit rate to find other missing values).
 

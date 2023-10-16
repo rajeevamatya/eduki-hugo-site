@@ -9,7 +9,7 @@ images: []
 weight: 280
 toc: true
 ---
-## Finding area using decomposition (complex shapes)
+## Finding area of complex shapes using decomposition
 
 
 We can use decomposition to find the area of different shapes. It's really helpful when we don't know the shape well. For example, let's say we have a shape we don't know how to find the area of. We can break it down into smaller shapes we do know how to find the area of.
@@ -40,6 +40,8 @@ Now, we have a new shape that's made up of a triangle (half a unit square), 3 re
 <img src="1_74_countingsquares_in_heptagon.png" width="300" style="display: block; margin: 0 auto;">
 
 When we add the areas of all the individual pieces we get:
+
 Total area= 0.5 +1 + 1 + 0.5 + 0.5 + 0.5 = 4 square units.
+
 It is always a matter if an incomplete square can be combined with another incomplete square to make a complete square! It's like a puzzle! Sometimes you need more than two pieces to make a complete square, but you can figure it out by trying different combinations. You can even rotate the pieces to make them fit. This idea of breaking shapes into smaller pieces can be used for any polygon.
 

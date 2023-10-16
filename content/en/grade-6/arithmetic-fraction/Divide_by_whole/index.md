@@ -51,7 +51,7 @@ Look at the given image. You may be tempted to say that dividing half a kg of ma
 
 Look at the visual below to see how this works. 
 
-<img src="F03-half-kg-mangoes-divided-by-2-gives-tenth-gif.gif" width="300" style="display: block; margin: 0 auto;">
+<img src="F03-half-kg-mangoes-divided-by-2-gives-tenth-gif2.gif" width="300" style="display: block; margin: 0 auto;">
 
 
 ## Relating Multiplication and Division
@@ -101,12 +101,12 @@ In this case, the phrasing of the question is a bit different than the partition
 This is another way to represent a division problem. This is like removing 2 mangoes each time and seeing how many such groups can be made, which is why it is called the 'repeated subtraction model of division". So, the expression here for 6 mangoes being divided into groups of 2 groups will be 6 ÷ 2. The answer will give us the number of people that the mangoes are divided into -> 3 people. 
 Hence, total ÷ size of each part = number of such parts
 
-<img src="F03-6-magoes-divided-by-2-repeated-subtraction-gif.gif" width="300" style="display: block; margin: 0 auto;"> 
+<img src="F03-6-magoes-divided-by-2-repeated-subtraction-gif.gif" width="400" style="display: block; margin: 0 auto;"> 
 
 The same idea applies to and is an easier way to understand a whole number quantity divided by a fraction. 
 Below is a diagram that shows strips of colored paper.  
 
-<img src="F03-coloured-paper-2m.png" width="300" style="display: block; margin: 0 auto;">
+<img src="F03-coloured-paper-2m.png" width="400" style="display: block; margin: 0 auto;">
 
 The strip is 2 meters long. The paper strips will be cut into different-sized pieces. 
 The strip will be cut into pieces that are 1/2 meter long. How many pieces do you think there will be?  
@@ -116,7 +116,7 @@ We’ll start by looking at what the size of 1/2 is. The image shows us the size
  
 How many of this ‘size’ will fit in the strip of 2 m OR how many sizes of 1/2 m can be made from the size of 2 m? Simply arrange the 1/2 strips to measure along with the 2 m strip as shown.  
 
-<img src ="F03-how-many-halves-fit-in-2.png" width="300" style="display: block; margin: 0 auto;">
+<img src ="F03-how-many-halves-fit-in-2.png" width="400" style="display: block; margin: 0 auto;">
 
 We see that 4 strips of size 1/2 m can be cut out from a strip of 2 m OR 4 strips of size 1/2 m will fit in a strip of size 2 m.
 What do you think is the expression from the previous situation? 
@@ -128,7 +128,7 @@ Do not confuse this with 1/2 divided by 2 (meaning the size of each part when ½
 Can we generalize such division questions to be solved numerically as well (like we did for the partition model)? Of course!
 If we have a question -> 4 ÷ 1/3 , it means that we are asking how many 1/3s fit in 4. From the image below, we see that there are three one-thirds that make up 1, so to make up 4, we need to divide 4 by 3, giving us 4 x 3. So, 4 ÷ 1/3 = 4 x 3. 
 
-<img src ="F03-how-mant-third-fit-in-4-gif.gif" width="300" style="display: block; margin: 0 auto;">
+<img src ="F03-how-mant-third-fit-in-4-gif.gif" width="400" style="display: block; margin: 0 auto;">
 
 This reinforces the idea that dividing by a fraction is the same as multiplying by its reciprocal.
 Let’s look at a question where the divisor is not a unit fraction  
@@ -136,13 +136,17 @@ Let’s look at a question where the divisor is not a unit fraction
 We already know that there are 4 x 3 groups of 1/3s in 4. To find how many 2/3s are in 4, we need to put together every 2 of the 1/3s into a group. Doing this results in half as many groups, which is 6 groups. In other words, we can think of 4 ÷ 2/3 as there is 4 x 3 groups of 1/3s . But since we need to find out how many 2/3s are there, we divide the answer by 2 to get (4 x 3) ÷ 2. This can be written as 4 x 3/2 , which is the multiplication of the reciprocal! So, the same idea applies to this method of division as well when we solve it mathematically. 
 We can also come to the same conclusion with the same method we used for the partition model:
 When we had to make ½ m strips of paper from a strip of 2 m, we had the equation 2 ÷ 1/2 = ?.  
+
 So, ? x 1/2 should give us 2 for this case.  
+
 We can thus write,  
 2 ÷ 1/2 = ?  
 ? x 1/2 = 2  
+
 To keep only '?' on the left side, we can multiply both sides by 2.  
 ? x 1/2 x 2 = 2 x 2  
 ? = 2 x 2 = 4  
+
 This is the same answer we get from the diagram as well! And since both 2 ÷ 1/2 and 2 x 2 give us the same value, this mathematical process works for all division questions.  
 So, in the case of a ÷ b/c , we can write it as a x c/b , meaning, dividing by a divisor is the same as multiplying by the reciprocal of the divisor.   
 

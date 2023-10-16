@@ -2,7 +2,7 @@
 title: "06 Polygons"
 description: "A polygon is a closed shape made up of straight lines. It must have at least three sides. The number of sides determines the name of the polygon. 
 To find the area of a trapezium, it can be broken down into a triangle and a rectangle, making it easier to calculate the area."
-lead: "A polygon is a closed shape made up of straight lines. It must have at least three sides to be considered a polygon. The number of sides determines the name of the polygon. A trapezium can be broken down into a triangle and a rectangle to find its area."
+lead: " "
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false
@@ -37,7 +37,7 @@ But what about the smallest polygon? Can you have a polygon with just one side? 
 We'll start with one side and see if it still counts as a polygon.
 
 
-<img src="1_40_a_line.png" width="300" style="display: block; margin: 0 auto;">
+<img src="1_40_a_line.png" width="100" style="display: block; margin: 0 auto;">
 
 Well, that clearly is not a polygon since a closed shape is not formed. 
 
@@ -59,7 +59,7 @@ It turns out that we need at least three sides to make a shape called a polygon.
 The number of sides also determines the name of the polygon.  A polygon with 3 sides is a triangle, a polygon with 4 sides is a quadrilateral, a polygon with 5 sides is a pentagon, and so on. Cool, right?
 
 
-### Area of trapezium
+## Area of trapezium
 
 
 Sometimes we come across shapes that don't have an easy way to find their area. But don't worry, we can break them down and rearrange them to make it easier! 
@@ -119,10 +119,15 @@ Therefore, the base of triangle = b - a]
 Now for the area of a trapezium. We can obviously just add the areas of the two shapes together to get the total area of the trapezium. 
 
 Area of the trapezium = area of the parallelogram + area of triangle 
+
 = base x height + ½ x base x height
+
 = a x h + ½ x (b-a) x h 
+
 = h x (a + b/2 - a/2) 
+
 = h x (a/2 + b/2) 
+
 = ½ x h x (a+b)
 
 When writing in terms of the dimensions of the trapezium, we have the area of trapezium as:

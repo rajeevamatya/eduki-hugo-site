@@ -1,6 +1,6 @@
 ---
 title: "02 Equivalent Ratios"
-description: "Understanding equivalent ratios and how they maintain the same relationship between quantities when multiplied by the same number. Examples and diagrams provided."
+description: "This article helps understand equivalent ratios and how they maintain the same relationship between quantities when multiplied by the same number."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
@@ -18,10 +18,11 @@ Look at the image of a flower given below:
 
 <img src ="R02-one-flower.png" width="150" style="display: block; margin: 0 auto;">
 
-The different ratios you can write for the image is: 
-a. The ratio of hexagons to trapezoids is 6:2. 
-b. The ratio of trapezoids to hexagons is 2 to 6. 
-c. There are 3 hexagons for every trapezoid. And so on.....
+The different ratios you can write for the image is:
+ 
+a. The ratio of hexagons to trapezoids is 6:2.   
+b. The ratio of trapezoids to hexagons is 2 to 6.   
+c. There are 3 hexagons for every trapezoid. And so on.....  
 
 Now, say you have two such flowers: 
 

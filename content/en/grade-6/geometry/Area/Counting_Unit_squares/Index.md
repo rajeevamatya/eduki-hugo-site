@@ -1,6 +1,6 @@
 ---
 title: "03 Counting squares"
-description: "Area of different shapes and how to count unit squares to measure their area. Includes examples of irregular shapes and decomposition of a garden."
+description: "This discusses area of different shapes and how to count unit squares to measure their area. Also shows how to find area using an example of decomposition of a garden."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
@@ -10,11 +10,7 @@ weight: 260
 toc: true
 ---
 
-
-## Area of different shapes
-
-### How to count unit squares?
-
+## Finding area by counting unit squares
 
 Even though we used the example of a rectangle earlier, the concept of using squares to measure area applies to any shape, including shapes with irregular edges.
 
@@ -49,7 +45,7 @@ While measuring the area of a curved shape requires a bit more effort, the proce
 
 
 
-### Decomposition
+## Finding area by decomposition
 
 So far, we have been studying geometric shapes in an abstract context. Now, let's explore a practical example and learn something new along the way!
 
