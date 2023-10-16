@@ -11,8 +11,7 @@ toc: true
 ---
 
 
-## Area
-### What is area?
+## What is area?
 
 To understand area, let's look at different shapes.
 

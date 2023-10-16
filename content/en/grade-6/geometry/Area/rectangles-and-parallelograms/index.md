@@ -1,5 +1,5 @@
 ---
-title: "04 Rectangles"
+title: "04 Rectangles and Parallelograms"
 description: "This article explains how to find the area of a rectangle using the formula length x width. It also shows examples and explains the concept."
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -10,9 +10,7 @@ weight: 265
 toc: true
 ---
 
-## Area of rectangles
-
-### The formula
+## Formula for area of rectangles
 
 We can find the area of a rectangle by counting the squares inside, but for large rectangles, that can be time-consuming. That's why we use a formula to find the area, like we do for most things in mathematics.
 
@@ -49,8 +47,8 @@ Here, the rectangle covers 3 units horizontally and 2 units vertically. We can o
 Using our previous method, we can consider this as adding 2 square units three times.
 
 <img src="1_23_2by3_rect2.gif" width="400" style="display: block; margin: 0 auto;">
-2 + 2 + 2
 
+2 + 2 + 2
 
 We use 2 because that is the number of squares in each vertical column. By adding 2 + 2 + 2, we obtain 3 x 2, which represents the length multiplied by the breadth of the rectangle.
 
@@ -60,6 +58,7 @@ Multiplying 2 and 3 gives us 6 as the product. Therefore, the area of the rectan
 
 
 <img src="1_24_2by3_rect3.png" width="300" style="display: block; margin: 0 auto;">
+
 Based on the calculations above, we can conclude that the area of a rectangle is found by multiplying its length and width.
 
 If the rectangle has a length of 'ℓ' units and a width of 'w' units, the area of the rectangle will be 'ℓ x w' square units. Remember that while length and width are measured in units, area is measured in unit x units, so the unit changes after multiplying ℓ and w, resulting in square units.
@@ -72,11 +71,10 @@ In the given rectangle, the length is 2.5 units and the width is 2 units. The le
 
 The total area of the rectangle is calculated as 2.5 x 2 = 5 units.
 
-
 <img src="1_25_2point5_by2_rect.png" width="300" style="display: block; margin: 0 auto;">
 
 
-### Decomposition into rectangles
+## Finding area by decomposing into rectangles
 
 We have previously discussed the concept of decomposition, but let's revisit it to understand its usefulness. Decomposition involves breaking down a shape into smaller parts. These parts can have various shapes, but we try to fit them into familiar geometric shapes to make it easier to calculate their areas. Another important aspect is rearrangement, which means repositioning and rotating the decomposed pieces without changing their shape or size.
 
@@ -100,11 +98,11 @@ The figure occupies an area of 5 square units. We know this because there are 5 
 
 We can break down any shape with straight sides (like polygons) into multiple rectangles, both vertically and horizontally. This makes it easier for us to find the area. Let's give it a try with the shape given below.
 
-<img src="1_29_rectangle_decomposition.png" width="600" style="display: block; margin: 0 auto;">
+<img src="1_29_rectangle_decomposition.png" width="300" style="display: block; margin: 0 auto;">
 
 There isn't a straightforward formula to find the area of this shape, like we have for rectangles. So, let's use rectangles instead! We can draw two horizontal lines to break down the given figure into three rectangles. The lengths and widths of these rectangles are shown below:
 
-<img src="1_30_rectangle_decomposition_2.png" width="600" style="display: block; margin: 0 auto;">
+<img src="1_30_rectangle_decomposition_2.png" width="300" style="display: block; margin: 0 auto;">
 
 By using the formulas for the three rectangles, we can calculate the total area of the figure without having to count each square. The calculation is as follows:
 
@@ -113,7 +111,7 @@ By using the formulas for the three rectangles, we can calculate the total area 
 There's no specific rule on how we should break down a shape. We could have also used vertical lines to decompose the same figure. If we draw two vertical lines inside the figure, we get three rectangles with lengths and widths shown.
 
 
-<img src="1_31_rectangle_decomposition_3.png" width="600" style="display: block; margin: 0 auto;">
+<img src="1_31_rectangle_decomposition_3.png" width="300" style="display: block; margin: 0 auto;">
 Thus, the area of the entire figure can also be found by using the formulas for these rectangles:
 
 2 x 6 + 3 x 5 + 5 x 3 = 12 + 15 + 15 = 42 square units.
@@ -138,12 +136,10 @@ When we extend these divisions, we can see that the rectangle is indeed filled w
 
 It's important to ensure that the divisions shown are of equal length in such cases. Uneven divisions won't extend to become unit squares, resulting in an incorrect area calculation. So, it's crucial to have equal length or width divisions to accurately measure the area.
 
-
 <img src="1_34_rectangle_irregular_grids.gif" width="300" style="display: block; margin: 0 auto;">
 
 
-### Area of parallelogram
-
+## Area of parallelogram
 
 We have examined a shape called a rectangle, which is a type of polygon with four sides. You are also familiar with a square, which is essentially a special kind of rectangle with all sides equal. However, there are other four-sided shapes that don't have right angles.
 

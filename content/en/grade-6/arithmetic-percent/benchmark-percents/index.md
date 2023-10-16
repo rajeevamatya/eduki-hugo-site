@@ -38,7 +38,7 @@ Common benchmarks:
 
 Let’s use a double number line to mark some common benchmarks and use it to solve some percent problems. We know that 100% is the whole, so we equate it to 1 or unit. 
 
-<img src ="P05-benchmark-percentage-number-line.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src ="P05-benchmark-percentage-number-line.jpg" width="500" style="display: block; margin: 0 auto;">
 
 25%, 50%, and 75% are the most commonly used benchmarks, since they are easy to understand and compare with. Keep in mind the fractions that align with these percentages. 
 
@@ -86,13 +86,13 @@ Let’s now look at  how to solve such probelms with the help of benchmarks.
 
 To know the percent, first, what is the relation between 5 and 20? 
 
-<img src ="P05-5-is-what-percent-of-20.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src ="P05-5-is-what-percent-of-20.jpg" width="200" style="display: block; margin: 0 auto;">
 
 We see that 5 is one fourth of 20, which is the whole or the 100% here. This means 5 is also one fourth of 100%, giving us 25%. 
 
 What about the opposite? 20 is what percentage of 5?
 
-<img src ="P05-20-is-what-percent-of-5.jpg" width="400" style="display: block; margin: 0 auto;">
+<img src ="P05-20-is-what-percent-of-5.jpg" width="200" style="display: block; margin: 0 auto;">
 
 This time, we need to compare 20 with respect to 5. 20 is four times the value of 5, meaning we need to find four times the value of 100% as well, which is 400%. So, 400% of 5 is 20.  
 

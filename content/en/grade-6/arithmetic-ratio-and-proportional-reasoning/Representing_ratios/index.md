@@ -14,7 +14,7 @@ toc: true
 
 We are already familiar with a number line. It simply lists out the numbers in a line at certain fixed intervals (either 1 or 5 or any other number).
 
-<img src ="R03-number-line.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="R03-number-line.jpg" width="500" style="display: block; margin: 0 auto;">
 
 It can also extend both ways when we introduce negative numbers. 
 
@@ -24,7 +24,7 @@ Let’s see why we need two numbers lines, or the double number line and how tha
 
 Given is the image that shows the ratio of how two milk mixtures are made from milk powder and milk. 
 
-<img src ="R03-two-mixtures.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="R03-two-mixtures.jpg" width="500" style="display: block; margin: 0 auto;">
 
 We see that the ratio of milk powder to water is 4:1 for mixture A and 8:2 for mixture B. Let’s first look at mixture A and see how it can be shown using two number lines. 
 
@@ -38,18 +38,18 @@ For the cup of water, we do the same in a different number line as show the one 
 
 So why exactly is it called a double number line and why does it matter? This is because we need to make them together to show that the 4 and 1 are related. So we label the two lines and draw them together as shown:
 
-<img src ="R03-two-number-lines.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="R03-two-number-lines.jpg" width="500" style="display: block; margin: 0 auto;">
 
 This diagram now shows us that for one cup of water, 4 spoons of milk powder is used. We need to make sure that the 4 and the 1 coincide with each other since it is through this alignment that the association of two quantities are shown.  We do not coincide 1 with the 1, since that would tell us that 1 cup is mixed with 1 spoon powder. 
 
 Just like discrete diagrams we made before, double number lines can also be used to represent equivalent ratios. Rather than making a new ‘double number line’, what we do is simply extend this one!
 
-<img src ="R03-extending-double-number-line-gif.gif" width="300" style="display: block; margin: 0 auto;">
+<img src ="R03-extending-double-number-line-gif.gif" width="500" style="display: block; margin: 0 auto;">
 
 Keep in mind that the distance between the 4 and 8 and 1 and 2 is the same. In the top line, the interval increases by 4 and in the second, it increases by 2. This is because both have been multiplied by 2. This time, we see that along with 4 and 1. 8 and 2 also coincide. So the same number line shows us two different ratios! Notice that these coinciding pairs of numbers that have “lined up” vertically are equivalent ratios!
 Double number lines are quicker to draw than discrete diagrams and can be extended easily to show many more equivalent ratios, so they are more efficient, especially for dealing with larger quantities. Like we multiply each number in the ratio by the same number to get new equivalent ratios, we do the same here and keep extending the double number line. Do remember to maintain the interval in the two lines. 
 
-<img src ="R03-extending-souble-number-line-to-show-equivalent-ratios-gif.gif" width="300" style="display: block; margin: 0 auto;">
+<img src ="R03-extending-souble-number-line-to-show-equivalent-ratios-gif.gif" width="500" style="display: block; margin: 0 auto;">
 
 
 In the diagram, we see two quantities with 4, which could confuse us about which it is referring to. But we need to remember that each number line represents a different quantity, and that the two 4’s have different meanings, spoons of milk powder and 4 cups of water.
@@ -63,7 +63,8 @@ For a paint mix of blue and yellow to get a shade of green as shown, we have the
 
 <img src ="R03-blue-andyellow-paint.jpg" width="300" style="display: block; margin: 0 auto;">
 
-<img src ="R03-blue-andyellow-paint-number-line.jpg" width="300" style="display: block; margin: 0 auto;">
+
+<img src ="R03-blue-andyellow-paint-number-line.jpg" width="600" style="display: block; margin: 0 auto;">
 
 The equivalent fraction of 10:30 for the ratio of blue to yellow is also shown in the double number line. 
 
@@ -87,4 +88,4 @@ One other thing about the tabular representation is that the numbers when going 
 
 For example, say you want to make a t- shirt with 1200 cm of yellow fabric. How much green fabric would you need? If we used a double number line, we would have to continue to draw a line until we reached 1200, which would be pretty long. But, in the case of a table, we simply add one more row and find the missing value by multiplying both numbers with 6 (This is because 200 x 6 = 1200, so we multiply the quantity for green with 200 as well, giving us 700 x 6 = 4200 cm).
 
-<img src ="R03-green-and-yellow-fabric-equivalence-table.jpg" width="300" style="display: block; margin: 0 auto;">
+<img src ="R03-green-and-yellow-fabric-equivalence-table.jpg" width="400" style="display: block; margin: 0 auto;">

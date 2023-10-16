@@ -10,7 +10,7 @@ weight: 255
 toc: true
 ---
 
-### Unit used to measure area
+## Unit used to measure area
 
 Just like with length, we can use any unit to measure area. In the case of length, we use units such as centimeters, inches, feet, meters, kilometers, and so on. To generalize the concept, we consider the "unit" as a standard value that serves as a reference for comparing other lengths. For example, if the length of a line joining two points is 5 units, it means it is five times greater than the standard unit, which could be a centimeter, an inch, or a kilometer. Based on this, the given value could be expressed as 5 mm, 5 inches, 5 cm, 5 meters, and so on.
 
@@ -82,8 +82,10 @@ At first, it might seem like the answer is 12 square inches. However, let's conf
 By examining the figures, we can see that each side of the square with 1-foot length can be filled with 12 squares in both directions. This means that the total number of squares needed to completely fill the figure is 144 squares, each with a side length of 1 inch.
 
 Therefore, we conclude that the space covered by 144 squares, each with a side length of 1 inch, is equal to the space covered by 1 square with a side length of 1 foot. 
+
 So, 1 square feet = 144 square inches 
-1 feet^2= 144 inch^2
+
+1 feet² = 144 inch²
 
 
 Let's analyze the relationships required to convert units from square feet to square inches.
@@ -99,7 +101,7 @@ So, simply multiplying the unit given in square feet by 12 is not sufficient. We
 
 To illustrate this, consider that the space that can accommodate 12 squares of 1-foot length can also hold 12 x 12 x 12, which equals 1728 squares of 1-inch length.
 
-12 feet^2 = 12 x 1 ft x 1 ft = 12 x 12 inch x 12 inch = 1728 inch^2
+12 feet² = 12 x 1 ft x 1 ft = 12 x 12 inch x 12 inch = 1728 inch²
 
 
 

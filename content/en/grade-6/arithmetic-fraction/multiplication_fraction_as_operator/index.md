@@ -1,6 +1,6 @@
 ---
 title: "02 Multiplication: Fraction as Operator"
-description: "Finding the fraction of a quantity is introduced as a form of multiplication, where the fraction acts as the operator on the whole number. This concept is explained using examples and visual diagrams. The article emphasizes the importance of understanding the context and appropriate expression when using multiplication with fractions."
+description: "Finding the fraction of a quantity is introduced as a form of multiplication, where the fraction acts as the operator on the whole number. This concept is explained using examples and visual diagrams. The article emphasizes the importance of understanding the context and appropriate expression when using multiplication with fractions. Multiplication as scaling is also explained in detail."
 lead: " "
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
@@ -17,16 +17,18 @@ Another way of thinking of this is looking at the line "This means that they eac
 Let's take an example of whole numbers to understand this better. When we think of taking 2 groups of 3 apples, we think of this as multiplication, so 2 groups of 3 apples are 2 x 3 = 6 apples. We repeat 3 two times. Now, similarly, if we think of 1/2 of 3 miles, this can easily be thought of as taking a fraction of a whole or multiplying a fraction by a whole number, giving us 1/2 x 3. That means 3 has to be repeated half or 1/2 times. That is 3 has to be halved. The answer is simply 3/2 since 1/2 x 3 is the same as 3 x 1/2 . We will see more of this in the further question and understand this visually as well.   
 Going back to the previous question of Lin and Han, which diagram do you think best describes taking half of 3?  
 
-<img src="F02-3-times-1by2-type1.png" width="300" style="display: block; margin: 0 auto;">
+Image A:
+<img src="F02-3-times-1by2-type1.png" width="400" style="display: block; margin: 0 auto;">
 
-<img src="F02-3-times-1by2-type2.png" width="300" style="display: block; margin: 0 auto;">
+Image B:
+<img src="F02-3-times-1by2-type2.png" width="400" style="display: block; margin: 0 auto;">
 
 
 Both diagrams seem to be giving the same final amount. But when we think of taking half of 3, then Image B makes more sense. Image A explains the context of 3 x 1/2 better.   
 Image B can also be thought of as 3 divided by 2, which is 3/2 . A division question can thus be rearranged and thought of as a multiplication problem. In such a case where the fraction is multiplied by the whole number (1/b x a), we can think of the fraction as the operator and the whole number as the quantity that is being operated on. 1/2 x 3 means 3 is being halved. 
 Look at the diagram below.  
 
-<img src="F02-four-by-three.png" width="300" style="display: block; margin: 0 auto;">
+<img src="F02-four-by-three.png" width="600" style="display: block; margin: 0 auto;">
 
 What expression do you think it shows? 
 
@@ -35,7 +37,7 @@ What expression do you think it shows?
 (ii) Does it show 4/3? How? It also shows 4/3 as there are 4 pieces shaded and each is 1/3 of a unit rectangle.
 
 (iii) Does it show 4 x 1/3? How? It shows the multiplication expression 4 x 1/3 because there are 4 groups of 1/3 shaded.
-    
+
 (iv) Does it show 1/3 x 4? How?  It shows the multiplication expression 1/3 x 4 since there is a total of 4, and 1/3 of the whole 4 is shaded.  
 
 The different expressions all define one image, but we use the appropriate expression as the context demands, which we will be practicing all along. For now, let us focus on the multiplication expression of the form 1/b x a. As we have already started exploring, 1/b x a means taking a fraction of a whole number, where the fraction acts as the operator and affects the whole number quantity. Keep this in mind while solving problems ahead.  
@@ -88,16 +90,16 @@ If she eats a third of that, how much did she eat? Look at the block diagrams be
 They all show the full pan cut in half. Then they show a half cut into 3 equal pieces and one of those pieces is shaded. In Images F and H, the pan is cut in half horizontally and in the other two, it is cut in half vertically. The cuts into 3 equal pieces are also sometimes horizontal and sometimes vertical. Nonetheless, all of them represent the amount of cake she has eaten, that is, a third of half (1/3 of 1/2) of the pan of cake.   
 By just looking at the diagram, can you now find out how much of the pan of cake had she eaten?  
 
-<img src="F02-third-of-half-type-one.png" width="300" style="display: block; margin: 0 auto;">
+<img src="F02-third-of-half-type-one.png" width="200" style="display: block; margin: 0 auto;">
 
 Looking at the above image, you may be tempted to say that the amount of the pan of cake she had eaten was 1/4, as there are 4 partitions shown. But you can easily see that they are not equal portions.   
 
-<img src="F02-third-of-half-type-one-explained.png" width="300" style="display: block; margin: 0 auto;">
+<img src="F02-third-of-half-type-one-explained.png" width="200" style="display: block; margin: 0 auto;">
 
 Amanda ate 1/3 of the remaining pan of cake. If we extend the partitions (denoting the thirds) to the whole pan as above, you can easily count that she had eaten 1/6 of the pan of the cake.  
 If Amanda ate 2/3 of the half of the pan of cake, the image would be as follows:   
 
-<img src="F02-two-third-of-half-type-one-explained.png" width="300" style="display: block; margin: 0 auto;">
+<img src="F02-two-third-of-half-type-one-explained.png" width="200" style="display: block; margin: 0 auto;">
 
 We simply take 2 parts out of the three. Out of the whole, it tells us that 2/6 have been eaten. What we did was take 2/3 of 1/2 , which is equal to 2/3 x 1/2 . Our answer was 2/6, when we can get by multiplying the numerator to numerator and denominator to denominator.   
 2/3 x 1/2 = (2 x 1)/(3 x 2) = 2/6   

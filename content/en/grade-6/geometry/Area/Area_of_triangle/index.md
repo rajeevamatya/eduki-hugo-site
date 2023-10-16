@@ -9,9 +9,8 @@ images: []
 weight: 270
 toc: true
 ---
-## Triangles
 
-### Area of right-angled triangle
+## Area of right-angled triangle
 
 We have a triangle with a right angle that measures 90° shown in the picture (hence the name of the triangle). How can we find the area of this shape? 
 
@@ -34,9 +33,7 @@ We can also use decomposition to find the area of a triangle. We'll use the same
 <img src="1_38_triangle_to_rectangle.gif" width="500" style="display: block; margin: 0 auto;">
 
 
-
-### Area of a triangle 
-
+## Area of a triangle 
 
 We know how to find the area of a right-angled triangle, but what about other types of triangles? Let's see if the same method works for them too.
 

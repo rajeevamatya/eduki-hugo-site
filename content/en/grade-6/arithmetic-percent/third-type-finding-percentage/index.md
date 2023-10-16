@@ -13,7 +13,9 @@ toc: true
 ## Finding percentage
 
 The previous types of percent problems we dealt with were of forms:
+
 P% of A = ?
+
 P% of ? = B
 
 This third type is to find out what the percentage itself is. For example, say 10 out of 50 students are absent in a class. What percentage of students are absent? This is asking us what percent is 10 out of 50. 
@@ -47,7 +49,7 @@ Lastly, let's confirm the answer using the double number line diagram.
 
 If 90 is 100%, they align on the two lines. We can divide 90 into 10 parts to show each part measuring 9 kg. This gives us 36 kg at the fourth mark after 0. Similarly, we can divide 100% into 10 parts, with each part measuring 10%. 36 kg now aligns with 40%!
 
-<img src ="P04-finding-percentage-through-number-line-gif.gif" width="400" style="display: block; margin: 0 auto;">
+<img src ="P04-finding-percentage-through-number-line-gif.gif" width="600" style="display: block; margin: 0 auto;">
 
 If we go back to our two other types of percent problems, we can compare all three now:
 
@@ -58,6 +60,7 @@ If we go back to our two other types of percent problems, we can compare all thr
 We see that it is essentially the same problem with different missing values. Once we know how to form the equation, solving it is not difficult. Like we did for types 1 and 2, we can also easily solve the third type numerically, without using number lines. We have already seen that the percentage can be found by multiplying the fraction by 100. If we look at the third equation, we have ?% of A = B
 
 ?/100 x A = B
+
 ? = B/A x 100
 
 We get the same thing using the equation, obviously! Since the answer is in percentage, we can write it as B/A x 100%.  
@@ -67,8 +70,3 @@ To conclude, if we need to find what percentage of a number B is of another numb
 A small interesting note:
 The reason multiplying by 100% works is because 100% simply means 100/100 as well. So, it is like multiplying a fraction by 1, which essentially gives the same value!
 Additionally, say you wrote B/A x 100% as B/A x 100/100. We could write it as (100B/A)/100, which gives us the percentage as 100B/A % OR B/Ax100 %! The same answer again!
-
-
-
-
-
