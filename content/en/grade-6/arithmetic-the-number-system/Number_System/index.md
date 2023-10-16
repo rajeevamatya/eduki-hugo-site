@@ -10,7 +10,7 @@ weight: 55
 toc: true
 ---
 
-## Division of Multi-digit Whole Numbers
+## Division of Whole Numbers
 
 In this section, we will learn how to divide multi-digit whole numbers. Let's start by reviewing basic division, using an example of dividing a two-digit number by a one-digit number. Imagine you have 10 candies to share with your friend. You both want an equal amount of candy. You can take turns taking one candy until all the candies are gone. 
 
@@ -31,7 +31,7 @@ Let's learn how to divide big numbers like 968 ÷ 22. It's just like dividing 10
 Next, we estimate how many 22s fit into 96 (either exactly or close enough). We can round 22 to 25 and 96 to 100 to help us here. How many 25s fit into 100? 4! So we try 22 x 4 = 88. We subtract 88 from 96 to get 8. We bring down the last digit, which is 8. Now we have 88 again. We know 22 x 4 = 88, so we don't need to estimate anymore. We end up with a quotient of 44. That's the answer!
 Don't worry if dividing big numbers seems hard. You'll get lots of practice and soon it will be easy-peasy!
 
-## Addition and Subtraction of Multi-digit Decimals
+## Addition and Subtraction of Decimals
 
 You already know how to add and subtract decimals from before. Let's go over it again and learn how to do more difficult problems. To add 2.26 and 1.89, we need to know what those numbers mean. 2.26 means 2 + 2/10 + 6/100, which is 2 ones, 2 tenths, and 6 hundredths. 1.89 means 1 one, 8 tenths, and 9 hundredths. Just like in whole number addition, we add the numbers with the same place value and make a new unit when we need to. Let’s add the two and see what it looks like.
 
@@ -60,7 +60,7 @@ Now, let's talk about subtraction. How do we calculate 2.26 - 1.31? Our estimate
 So the answer is 0.95, which matches our estimate. You can use this same process to subtract larger decimals too. 
 
 
-## Multiplication & Division of Multi-digit Decimals
+## Multiplication & Division of Decimals
 
 You might remember learning how to multiply and divide decimals in earlier grades. Let's go over the basics again. For example, how do we multiply 3.76 and 2.03? To do this, we use the standard algorithm for decimal multiplication, which requires the use of whole number multiplication. This means,  we treat the numbers like whole numbers and multiply 376 by 203. But what about the decimal points? We don't want to change their place value. So, we just ignore them for now and multiply like normal. After we get the product, we can then add the decimal point back in. For 3.76 and 2.03, we put the decimal point 4 numbers from the left in the product 76328 that we get. So, the answer is 7.6328.
 

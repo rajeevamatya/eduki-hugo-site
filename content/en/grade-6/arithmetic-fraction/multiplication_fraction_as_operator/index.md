@@ -29,10 +29,15 @@ Look at the diagram below.
 <img src="F02-four-by-three.png" width="300" style="display: block; margin: 0 auto;">
 
 What expression do you think it shows? 
-(i) Does it show 4 ÷ 3? How? It shows 4 ÷ 3 because there are 4 whole squares divided into 3 equal parts each with 1 of those parts shaded. 
-(ii) Does it show 4/3? How? It also shows 4/3 as there are 4 pieces shaded and each is 1/3 of a unit rectangle. 
-(iii) Does it show 4 x 1/3? How? It shows the multiplication expression 4 x 1/3 because there are 4 groups of 1/3 shaded.  
+
+(i) Does it show 4 ÷ 3? How? It shows 4 ÷ 3 because there are 4 whole squares divided into 3 equal parts each with 1 of those parts shaded.
+
+(ii) Does it show 4/3? How? It also shows 4/3 as there are 4 pieces shaded and each is 1/3 of a unit rectangle.
+
+(iii) Does it show 4 x 1/3? How? It shows the multiplication expression 4 x 1/3 because there are 4 groups of 1/3 shaded.
+    
 (iv) Does it show 1/3 x 4? How?  It shows the multiplication expression 1/3 x 4 since there is a total of 4, and 1/3 of the whole 4 is shaded.  
+
 The different expressions all define one image, but we use the appropriate expression as the context demands, which we will be practicing all along. For now, let us focus on the multiplication expression of the form 1/b x a. As we have already started exploring, 1/b x a means taking a fraction of a whole number, where the fraction acts as the operator and affects the whole number quantity. Keep this in mind while solving problems ahead.  
 
 ## Finding Fraction of a Quantity
