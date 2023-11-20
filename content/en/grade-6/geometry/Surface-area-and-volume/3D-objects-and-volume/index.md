@@ -12,7 +12,7 @@ toc: true
 
 ## Jumping from 2D to 3D: Introduction
 
-### Total Surafce Area
+### Total Surface Area
 
 It is easy enough now to find the area of different shapes, like triangles and rectangles. But in real life, things aren't always flat like a sheet of paper, shapes aren't drawn on flat sheets. You might see a triangle or rectangle in real life, but they won't be perfectly flat. There will be a little bit of thickness, even if it's very thin. 
                             
@@ -50,21 +50,14 @@ When we have a 3D object with different shaped faces, we find the area of each s
 
 While area is the space that a 2D object takes up in two directions, volume is how much space a 3D object takes up in three different directions. 
 
-
-For example, let's look at the Rubik's cube. We can find its volume by figuring out how many smaller cubes fit inside it. This is similar to us finding the area by asking how many squares of unit length fit inside a shape.If we think of each small cube having a side of 1 unit (in all three directions), we can say that 27 such cubes fit inside the whole cube. We can find this by adding 9 + 9 + 9 for each row. Or by multiplying the length, breadth, and height of the cube,  giving us 3 x 3 x 3.   
-
+For example, let's look at the Rubik's cube. We can find its volume by figuring out how many smaller cubes fit inside it. This is similar to us finding the area by asking how many squares of unit length fit inside a shape.If we think of each small cube having a side of 1 unit (in all three directions), we can say that 27 such cubes fit inside the whole cube. We can find this by adding 9 + 9 + 9 for each row. Or by multiplying the length, breadth, and height of the cube, giving us 3 x 3 x 3.   
 
 <img src="2_47_rubik's_cube_volume.jpg" width="300" style="display: block; margin: 0 auto;">
 
 So the volume of the cube is 27 square units? Not quite.The unit of volume is different from that of area or total surface area. Since we are measuring how much space is taken up by the cube in three directions, volume measures three different directions, hence the unit will be cubic units (cubic meaning 3 here). So the volume of the cube is 27 cubic units. If the smaller cube had a measure of 1 cm on all sides, the volume of the cube would be 27 cubic centimeters. 
 
-
 Interestingly, just like how the smaller squares used to measure the area of the bigger shape had an area of itself, the small cubes used to measure the volume of the Rubik's cube also has its own volume. Since we do not have even smaller cubes making up the small cubes, we use the length, breadth, and height method. This gives us 1 x 1 x 1 = 1 cubic unit as the volume of each small cube. 
-
 
 If this is a little confusing, don't worry. We'll look into this more when we talk about specific 3D objects later.
 
-
-
-
-
+...
