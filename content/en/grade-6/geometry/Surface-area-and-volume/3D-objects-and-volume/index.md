@@ -59,6 +59,3 @@ So the volume of the cube is 27 square units? Not quite.The unit of volume is di
 Interestingly, just like how the smaller squares used to measure the area of the bigger shape had an area of itself, the small cubes used to measure the volume of the Rubik's cube also has its own volume. Since we do not have even smaller cubes making up the small cubes, we use the length, breadth, and height method. This gives us 1 x 1 x 1 = 1 cubic unit as the volume of each small cube. 
 
 If this is a little confusing, don't worry. We'll look into this more when we talk about specific 3D objects later.
-
-
-Testing git
